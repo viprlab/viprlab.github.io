@@ -6,7 +6,7 @@ permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "http://viprlab.github.io"     # the base hostname & protocol for your site
-baseurl: "/site"                         # the subpath of your site, e.g. /blog
+baseurl: ""                         # the subpath of your site, e.g. /blog
 
 author:
     name:
