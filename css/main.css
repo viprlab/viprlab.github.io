@@ -193,7 +193,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .captioned-img dt { margin: 0; }
 
-.captioned-img img { display: block; margin: auto auto; padding: 0; border: none; }
+.captioned-img img { display: inline-block; margin: auto auto; padding: 0; border: none; }
 
 .aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
