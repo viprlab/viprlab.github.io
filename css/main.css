@@ -195,7 +195,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .captioned-img img { display: block; margin: auto auto; padding: 0; border: none; }
 
-.thumbnail-block { display: inline-block; margin: 1em auto; padding: 0; border: none; }
+.thumbnail-block { display: inline-block; margin: 3em auto; padding: 0; border: none; vertical-align:top; }
 
 .aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
