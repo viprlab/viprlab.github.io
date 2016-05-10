@@ -1,0 +1,8 @@
+<dl class="captioned-img thumbnail-block align{{include.align}}" style="width:{{include.width}}; height:{{include.height}}">
+
+<dt><a href="{{ include.href }}"><img src="{{ include.url }}" alt="{{ include.caption }}" /></a></dt>
+
+{% if include.caption %}
+<dd>{{ include.caption }}</dd>
+{% endif %}
+</dl>

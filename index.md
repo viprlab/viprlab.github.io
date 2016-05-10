@@ -11,10 +11,10 @@ Research in ViPr Lab focuses on the processing, analysis and understanding of vi
 ## Areas
 
 We work on a wide variety of research areas, particularly in the following specific topics:
-{% include image.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" max_width="120px"  %}
-{% include image.html url="images/surveillance.jpg" caption="Video Surveillance" max_width="120px"  %}
-{% include image.html url="images/aesthetics.jpg" caption="Computational Aesthetics" max_width="120px"  %}
-{% include image.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" max_width="120px"  %}
+{% include imagethumbnailblock.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" height="120px"  %}
+{% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" height="120px"  %}
+{% include imagethumbnailblock.html url="images/aesthetics.jpg" caption="Computational Aesthetics" height="120px"  %}
+{% include imagethumbnailblock.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" height="120px"  %}
 
 
 ## Prospective Students
