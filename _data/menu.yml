@@ -1,12 +1,10 @@
-- title: "Research"
+- title: "Papers"
   href: "/research/"
-
   subcategories:
   - subtitle: "Item 1"
     subhref: "/miscellany/item-1/"
   - subtitle: "Item 2"
     subhref: "/miscellany/item-2/"
-  
   
 - title: "CV"
   href: "/cv/"
