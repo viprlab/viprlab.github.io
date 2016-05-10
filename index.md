@@ -6,15 +6,23 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, Multimedia University. It resides at AR4004 in the Faculty of Computing and Informatics (FCI).
 
-## Contact
+Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society.
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+## Areas
+
+We work on a wide variety of research areas, particularly in the following specific topics:
+{% include image.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" max_width="120px"  %}
+{% include image.html url="images/surveillance.jpg" caption="Video Surveillance" max_width="120px"  %}
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+## Prospective Students
+
+We are looking for enthusiastic postgraduate students to join the lab. We have upcoming projects which may have funded positions. Please drop us an email ([Dr. John See] or [Dr. Wong Lai Kuan]) if you have any enquiries about our research or would like to join us.
+
+Undergraduate students can also be part of the group by means of final year thesis project or formal appointment via research funding.
+
+
+[Dr. John See]: johnsee@mmu.edu.my
+[Dr. Wong Lai Kuan]: lkwong@mmu.edu.my
