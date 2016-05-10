@@ -56,7 +56,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 
 html { overflow-y: scroll; }
 
-body { font-family: "EB Garamond", serif; font-size: x-large; line-height: 1.5; color: #222; background-color: #eee; margin: 0 0.75em; -webkit-text-size-adjust: 100%; }
+body { font-family: "EB Garamond", serif; font-size: large; line-height: 1.4; color: #222; background-color: #eee; margin: 0 0.75em; -webkit-text-size-adjust: 100%; }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 0.75em; }
 
@@ -187,7 +187,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-.captioned-img { text-align: center; border: none; font-size: 0.66em; overflow: hidden; }
+.captioned-img { text-align: center; border: none; font-size: smaller; overflow: hidden; }
 
 .captioned-img dd { padding: 2px 0px 3px 0px; margin: 0; }
 
