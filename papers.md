@@ -59,11 +59,7 @@ pubs:
 | Date | Location | Presenter | Description
 |:-|:-:|:-:|:-
 {% for pub in page.pubs %}
-| {% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}
-| {{pub.author}}
-| *{{pub.journal}}*
-| {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
+| {{pub.title}} | {{pub.author}} | {{pub.journal}} | {{pub.year}}
 {% endfor %}
 |===
 
