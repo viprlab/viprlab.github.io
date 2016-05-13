@@ -1,41 +1,55 @@
 ---
 layout: page
 permalink: /readinggroup/
-title: Reading Group
+title: "Reading Group"
 pubs:
 
-    - date:		"26 April 2016"
-      location:  "ViPr Lab"
-      presenter: "Magzhan"
-      paper:    "Rapid: Rating pictorial aesthetics using deep learning"
-	  authors: "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014" 
-	  url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-	  projsite: ""
-	  slides: "/files/magzhan-RAPID-compressed.pdf"
+    - title:   "Paper title in 3-7 words that sound like Clingon"
+      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
+      journal: "Transactions on Black Magic"
+      note:    "(presented at Oz)"
+      year:    "2016"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
 
-    - date:		"3 May 2016"
-      location:  "ViPr Lab"
-      presenter: "Saimunur"
-      paper:    "Action recognition with trajectory-pooled deep-convolutional descriptors"
-	  authors: "Wang, L., Qiao, Y., Tang, X. CVPR 2015"
-	  url: "http://wanglimin.github.io/papers/WangQT_CVPR15.pdf"
-	  projsite: "http://wanglimin.github.io/tdd/index.html"
-	  slides: "/files/saimun-tdd-readinggroup.pdf"
-	  
-	- date:		"10 May 2016"
-      location:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      presenter: "John"
-      paper:    "What makes an image popular?"
-	  authors: "WWW 2014"
-	  url: ""
-	  projsite: ""
-	  slides: ""
+    - title:   "Paper title in 3-7 words that sound like Clingon"
+      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
+      journal: "Transactions on Black Magic"
+      note:    "(presented at Oz)"
+      year:    "2015"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+
+    - title:   "Paper title in 3-7 words that sound like Clingon"
+      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
+      journal: "Transactions on Black Magic"
+      note:    "(presented at Oz)"
+      year:    "2014"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+
+    - title:   "Paper title in 3-7 words that sound like Clingon"
+      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
+      journal: "Transactions on Black Magic"
+      note:    "(presented at Oz)"
+      year:    "2013"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+
+    - title:   "Paper title in 3-7 words that sound like Clingon"
+      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
+      journal: "Transactions on Black Magic"
+      note:    "(presented at Oz)"
+      year:    "2012"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
 
 ---
 
-## Reading Group
+## Publications
 
 | Date | Location | Presenter | Description |
 |--|--|--|--| 
-{% for pub in page.pubs %}| {{pub.date}} | {{pub.location}} | {{pub.presenter}} | {{pub.paper}} | 
+{% for pub in page.pubs %}| {{pub.title}} | {{pub.author}} | {{pub.journal}} | {{pub.year}} | 
 {% endfor %}
+
