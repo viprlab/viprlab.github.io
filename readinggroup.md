@@ -10,7 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
 	  pub: "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014" 
 	  url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-	  projsite:
+	  projsite: ""
 	  slides: "/files/magzhan-RAPID-compressed.pdf"
 
     - date:		"3 May 2016"
@@ -26,10 +26,10 @@ reads:
       location:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       presenter: "John"
       paper:    "What makes an image popular?"
-	  
-url:
-	  projsite:
-	  slides: 
+	  pub: "WWW 2014"
+	  url: ""
+	  projsite: ""
+	  slides: ""
 
 ---
 

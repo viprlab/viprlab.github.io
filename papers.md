@@ -61,10 +61,3 @@ pubs:
 {% for pub in page.pubs %}| {{pub.title}} | {{pub.author}} | {{pub.journal}} | {{pub.year}} | 
 {% endfor %}
 
-| Date | Location | Presenter | Description
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-| Second body
-|===
