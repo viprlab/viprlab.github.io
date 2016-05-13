@@ -48,6 +48,18 @@ pubs:
 
 ## Publications
 
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
+
 {% for pub in page.pubs %}
 {% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
 {{pub.author}}<br />
