@@ -66,3 +66,11 @@ pubs:
 {% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
 {% endfor %}
 |===
+
+| Date | Location | Presenter | Description
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+| Second body
+|===
