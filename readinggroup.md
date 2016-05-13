@@ -10,7 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
 	  pub: "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014" 
 	  url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-	  projsite:
+	  projsite: ""
 	  slides: "/files/magzhan-RAPID-compressed.pdf"
 
     - date:		"3 May 2016"
@@ -27,9 +27,9 @@ reads:
       presenter: "John"
       paper:    "What makes an image popular?"
 	  pub: "WWW 2014"
-	  url:
-	  projsite:
-	  slides: 
+	  url: ""
+	  projsite: ""
+	  slides: ""
 
 ---
 
