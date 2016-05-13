@@ -63,6 +63,6 @@ pubs:
 | {{pub.author}}
 | *{{pub.journal}}*
 | {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}}) |
+{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
 {% endfor %}
 |===
