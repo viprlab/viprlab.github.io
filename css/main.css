@@ -90,7 +90,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 table { 
 	border: 1pt solid #666;
 }
-thead tr { background: #333; color: #EEE  }
+th { background: #333; color: #EEE  }
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 
