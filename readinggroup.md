@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /readinggroup/
-title: Papers
+title: Reading Group
 pubs:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
