@@ -1,8 +1,11 @@
 <dl class="captioned-img thumbnail-block align{{ include.align }}" style="width:{{ include.width }};">
 
-<dt><a href="{{ include.href }}"><img src="{{ include.url }}" alt="{{ include.caption }}" style="width:{{ include.width }}; height:{{ include.height }}"/>
+<dt><a href="{{ include.href }}"><img src="{{ include.url }}" alt="" style="width:{{ include.width }}; height:{{ include.height }}"/>
 {% if include.caption %}
-<dd>{{ include.caption }}</dd>
+<dd>{{ include.caption }}
+	{% if include.caption2 %}
+	<br>{{ include.caption2 }}
+</dd>
 {% endif %}
 </a></dt>
 </dl>
