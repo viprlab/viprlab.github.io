@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /readinggroup/
-title: "Reading Group"
+permalink: /papers/
+title: Papers
 pubs:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
