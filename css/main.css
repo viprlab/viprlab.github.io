@@ -87,6 +87,13 @@ code { padding: 1px 5px; }
 pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
+table { 
+	border: 1pt solid #666;
+}
+thead tr { background: #333; color: #EEE  }
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
 .icon > svg { display: inline-block; width: 0.75em; height: 0.75em; vertical-align: middle; }
 .icon > svg path { fill: #222; }
 

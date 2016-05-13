@@ -46,7 +46,7 @@ pubs:
 
 ---
 
-## Publications
+## Reading Group
 
 
 | Default aligned | Left aligned | Center aligned | Right aligned
