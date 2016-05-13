@@ -56,8 +56,9 @@ pubs:
 {% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
 {% endfor %}
 
-| Date | Location | Presenter | Description |
-|--|--|--|--| {% for pub in page.pubs %}| {{pub.title}} | {{pub.author}} | {{pub.journal}} | {{pub.year}} | {% endfor %}
+| Date | Location | Presenter | Description
+|-|:-|:-:|-: {% for pub in page.pubs %}| {{pub.title}} | {{pub.author}} | {{pub.journal}} | {{pub.year}} 
+{% endfor %}
 
 | Date | Location | Presenter | Description
 |-|:-|:-:|-:
