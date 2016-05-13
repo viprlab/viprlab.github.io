@@ -17,7 +17,9 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/fahmid.jpg" caption="Fahmid Farid<br>Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/saimun.jpg" caption="Saimunur Rahman<br>M.Sc student" width="120px" height="120px"  %}
 
-## Research Assistants / Undergraduate Researchers 
+## Research Assistants 
 * Khor Huai Qian
 * Hii Yong Lian
+* Gan Chee Yong
+* Lee Yew Chun
 
