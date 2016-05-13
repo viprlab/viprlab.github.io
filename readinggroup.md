@@ -10,7 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
 	  pub: "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014" 
 	  url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-	  projsite: ""
+	  projsite:
 	  slides: "/files/magzhan-RAPID-compressed.pdf"
 
     - date:		"3 May 2016"
@@ -23,27 +23,19 @@ reads:
 	  slides: "/files/saimun-tdd-readinggroup.pdf"
 	  
 	- date:		"10 May 2016"
-      location:  "ViPr Lab"
+      location:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       presenter: "John"
       paper:    "What makes an image popular?"
-	  pub: "WWW 2014"
-	  url: ""
-	  projsite: ""
-	  slides: ""
+	  
+url:
+	  projsite:
+	  slides: 
 
 ---
 
 ## Reading Group
 
-| Date | Location | Presenter | Description
-|:-|:-:|:-:|:-
-{% for read in page.reads %}
-| {{read.date}} | {{read.location}} | {{read.presenter}} | [read.paper]({{read.url}}) <br>{{read.pub}} <br>
-{% if read.projsite %} 
-	Project URL: ({{read.projsite}})
-{% endif %} 
-{% if read.slides %}
-	Slides: ({{read.slides}})
-{% endif %} 
+| Date | Location | Presenter | Description |
+|--|--|--|--| 
+{% for read in page.reads %}| {{read.date}} | {{read.location}} | {{read.presenter}} | {{read.paper}} | 
 {% endfor %}
-|===
