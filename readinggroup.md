@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /papers/
+permalink: /readinggroup/
 title: Papers
 pubs:
 
