@@ -2,68 +2,48 @@
 layout: page
 permalink: /readinggroup/
 title: Reading Group
-pubs:
+reads:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2016"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
+    - date:		"26 April 2016"
+      location:  "ViPr Lab"
+      presenter: "Magzhan"
+      paper:    "Rapid: Rating pictorial aesthetics using deep learning"
+	  pub: "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014" 
+	  url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
+	  projsite:
+	  slides: "/files/magzhan-RAPID-compressed.pdf"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2015"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2014"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2013"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2012"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
+    - date:		"3 May 2016"
+      location:  "ViPr Lab"
+      presenter: "Saimunur"
+      paper:    "Action recognition with trajectory-pooled deep-convolutional descriptors"
+	  pub: "Wang, L., Qiao, Y., Tang, X. CVPR 2015"
+	  url: "http://wanglimin.github.io/papers/WangQT_CVPR15.pdf"
+	  projsite: "http://wanglimin.github.io/tdd/index.html"
+	  slides: "/files/saimun-tdd-readinggroup.pdf"
+	  
+	- date:		"10 May 2016"
+      location:  "ViPr Lab"
+      presenter: "John"
+      paper:    "What makes an image popular?"
+	  pub: "WWW 2014"
+	  url:
+	  projsite:
+	  slides: 
 
 ---
 
 ## Reading Group
 
-
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-
-
-{% for pub in page.pubs %}
-{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
+| Date | Location | Presenter | Description
+|:-|:-:|:-:|:-
+{% for read in page.reads %}
+| {{read.date}} | {{read.location}} | {{read.presenter}} | [read.paper]({{read.url}}) <br>{{read.pub}} <br>
+{% if read.projsite %} 
+	Project URL: ({{read.projsite}})
+{% endif %} 
+{% if read.slides %}
+	Slides: ({{read.slides}})
+{% endif %} 
 {% endfor %}
+|===
