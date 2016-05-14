@@ -2,7 +2,7 @@
 layout: page
 permalink: /readinggroup/
 title: Reading Group
-pubs:
+reads:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
@@ -46,10 +46,10 @@ pubs:
 
 ---
 
-## Publications
+## Reading Group Schedule
 
 | Date | Location | Presenter | Description |
 |--|--|--|--| 
-{% for pub in page.pubs %}| {{pub.title}} | {{pub.author}} | {{pub.journal}} | {{pub.year}} | 
+{% for read in page.reads %}| {{read.title}} | {{read.author}} | {{read.journal}} | {{read.year}} | 
 {% endfor %}
 
