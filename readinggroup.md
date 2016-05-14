@@ -26,7 +26,8 @@ reads:
       paper:    "What makes an image popular?"
       details:    "Khosla, A., Das Sarma, A., Hamid, R. WWW 2014"
       url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
-      proj:     
+      proj:
+      slides: 	  
 
     - date:   "2016-05-17"
       venue:  "ViPr Lab"
