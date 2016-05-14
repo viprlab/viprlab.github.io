@@ -10,8 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
       details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
       url:     "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-      site:  
-      ss:	  
+      site:     
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
@@ -20,16 +19,14 @@ reads:
       details:    "Wang, L., Qiao, Y., Tang, X. CVPR 2015"
       url:     "http://wanglimin.github.io/papers/WangQT_CVPR15.pdf"
       site:     "http://wanglimin.github.io/tdd/index.html"
-      ss:
-	  
+
     - date:   "2016-05-10"
       venue:  "ViPr Lab"
       presenter: "John"
       paper:    "What makes an image popular?"
       details:    "Khosla, A., Das Sarma, A., Hamid, R. WWW 2014"
       url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
-      site:
-      ss:	  
+      site:     
 
     - date:   "2016-05-17"
       venue:  "ViPr Lab"
@@ -37,8 +34,7 @@ reads:
       paper:    "Video tutorial screening"
       details:    "TBC"
       url:     "http://publish-more-stuff.org"
-      site:  
-      ss:	  
+      site:     
 
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
@@ -46,8 +42,7 @@ reads:
       paper:    "TBC"
       details:    ""
       url:     "http://publish-more-stuff.org"
-      site:
-      ss:	  
+      site:     
 
 ---
 
