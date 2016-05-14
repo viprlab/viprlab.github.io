@@ -9,8 +9,6 @@ reads:
       presenter: "Magzhan"
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
       details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
-      url:     "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-	  proj: "/files/magzhan-RAPID-compressed.pdf"	
       slides: "/files/magzhan-RAPID-compressed.pdf"		  
 
     - date:   "2016-05-03"
@@ -51,6 +49,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj.size %} <br>[Project site]({{read.proj}}){:target="_blank"} {% endif %} {% if read.slides.size %} <br>[Slides]({{read.slides}}){:target="_blank"} {% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}<br>[Project site]({{read.proj}}){:target="_blank"} [Slides]({{read.slides}}){:target="_blank"} | 
 {% endfor %}
 
