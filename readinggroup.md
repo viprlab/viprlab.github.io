@@ -10,6 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
       details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"  
 	  url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
+	  proj:
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
@@ -33,14 +34,16 @@ reads:
       paper:    "Video tutorial screening"
       details:    "TBC"
       url:     "http://publish-more-stuff.org"
-
+      proj:
+	  
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
       presenter: "TBC"
       paper:    "TBC"
       details:    ""
       url:     "http://publish-more-stuff.org"   
-
+      proj:
+	  
 ---
 
 ## Reading Group Schedule
