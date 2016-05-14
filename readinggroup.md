@@ -11,7 +11,7 @@ reads:
       details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
       url:     "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
       proj:
-      slides: "/files/magzhan-RAPID-compressed.pdf" 	  
+      slides: "" 	  
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
