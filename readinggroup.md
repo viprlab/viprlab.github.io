@@ -50,6 +50,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | {{read.paper}}<br>{{read.details}} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}})<br>{{read.details}} | 
 {% endfor %}
 
