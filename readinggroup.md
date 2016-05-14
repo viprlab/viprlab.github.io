@@ -27,7 +27,7 @@ reads:
       details:    "Khosla, A., Das Sarma, A., Hamid, R. WWW 2014"
       url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
       proj:
-      slides: 	  
+      slides: "/files/magzhan-RAPID-compressed.pdf"	  
 
     - date:   "2016-05-17"
       venue:  "ViPr Lab"
