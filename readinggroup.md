@@ -8,8 +8,7 @@ reads:
       venue:  "ViPr Lab"
       presenter: "Magzhan"
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
-      details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
-      slides: "/files/magzhan-RAPID-compressed.pdf"		  
+      details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"  
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
@@ -25,23 +24,21 @@ reads:
       paper:    "What makes an image popular?"
       details:    "Khosla, A., Das Sarma, A., Hamid, R. WWW 2014"
       url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
-      proj:
+	  proj: "http://popularity.csail.mit.edu/"
         
     - date:   "2016-05-17"
       venue:  "ViPr Lab"
       presenter: "-"
       paper:    "Video tutorial screening"
       details:    "TBC"
-      url:     "http://publish-more-stuff.org"
-      proj:     
+      url:     "http://publish-more-stuff.org"    
 
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
       presenter: "TBC"
       paper:    "TBC"
       details:    ""
-      url:     "http://publish-more-stuff.org"
-      proj:     
+      url:     "http://publish-more-stuff.org"   
 
 ---
 
@@ -49,6 +46,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}<br>[Project site]({{read.proj}}){:target="_blank"} [Slides]({{read.slides}}){:target="_blank"} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}} {% if read.proj %} <br>[Project page]({{read.proj}}){:target="_blank"} {% endif %} | 
 {% endfor %}
 
