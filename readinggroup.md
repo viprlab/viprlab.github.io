@@ -32,16 +32,14 @@ reads:
       presenter: "-"
       paper:    "Video tutorial screening"
       details:    "TBC"
-      url:     "http://publish-more-stuff.org"
-      proj:     
+      url:     "http://publish-more-stuff.org" 
 
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
       presenter: "TBC"
       paper:    "TBC"
       details:    ""
-      url:     "http://publish-more-stuff.org"
-      proj:     
+      url:     "http://publish-more-stuff.org"   
 
 ---
 
@@ -49,6 +47,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}(<br>[Project site]({{read.proj}}){:target="_blank"}){% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>([Project site]({{read.proj}}){:target="_blank"}){% endif %} | 
 {% endfor %}
 
