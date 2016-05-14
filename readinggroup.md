@@ -45,6 +45,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}} {% if read.proj %} <br>[Project page]({{read.proj}}) {% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}} <br>[Project page]({{read.proj}}) | 
 {% endfor %}
 
