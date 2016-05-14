@@ -20,7 +20,7 @@ reads:
       details:    "Wang, L., Qiao, Y., Tang, X. CVPR 2015"
       url:     "http://wanglimin.github.io/papers/WangQT_CVPR15.pdf"
       proj:     "http://wanglimin.github.io/tdd/index.html"
-	  slides: "/files/saimun-tdd-readinggroup.pdf"
+	  slides: 
 
     - date:   "2016-05-10"
       venue:  "ViPr Lab"
