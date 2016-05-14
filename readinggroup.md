@@ -10,7 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
       details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
       url:     "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-      proj:  
+      proj:  "/files/magzhan-RAPID-compressed.pdf"	
       slides: "/files/magzhan-RAPID-compressed.pdf"		  
 
     - date:   "2016-05-03"
