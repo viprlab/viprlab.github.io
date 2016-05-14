@@ -49,7 +49,7 @@ reads:
 ## Reading Group Schedule
 
 | Date | Location | Presenter | Description |
-|--|--|--|--| 
+|-|:-|:-:|-: 
 {% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | {{read.paper}}<br>{{read.details}} | 
 {% endfor %}
 
