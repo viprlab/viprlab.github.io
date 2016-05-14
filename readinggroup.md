@@ -8,14 +8,14 @@ reads:
       venue:  "ViPr Lab"
       presenter: "Magzhan"
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
-      details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
+      details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. (MM 2014)"
       url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
       presenter: "Saimun"
       paper:    "Action recognition with trajectory-pooled deep-convolutional descriptors"
-      details:    "Wang, L., Qiao, Y., Tang, X. CVPR 2015"
+      details:    "Wang, L., Qiao, Y., Tang, X. (CVPR 2015)"
       url:     "http://wanglimin.github.io/papers/WangQT_CVPR15.pdf"
       proj:     "http://wanglimin.github.io/tdd/index.html"
 
@@ -23,7 +23,7 @@ reads:
       venue:  "ViPr Lab"
       presenter: "John"
       paper:    "What makes an image popular?"
-      details:    "Khosla, A., Das Sarma, A., Hamid, R. WWW 2014"
+      details:    "Khosla, A., Das Sarma, A., Hamid, R. (WWW 2014)"
       url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
       proj:    "http://popularity.csail.mit.edu" 
         
@@ -47,6 +47,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>([Project site]({{read.proj}}){:target="_blank"}){% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %} | 
 {% endfor %}
 
