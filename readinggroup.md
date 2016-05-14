@@ -10,7 +10,7 @@ reads:
       paper:    "Rapid: Rating pictorial aesthetics using deep learning"
       details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. MM 2014"
       url:     "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
-      proj:     
+      proj: ""    
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
@@ -50,6 +50,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %} <br>[Project site]({{read.proj}}){:target="_blank"} {% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj != nil %} <br>[Project site]({{read.proj}}){:target="_blank"} {% endif %} | 
 {% endfor %}
 
