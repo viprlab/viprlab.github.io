@@ -4,7 +4,7 @@ permalink: /readinggroup/
 title: Reading Group
 reads:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
+    - date:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       journal: "Transactions on Black Magic"
       note:    "(presented at Oz)"
@@ -12,7 +12,7 @@ reads:
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
+    - date:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       journal: "Transactions on Black Magic"
       note:    "(presented at Oz)"
@@ -20,7 +20,7 @@ reads:
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
+    - date:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       journal: "Transactions on Black Magic"
       note:    "(presented at Oz)"
@@ -28,7 +28,7 @@ reads:
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
+    - date:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       journal: "Transactions on Black Magic"
       note:    "(presented at Oz)"
@@ -36,7 +36,7 @@ reads:
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
+    - date:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       journal: "Transactions on Black Magic"
       note:    "(presented at Oz)"
@@ -50,6 +50,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |--|--|--|--| 
-{% for read in page.reads %}| {{read.title}} | {{read.author}} | {{read.journal}} | {{read.year}} | 
+{% for read in page.reads %}| {{read.date}} | {{read.author}} | {{read.journal}} | {{read.year}} | 
 {% endfor %}
 
