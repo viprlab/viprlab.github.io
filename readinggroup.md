@@ -11,7 +11,6 @@ reads:
       details:    "2016"
       url:     "http://publish-more-stuff.org"
       site:     "http://dx.doi.org"
-	  slides: ""
 
     - date:   "Paper title in 3-7 words that sound like Clingon"
       location:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
@@ -20,7 +19,6 @@ reads:
       details:    "2015"
       url:     "http://publish-more-stuff.org"
       site:     "http://dx.doi.org"
-	  slides:   ""
 	  
     - date:   "Paper title in 3-7 words that sound like Clingon"
       location:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
@@ -29,7 +27,6 @@ reads:
       details:    "2014"
       url:     "http://publish-more-stuff.org"
       site:     "http://dx.doi.org"
-	  slides: ""
 	  
     - date:   "Paper title in 3-7 words that sound like Clingon"
       location:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
@@ -38,7 +35,6 @@ reads:
       details:    "2013"
       url:     "http://publish-more-stuff.org"
       site:     "http://dx.doi.org"
-	  slides: ""
 
 ---
 
