@@ -32,7 +32,6 @@ reads:
       paper:    "Video tutorial screening"
       details:    "TBC"
       url:     "http://publish-more-stuff.org"
-      proj:	  
 
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
