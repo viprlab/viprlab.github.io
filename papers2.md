@@ -32,5 +32,10 @@ pubs:
 
 ## Publications
 
+{% for pub in page.pubs %}
+{{pub.year}}
+{% for entry in pub.groups %}
+{% endfor %}
+{% endfor %}
 
 
