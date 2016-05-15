@@ -3,7 +3,7 @@ layout: page
 permalink: /papers/
 title: Papers
 group:
-	- year: "2016"
+	- subgroup: "2016"
 	  pubs:
 		- title:   "Paper title in 3-7 words that sound like Clingon"
 		  author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
