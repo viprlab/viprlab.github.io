@@ -33,8 +33,9 @@ pubs:
 ## Publications
 
 {% for pub in page.pubs %}
-{{pub.year}}
+### {{pub.year}}
 {% for entry in pub.groups %}
+- {{entry.title}}
 {% endfor %}
 {% endfor %}
 
