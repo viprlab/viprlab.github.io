@@ -18,8 +18,8 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/saimun.jpg" caption="Saimunur Rahman" caption2="M.Sc student" width="120px" height="120px"  %}
 
 ## Research Assistants 
-* Khor Huai Qian
-* Hii Yong Lian
-* Gan Chee Yong
-* Lee Yew Chun
+{% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Research Assistant" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Research Assistant" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="UG Research Assistant" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/hiiyl.jpg" caption="Hii Yong Lian" caption2="UG Research Assistant" width="120px" height="120px"  %}
 
