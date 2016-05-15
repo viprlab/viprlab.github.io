@@ -12,7 +12,6 @@ pubs:
 		  year:    "2016"
 		  url:     "http://publish-more-stuff.org"
 		  doi:     "http://dx.doi.org"
-
 		- title:   "Paper title in 3-7 words that sound like Clingon"
 		  author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
 		  journal: "Transactions on Black Magic"
@@ -20,7 +19,6 @@ pubs:
 		  year:    "2015"
 		  url:     "http://publish-more-stuff.org"
 		  doi:     "http://dx.doi.org"
-
 	- year: "2015"
       groups:	
 		- title:   "Paper title in 3-7 words that sound like Clingon"
@@ -30,7 +28,6 @@ pubs:
 		  year:    "2014"
 		  url:     "http://publish-more-stuff.org"
 		  doi:     "http://dx.doi.org"
-
 		- title:   "Paper title in 3-7 words that sound like Clingon"
 		  author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
 		  journal: "Transactions on Black Magic"
@@ -38,20 +35,15 @@ pubs:
 		  year:    "2013"
 		  url:     "http://publish-more-stuff.org"
 		  doi:     "http://dx.doi.org"
-
 		- title:   "Paper title in 3-7 words that sound like Clingon"
 		  author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
 		  journal: "Transactions on Black Magic"
 		  year:    "2012"
 		  url:     "http://publish-more-stuff.org"
 		  doi:     "http://dx.doi.org"
-
 ---
 
 ## Publications
 
-{% for pub in page.pubs %}
-{% for entry in pub.groups %}
-{% endfor %}
-{% endfor %}
+
 
