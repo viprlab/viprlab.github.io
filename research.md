@@ -23,4 +23,3 @@ Write something here....
 
 - "Visual recognition of human activities using spatio-temporal information for low quality surveillance video", MOHE FRGS Grant, RM70,600.
 - "Aesthetics-driven stereoscopic image enhancement algorithms for better 3D experience", MOHE FRGS Grant, RM76,600.
-- 
