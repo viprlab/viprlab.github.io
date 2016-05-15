@@ -46,8 +46,11 @@ reads:
 
 ## Reading Group Schedule
 
+We have weekly paper reading group meet-ups. Feel free to join us, or if you would like to be part of the reading rotation. 
+
+Current T3-1516 Term meets at 11.00am on Tuesdays. 
+
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
 {% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %}{% if read.slides %}<br>[Slides]({{read.slides}}){:target="_blank"}{% endif %} | 
 {% endfor %}
-
