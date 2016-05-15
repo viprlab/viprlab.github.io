@@ -2,9 +2,7 @@
 layout: page
 permalink: /papers/
 title: Papers
-group:
-	- subgroup: "2016"
-	  pubs:
+pubs:
 		- title:   "Paper title in 3-7 words that sound like Clingon"
 		  author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
 		  journal: "Transactions on Black Magic"
