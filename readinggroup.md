@@ -30,16 +30,17 @@ reads:
     - date:   "2016-05-17"
       venue:  "ViPr Lab"
       presenter: "-"
-      paper:    "Video tutorial screening"
-      details:    "TBC"
-      url:     "http://publish-more-stuff.org" 
+      paper:    "Video Tutorial: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning"
+      details:    "Graduate Summer School 2012, Andrew Ng"
+      url:     "https://www.youtube.com/watch?v=n1ViNeWhC24"
+      slides: "http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10595.pdf"	  
 
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
       presenter: "TBC"
-      paper:    "TBC"
-      details:    ""
-      url:     "http://publish-more-stuff.org"   
+      paper:    "-"
+      details:    "-"
+      url:     ""   
 
 ---
 
@@ -47,6 +48,6 @@ reads:
 
 | Date | Location | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.venue}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %}{% if read.slides %}<br>[Slides]({{read.slides}}){:target="_blank"}{% endif %} | 
 {% endfor %}
 
