@@ -49,7 +49,6 @@ category:
 ## Publications
 
 {% for cat in page.category %} 
-### {{cat.year}}
 {% for pub in cat.pubs %}
 {% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
 {{pub.author}}<br />
