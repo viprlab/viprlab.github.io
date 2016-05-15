@@ -5,7 +5,6 @@ title: Papers
 category:
 	- year: "2016"
 	  pubs:
-
 		- title:   "Paper title in 3-7 words that sound like Clingon"
 		  author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
 		  journal: "Transactions on Black Magic"
@@ -49,9 +48,9 @@ category:
 
 ## Publications
 
-{% for c in page.category %} 
-### {{c.year}}
-{% for pub in page.category.pubs %}
+{% for cat in page.category %} 
+### {{cat.year}}
+{% for pub in cat.pubs %}
 {% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
