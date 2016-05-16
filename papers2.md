@@ -8,6 +8,7 @@ pubs:
         - title:   "Spatio-temporal Mid-Level Feature Bank for Action Recognition in Low Quality Video"
           author:  "Saimunur Rahman, John See"
           journal: "ICASSP 2016"
+          note: "Accepted"
           year:    "2016"
           url:     ""
           doi:     ""
@@ -36,6 +37,9 @@ pubs:
 {% for entry in pub.groups %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %}[{{entry.title}}]({{entry.url}}){% endif %}<br />
 {{entry.author}}<br />
+{{entry.journal}}&nbsp;
+{% if entry.note %} *({{entry.note}})*
+{% endif %} [(doi)]({{entry.doi}})
 {% endfor %}
 {% endfor %}
 
