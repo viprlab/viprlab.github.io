@@ -37,8 +37,8 @@ pubs:
 {% for entry in pub.groups %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %}[{{entry.title}}]({{entry.url}}){% endif %}<br />
 {{entry.author}}<br />
-{{entry.journal}}&nbsp;
-{% if entry.note %} *({{entry.note}})*
+{{entry.journal}}
+{% if entry.note %} ({{entry.note}}){:style="color:red;"}
 {% endif %} [(doi)]({{entry.doi}})
 {% endfor %}
 {% endfor %}
