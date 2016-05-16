@@ -38,8 +38,10 @@ pubs:
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %}[{{entry.title}}]({{entry.url}}){% endif %}<br />
 {{entry.author}}<br />
 {{entry.journal}}
-{% if entry.note %} **({{entry.note}})**{: style="color: red"}
-{% endif %} [(doi)]({{entry.doi}})
+{% if entry.note %} **({{entry.note}})**{: style="color: maroon"}
+{% endif %} 
+{% if entry.doi %} [(doi)]({{entry.doi}})
+{% endif %} 
 {% endfor %}
 {% endfor %}
 
