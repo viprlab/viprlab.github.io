@@ -18,7 +18,6 @@ pubs:
           note:    "(presented at Oz)"
           year:    "2015"
           url:     "http://publish-more-stuff.org"
-          doi:     "http://dx.doi.org"
     - year: "2015"
       groups:	
         - title:   "Paper title in 3-7 words that sound like Clingon"
@@ -39,9 +38,7 @@ pubs:
 {{entry.author}}<br />
 {{entry.journal}}
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"}
-{% endif %} 
-{% if entry.doi %} [(doi)]({{entry.doi}})
-{% endif %} 
+{% endif %} {% if entry.doi %} [(doi)]({{entry.doi}}) {% endif %} 
 {% endfor %}
 {% endfor %}
 
