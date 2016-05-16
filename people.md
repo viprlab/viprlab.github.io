@@ -18,8 +18,8 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/saimun.jpg" caption="Saimunur Rahman" caption2="M.Sc student" width="120px" height="120px"  %}
 
 ## Research Assistants 
-{% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="RA" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="RA" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Officer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Officer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="UG RA" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/hiiyl.jpg" caption="Hii Yong Lian" caption2="UG RA" width="120px" height="120px"  %}
 
