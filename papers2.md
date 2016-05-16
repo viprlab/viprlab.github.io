@@ -34,7 +34,8 @@ pubs:
 {% for pub in page.pubs %}
 ### {{pub.year}}
 {% for entry in pub.groups %}
-- {{entry.title}}
+{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %}[{{entry.title}}]({{entry.url}}){% endif %}<br />
+{{entry.author}}<br />
 {% endfor %}
 {% endfor %}
 
