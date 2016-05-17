@@ -35,13 +35,29 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
       groups:	
-        - title:   "Paper title in 3-7 words that sound like Clingon"
-          author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini" 
-          pub:     "Transactions on Black Magic"
-          note:    "(presented at Oz)"
-          year:    "2015"
-          url:     "http://publish-more-stuff.org"
-          type:     j
+        - title:   "Lost and Found: Identifying Objects in Long-Term Surveillance Videos"
+          author:  "Mohamad Mahdi Saemi, John See, Suyin Tan" 
+          pub:     "ICSIPA 2015"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lostfound_icsipa15.pdf"
+          type:     c
+          doi:     "http://dx.doi.org"
+		- title:   "Action recognition in low quality videos by jointly using shape, motion and texture features"
+          author:  "Saimunur Rahman, John See, Chiung Ching Ho" 
+          pub:     "ICSIPA 2015"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lowquality_icsipa15.pdf"
+          type:     c
+          doi:     "http://dx.doi.org"
+		- title:   "Obscura: A mobile game with camera based mechanics "
+          author:  "Albert Quek, John See" 
+          pub:     "GAMEPEC 2015"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/obscura_gamepec15.pdf"
+          type:     c
+          doi:     "http://dx.doi.org"
+		- title:   "The Invoker: Intuitive gesture mechanics for motion-based shooter RPG "
+          author:  "Albert Quek, John See" 
+          pub:     "GAMEPEC 2015"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/invoker_gamepec15.pdf"
+          type:     c
           doi:     "http://dx.doi.org"
 ---
 
