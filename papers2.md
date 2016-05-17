@@ -7,26 +7,27 @@ pubs:
       groups:
         - title:   "A Survey of Aesthetics-Driven Image Recomposition"
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
-          pub:     "ROVISP 2016"
+          pub:     "Multimedia Tools and Applications"
           type:     j
           url:     "http://link.springer.com/article/10.1007/s11042-016-3561-5"	
           note:    "Accepted"
-          doi:     "10.1007/s11042-016-3561-5"	  
+          doi:     "https://dx.doi.org/10.1007/s11042-016-3561-5"
+        - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
+          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
+          pub:     "ICCSE 2016"
+          type:     c 
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"
+          note:    "Accepted"		  
         - title:   "Spatio-temporal Mid-Level Feature Bank for Action Recognition in Low Quality Video"
           author:  "Saimunur Rahman, John See"
           pub:     "ICASSP 2016"
           type:     c 
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/stem_icassp16"
-        - title:   "Deep CNN Object"
-          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
-          pub:     "ICASSP 2016"
-          type:     c 
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/stem_icassp16"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/stem_icassp16.pdf"
         - title:   "Leveraging Textural Features for Recognizing Actions in Low Quality Videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
           pub:     "ROVISP 2016"
           type:     c
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/leverage_rovisp16"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/leverage_rovisp16.pdf"
         - title:   "Automatic Detection and Counting of Circular and Rectangular Steel Bars"
           author:  "Muhammad Faiz Ghazali, Wong Lai Kuan, John See"
           pub:     "ROVISP 2016"
