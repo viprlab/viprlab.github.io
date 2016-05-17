@@ -34,7 +34,13 @@ pubs:
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
-      groups:	
+      groups:
+        - title:   "On the effects of low video quality in human action recognition"
+          author:  "John See, Saimunur Rahman" 
+          pub:     "DICTA 2015"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/effects_dicta15.pdf"
+          type:     c
+          doi:     "http://dx.doi.org"	  
         - title:   "Lost and Found: Identifying Objects in Long-Term Surveillance Videos"
           author:  "Mohamad Mahdi Saemi, John See, Suyin Tan" 
           pub:     "ICSIPA 2015"
@@ -59,6 +65,7 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/invoker_gamepec15.pdf"
           type:     c
           doi:     "http://dx.doi.org"
+
 ---
 
 ## Publications
