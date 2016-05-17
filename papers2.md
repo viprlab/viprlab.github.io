@@ -10,21 +10,22 @@ pubs:
           journal: "ICASSP 2016"
           note: "Accepted"
           year:    "2016"
-          url:     ""
-          doi:     ""
-        - title:   "Paper title in 3-7 words that sound like Clingon"
-          author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-          journal: "Transactions on Black Magic"
-          note:    "(presented at Oz)"
-          year:    "2015"
+        - title:   "Leveraging Textural Features for Recognizing Actions in Low Quality Videos"
+          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
+          journal: "ROVISP 2016"
+          year:    "2016"
           url:     "http://publish-more-stuff.org"
+        - title:   "Automatic Detection and Counting of Circular and Rectangular Steel Bars"
+          author:  "Muhammad Faiz Ghazali, Wong Lai Kuan, John See"
+          journal: "ROVISP 2016"
+          year:    "2016"
     - year: "2015"
       groups:	
         - title:   "Paper title in 3-7 words that sound like Clingon"
           author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini" 
           journal: "Transactions on Black Magic"
           note:    "(presented at Oz)"
-          year:    "2014"
+          year:    "2015"
           url:     "http://publish-more-stuff.org"
           doi:     "http://dx.doi.org"
 ---
@@ -38,7 +39,7 @@ pubs:
 {{entry.author}}<br />
 {{entry.journal}}
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"}
-{% endif %} {% if entry.doi %} [(doi)]({{entry.doi}}) {% endif %} 
+{% endif %} {% if entry.doi %} [[doi]]({{entry.doi}}) {% endif %} 
 {% endfor %}
 {% endfor %}
 
