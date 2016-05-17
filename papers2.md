@@ -5,7 +5,7 @@ title: Papers
 pubs:
     - year: "2016"
       groups:
-	    - title:   "A Survey of Aesthetics-Driven Image Recomposition"
+        - title:   "A Survey of Aesthetics-Driven Image Recomposition"
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
           pub:     "ROVISP 2016"
           type:     j
