@@ -30,7 +30,7 @@ reads:
     - date:   "2016-05-17"
       venue:  "ViPr Lab"
       presenter: "-"
-      paper:    "Video Tutorial: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning"
+      paper:    "Video Tutorial: Deep learning, self-taught learning and unsupervised feature learning"
       details:    "Graduate Summer School 2012, Andrew Ng"
       url:     "https://www.youtube.com/watch?v=n1ViNeWhC24"
       slides: "http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10595.pdf"	  
@@ -38,7 +38,7 @@ reads:
     - date:   "2016-05-24"
       venue:  "ViPr Lab"
       presenter: "Fahmid"
-      paper:    "Kinect Based Calling Gesture Recognition for Taking Order Service of Elderly Care Robot"
+      paper:    "Kinect based calling gesture recognition for taking order service of elderly care robot"
       details:    "X. Zhao, A. M. Naguib, S. Lee. (ISRC 2014)"
       url:     "http://isrc.skku.ac.kr/publication/file/CP/ISRC-2014-CP-006-EN.pdf"
 
