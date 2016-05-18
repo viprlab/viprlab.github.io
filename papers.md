@@ -10,7 +10,7 @@ pubs:
           pub:     "Multimedia Tools and Applications"
           type:     j
           note:    "Accepted"
-          doi:     "https://dx.doi.org/10.1007/s11042-016-3561-5"
+          doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
         - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
           pub:     "ICCSE 2016"
@@ -86,7 +86,7 @@ pubs:
 {% for pub in page.pubs %}
 ### {{pub.year}}
 {% for entry in pub.groups %}
-{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}) {% else %} [{{entry.title}}]({{entry.doi}}) {% endif %} {% endif %}<br />
+{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}){:target="_blank"} {% else %} [{{entry.title}}]({{entry.doi}}){:target="_blank"} {% endif %} {% endif %}<br />
 {{entry.author}}<br />
 {{entry.pub}}
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"}
