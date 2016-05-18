@@ -40,7 +40,14 @@ reads:
       presenter: "Fahmid"
       paper:    "Kinect Based Calling Gesture Recognition for Taking Order Service of Elderly Care Robot"
       details:    "X. Zhao, A. M. Naguib, S. Lee. (ISRC 2014)"
-      url:     "http://isrc.skku.ac.kr/publication/file/CP/ISRC-2014-CP-006-EN.pdf"   
+      url:     "http://isrc.skku.ac.kr/publication/file/CP/ISRC-2014-CP-006-EN.pdf"
+
+    - date:   "2016-05-31"
+      venue:  "ViPr Lab"
+      presenter: "TBC"
+      paper:    "TBC"
+      details:    "-"
+      url:     ""  	  
 
 ---
 
