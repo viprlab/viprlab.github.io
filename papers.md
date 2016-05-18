@@ -9,7 +9,6 @@ pubs:
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
           pub:     "Multimedia Tools and Applications"
           type:     j
-          url:     ""	
           note:    "Accepted"
           doi:     "https://dx.doi.org/10.1007/s11042-016-3561-5"
         - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
@@ -27,7 +26,6 @@ pubs:
           author:  "Siyuan Qiu, Lu Wang, Lai-Kuan Wong"
           pub:     "SIGGRAPH Symposium on Interactive 3D Graphics and Games (i3D) 2016"
           type:     c 
-          url:     ""
           doi:     "http://dx.doi.org/10.1145/2856400.2876010"	
         - title:   "Leveraging Textural Features for Recognizing Actions in Low Quality Videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
@@ -44,7 +42,6 @@ pubs:
         - title:   "Semantics Preserving Warping for Stereoscopic Image Retargeting"
           author:  "Chun-Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
           pub:     "PSIVT 2015"
-          url:     ""
           type:     c
           doi:     "http://dx.doi.org/10.1007/978-3-319-29451-3_21"	
         - title:   "On the Effects of Low Video Quality in Human Action Recognition"
@@ -56,7 +53,6 @@ pubs:
         - title:   "Stereoscopic Image Warping for Enhancing Composition Aesthetics"
           author:  "Md Baharul Islam, Lai-Kuan Wong, Chee-Onn Wong, Kok-Lim Low" 
           pub:     "ACPR 2015"
-          url:     ""
           type:     c
         - title:   "Lost and Found: Identifying Objects in Long-Term Surveillance Videos"
           author:  "Mohamad Mahdi Saemi, John See, Suyin Tan" 
