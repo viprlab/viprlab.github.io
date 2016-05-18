@@ -35,7 +35,13 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
       groups:
-        - title:   "On the effects of low video quality in human action recognition"
+        - title:   "Semantics Preserving Warping for Stereoscopic Image Retargeting"
+          author:  "Chun-Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
+          pub:     "PSIVT 2015"
+          url:     "http://link.springer.com/chapter/10.1007/978-3-319-29451-3_21"
+          type:     c
+          doi:     "http://dx.doi.org/10.1007/978-3-319-29451-3_21"	
+        - title:   "On the Effects of Low Video Quality in Human Action Recognition"
           author:  "John See, Saimunur Rahman" 
           pub:     "DICTA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/effects_dicta15.pdf"
