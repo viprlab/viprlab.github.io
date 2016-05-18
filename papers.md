@@ -90,7 +90,7 @@ pubs:
 {% for pub in page.pubs %}
 ### {{pub.year}}
 {% for entry in pub.groups %}
-{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %}[{{entry.title}}]({{entry.url}}){% endif %}<br />
+{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}) {% else %} [{{entry.title}}]({{entry.doi}}) {% endif %} {% endif %}<br />
 {{entry.author}}<br />
 {{entry.pub}}
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"}
