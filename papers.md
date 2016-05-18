@@ -53,19 +53,19 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lostfound_icsipa15.pdf"
           type:     c
           doi:     "http://dx.doi.org"
-        - title:   "Action recognition in low quality videos by jointly using shape, motion and texture features"
+        - title:   "Action Recognition in Low Quality Videos by Jointly Using Shape, Motion and Texture Features"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho" 
           pub:     "ICSIPA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lowquality_icsipa15.pdf"
           type:     c
           doi:     "http://dx.doi.org"
-        - title:   "Obscura: A mobile game with camera based mechanics "
+        - title:   "Obscura: A Mobile Game with Camera based Mechanics "
           author:  "Albert Quek, John See" 
           pub:     "GAMEPEC 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/obscura_gamepec15.pdf"
           type:     c
           doi:     "http://dx.doi.org"
-        - title:   "The Invoker: Intuitive gesture mechanics for motion-based shooter RPG "
+        - title:   "The Invoker: Intuitive Gesture Mechanics for Motion-based Shooter RPG "
           author:  "Albert Quek, John See" 
           pub:     "GAMEPEC 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/invoker_gamepec15.pdf"
