@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /papers2/
+permalink: /papers/
 title: Papers
 pubs:
     - year: "2016"
