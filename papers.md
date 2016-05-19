@@ -94,7 +94,8 @@ pubs:
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}){:target="_blank"} {% else %} [{{entry.title}}]({{entry.doi}}){:target="_blank"} {% endif %} {% endif %}<br />
 {{entry.author}}<br />
 {{entry.pub}}
-{% if entry.note %} **({{entry.note}})**{: style="color: maroon"}
-{% endif %} {% if entry.doi %} [[doi]]({{entry.doi}}) {% endif %} 
+{% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} 
+{% if entry.url %} [[pdf]]({{entry.url}}) {% endif %} 
+{% if entry.doi %} [[doi]]({{entry.doi}}) {% endif %} 
 {% endfor %}
 {% endfor %}
