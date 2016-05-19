@@ -38,7 +38,7 @@ pubs:
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
-      groups:
+      groups:         
         - title:   "Semantics Preserving Warping for Stereoscopic Image Retargeting"
           author:  "Chun-Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
           pub:     "PSIVT 2015"
@@ -54,6 +54,11 @@ pubs:
           author:  "Md Baharul Islam, Lai-Kuan Wong, Chee-Onn Wong, Kok-Lim Low" 
           pub:     "ACPR 2015"
           type:     c
+        - title:   "Detection and Classification of Diabetic Retinopathy Anomalies using Bag-of-Words Model"
+          author:  "Fanji Ari Mukti, Chikkannan Eswaran, Noramiza Hashim" 
+          pub:     "Journal of Medical Imaging and Health Informatics"
+          type:     j
+          doi:     "http://dx.doi.org/10.1166/jmihi.2015.1491"	
         - title:   "Lost and Found: Identifying Objects in Long-Term Surveillance Videos"
           author:  "Mohamad Mahdi Saemi, John See, Suyin Tan" 
           pub:     "ICSIPA 2015"
