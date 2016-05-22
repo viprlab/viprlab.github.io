@@ -12,7 +12,7 @@ We have a number of funded and non-funded projects which are currently on-going.
 ### Long-term Video Surveillance (LoViS)
 
 {% include imagethumbnailblock.html align="left" url="/images/lovis.png" width="120px" height="120px"  %}
-In a long-term period, video surveillance takes on a different perspective. Habitual behaviors of people or permanent changes to objects can be observed while anomalous "out-of-norm" variations can also be traced. These variational patterns can be extracted over a long period of time to gain a high-level understanding of various factors at play.
+In a long-term period, video surveillance takes on a different perspective. Habitual behaviors of people or permanent changes to objects can be observed while anomalous "out-of-norm" variations can also be traced. These variational patterns can be extracted over a long period of time to gain a high-level understanding of various factors at play. {: style="font-size: 80%;}
 
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
 
