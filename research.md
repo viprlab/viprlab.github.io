@@ -11,7 +11,7 @@ We have a number of funded and non-funded projects which are currently on-going.
 
 ### Long-term Video Surveillance (LoViS)
 
-{% include image.html align="left" url="/images/lovis.png" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html align="left" url="/images/lovis.png" width="120px" height="120px"  %}
 Write some brief description here...
 
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
