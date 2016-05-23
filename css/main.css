@@ -213,4 +213,4 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
-#proj-description { font-size: 75%; }
+#proj-description { font-size: 80%; }
