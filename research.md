@@ -21,17 +21,20 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px"  %}
 Most state-of-the-art techniques for HAR have been designed to perform well under constrained and highly controlled conditions. However, these capabilities may not be easily replicable in real-world surveillance conditions (via devices such as CCTV or web cameras) where video quality may be naturally poor. We investigate new representations for recognizing human activities in adverse quality surveillance videos.
 {: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
 
 ### Aesthetics-driven Stereo Re-targeting and Re-composition
 
 Some description goes here...
 {: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
 
 ### Large-scale Aesthetic Evaluation of Photographs (LAttE)
 
 {% include imagethumbnailblock.html align="left" url="/images/latte.jpg" width="120px" height="120px"  %}
 Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
 {: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
 
 ## Funding/Grants
 
