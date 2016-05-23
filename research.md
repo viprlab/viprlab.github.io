@@ -17,7 +17,7 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
 
-{% include imagethumbnailblock.html align="left" url="/images/aquas.jpg" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px"  %}
 Most state-of-the-art techniques for HAR have been designed to perform well under constrained and highly controlled conditions. However, these capabilities may not be easily replicable in real-world surveillance conditions (via devices such as CCTV or web cameras) where video quality may be naturally poor. We investigate new representations for recognizing human activities in adverse quality surveillance videos.
 {: #proj-description}
 
