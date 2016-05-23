@@ -211,6 +211,10 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .alignright { float: right; margin-top: 0; margin-left: 1em; margin-bottom: 0.75em; }
 
+.clearleft { clear: left; margin: 0; padding: 0; }
+
+.clearright{ clear: right; margin: 0; padding: 0; }
+
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
 #proj-description { font-size: 80%; }
