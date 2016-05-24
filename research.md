@@ -23,9 +23,9 @@ Most state-of-the-art techniques for HAR have been designed to perform well unde
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-### Aesthetics-driven Stereo Re-targeting and Re-composition
+### Aesthetics-driven Stereo Retargeting and Recomposition
 
-Some description goes here...
+With the recent availability of stereoscopic displays such as 3D monitor, 3D television and stereo camera phone, there is an increasing need for stereo image retargeting and recomposition techniques. Image retargeting aims to resize an image to fit different aspect ratios and sizes while image recomposition attempts to computationally modify the composition of an image to mimic a professional photo. We investigate new aesthetic-driven methods for retargeting and recomposition for stereo image pairs.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
@@ -40,11 +40,12 @@ Image aesthetic evaluation is a research field which aims to design computationa
 
 ### External
 
-- "Large-scale computational aesthetic evaluation of photographs using deep learning", 2016-2018, MMU-GRA Funding, RM118,800.
+- "Large-scale computational aesthetic evaluation of photographs using deep learning", 2016-2018, MMU-GRA Funding, RM 118,800.
 - *Nora's MMU-GRA Project*
-- "Visual recognition of human activities using spatio-temporal information for low quality surveillance video", 2014-2016, MOHE FRGS Grant, RM70,600.
-- "Aesthetics-driven stereoscopic image enhancement algorithms for better 3D experience", 2013-2015, MOHE FRGS Grant, RM76,600.
+- "Visual recognition of human activities using spatio-temporal information for low quality surveillance video", 2014-2016, MOHE FRGS Grant, RM 70,600.
+- "Aesthetics-driven stereoscopic image enhancement algorithms for better 3D experience", 2013-2015, MOHE FRGS Grant, RM 76,600.
 
 ### Internal
-- "Mining for trends and anomalies from long-term video surveillance", 2014-2015, Mini Fund, RM6,440
-- "Analysis of variational patterns in long-term video surveillance data", 2013-2014, Mini Fund, RM7,970
+- "Virtual Reality Fire Safety Intervention Program", 2015-2016, Mini Fund, RM 20,000.
+- "Mining for Trends and Anomalies from Long-term Video Surveillance", 2014-2015, Mini Fund, RM 6,440
+- "Analysis of Variational Patterns in Long-term Video Surveillance Data", 2013-2014, Mini Fund, RM 7,970
