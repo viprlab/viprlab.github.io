@@ -5,6 +5,8 @@ permalink: /
 news:
    - date: 2016-05-25
      info: Website launched!
+   - date: 2016-05-24
+     info: Pre-launched!
 ---
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]. It resides at AR4004 in the [Faculty of Computing and Informatics] (FCI).
