@@ -217,7 +217,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .paddingright { margin: auto 1em auto 0em; }
 
-.newsdate { color: red }
+.newsdate { color: maroon }
 
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
