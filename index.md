@@ -25,7 +25,7 @@ We work on a wide variety of research areas, particularly in the following speci
 ## News
 
 {% for n in page.news %}
-- {{n.date}}:{:.newsdate} {{n.info}}
+- {{n.date}}: {{n.info}}
 
 ## Prospective Students
 
