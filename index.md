@@ -33,6 +33,10 @@ We are looking for enthusiastic postgraduate students to join the lab. We have u
 
 Undergraduate students can also be part of the group by means of final year thesis project or formal appointment via research funding.
 
+### Vacancies
+
+N/A
+
 [Multimedia University]: http://www.mmu.edu.my 
 [Faculty of Computing and Informatics]: http://fci.mmu.edu.my 
 [Dr. John See]: mailto:johnsee@mmu.edu.my 

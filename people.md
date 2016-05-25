@@ -24,3 +24,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="UG RA" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/hiiyl.jpg" caption="Hii Yong Lian" caption2="UG RA" width="120px" height="120px"  %}
 
+## Collaborators
+- Poo Kuan Hoong (Data Science Institute)
+- Chan Chee Seng (Universiti Malaya)
+- Hezri Amir (HezMedia Interactive)
