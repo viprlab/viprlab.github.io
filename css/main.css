@@ -203,7 +203,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .captioned-img img { display: block; margin: auto auto; padding: 0; border: none; }
 
-.thumbnail-block { display: inline-block; margin: auto 0em; padding: 0; border: none; vertical-align:top; }
+.thumbnail-block { display: inline-block; margin: auto 1em; padding: 0; border: none; vertical-align:top; }
 
 .aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
@@ -214,6 +214,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 .clearleft { clear: left; margin: 0; padding: 0; }
 
 .clearright{ clear: right; margin: 0; padding: 0; }
+
+.paddingoff { margin: auto 0em; }
 
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
