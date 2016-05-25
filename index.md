@@ -33,7 +33,7 @@ We are looking for enthusiastic postgraduate students to join the lab. We have u
 
 Undergraduate students can also be part of the group by means of final year thesis project or formal appointment via research funding.
 
-[Multimedia University]: http://www.mmu.edu.my
-[Faculty of Computing and Informatics]: http://fci.mmu.edu.my
-[Dr. John See]: mailto:johnsee@mmu.edu.my
-[Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my
+[Multimedia University]: http://www.mmu.edu.my {:target="_blank"}
+[Faculty of Computing and Informatics]: http://fci.mmu.edu.my {:target="_blank"}
+[Dr. John See]: mailto:johnsee@mmu.edu.my {:target="_blank"}
+[Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my {:target="_blank"}
