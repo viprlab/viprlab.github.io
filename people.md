@@ -27,5 +27,8 @@ permalink: /people/
 ## Collaborators
 - Poo Kuan Hoong (Data Science Institute, MMU)
 - Chan Chee Seng (Universiti Malaya)
+- Yandan Wang (Wenzhou University, China)
+- Anh Cat Le Ngo (University of Nottingham, UK)
+- Yap Moi Hoon (Manchester Metropolitan University, UK)
 - Abdul Aziz Abdul Rahman (TM R&D)
 - Hezri Amir (HezMedia Interactive)
