@@ -7,7 +7,7 @@ news:
      info: Website up and running!
 ---
 
-Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]. It resides at AR4004 in the [Faculty of Computing and Informatics] (FCI).
+Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
 
 Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society.
 
@@ -33,7 +33,7 @@ We are looking for enthusiastic postgraduate students to join the lab. We have u
 
 Undergraduate students can also be part of the group by means of final year thesis project or formal appointment via research funding.
 
-[Multimedia University]: http://www.mmu.edu.my {:target="_blank"}
-[Faculty of Computing and Informatics]: http://fci.mmu.edu.my {:target="_blank"}
-[Dr. John See]: mailto:johnsee@mmu.edu.my {:target="_blank"}
-[Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my {:target="_blank"}
+[Multimedia University]: http://www.mmu.edu.my 
+[Faculty of Computing and Informatics]: http://fci.mmu.edu.my 
+[Dr. John See]: mailto:johnsee@mmu.edu.my 
+[Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my
