@@ -19,6 +19,10 @@ We work on a wide variety of research areas, particularly in the following speci
 {% include imagethumbnailblock.html url="images/oculusrift.jpg" caption="VR & Gestures" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/game.jpg" caption="Game Research" width="120px" height="120px"  %}
 
+## News
+
+- 2016-05-25: Website launched!
+
 ## Prospective Students
 
 We are looking for enthusiastic postgraduate students to join the lab. We have upcoming projects (mid-2016) which may have funded positions. Please drop us an email ([Dr. John See] or [Dr. Wong Lai Kuan]) if you have any enquiries about our research or would like to join us.
