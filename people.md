@@ -25,11 +25,13 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/hiiyl.jpg" caption="Hii Yong Lian" caption2="UG RA" width="120px" height="120px"  %}
 
 ## Collaborators
+
 ### Local
 - Poo Kuan Hoong (Data Science Institute, MMU)
 - Chan Chee Seng (Universiti Malaya)
 - Abdul Aziz Abdul Rahman (TM R&D)
 - Hezri Amir (HezMedia Interactive)
+
 ### International
 - Wen-Huang Cheng (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
 - Yandan Wang (Wenzhou University, China)
