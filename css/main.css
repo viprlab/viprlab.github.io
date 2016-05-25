@@ -215,7 +215,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .clearright{ clear: right; margin: 0; padding: 0; }
 
-.paddingoff { margin: auto 0em; }
+.paddingright { margin: auto 1em auto 0em; }
 
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
