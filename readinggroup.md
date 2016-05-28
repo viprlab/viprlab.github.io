@@ -39,15 +39,15 @@ reads:
       venue:  "ViPr Lab"
       presenter: "Fahmid"
       paper:    "Kinect based calling gesture recognition for taking order service of elderly care robot"
-      details:    "X. Zhao, A. M. Naguib, S. Lee. (ISRC 2014)"
+      details:    "Zhao, X., Naguib, A.M., Lee, S. (ISRC 2014)"
       url:     "http://isrc.skku.ac.kr/publication/file/CP/ISRC-2014-CP-006-EN.pdf"
 
     - date:   "2016-05-31"
       venue:  "ViPr Lab"
-      presenter: "TBC"
-      paper:    "TBC"
-      details:    "-"
-      url:     ""  	  
+      presenter: "Magzhan"
+      paper:    "Studying aesthetics in photographic images using a computational approach"
+      details:    "Datta, R., Joshi, D., Li, J., & Wang, J. Z. (ECCV 2006)"
+      url:     "http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf"  	  
 
 ---
 
