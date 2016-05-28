@@ -7,8 +7,8 @@ reads:
     - date:   "2016-05-31"
       venue:  "ViPr Lab"
       presenter: "Magzhan"
-      paper:    "Studying aesthetics in photographic images using a computational approach<br>Assessing the aesthetic quality of photographs using generic image descriptors"
-      details:    "Datta, R., Joshi, D., Li, J., & Wang, J. Z. (ECCV 2006)<br>Marchesotti, L., Perronnin, F., Larlus, D., & Csurka, G (ICCV 2011)"
+      paper:    "Studying aesthetics in photographic images using a computational approach"
+      details:    "Datta, R., Joshi, D., Li, J., & Wang, J. Z. (ECCV 2006)"
       url:     "http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf"  
 
     - date:   "2016-05-24"
