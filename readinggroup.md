@@ -4,12 +4,35 @@ permalink: /readinggroup/
 title: Reading Group
 reads:
 
-    - date:   "2016-04-26"
+    - date:   "2016-05-31"
       venue:  "ViPr Lab"
       presenter: "Magzhan"
-      paper:    "Rapid: Rating pictorial aesthetics using deep learning"
-      details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. (MM 2014)"
-      url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
+      paper:    "Studying aesthetics in photographic images using a computational approach"
+      details:    "Datta, R., Joshi, D., Li, J., & Wang, J. Z. (ECCV 2006)"
+      url:     "http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf"  
+
+    - date:   "2016-05-24"
+      venue:  "ViPr Lab"
+      presenter: "Fahmid"
+      paper:    "Kinect based calling gesture recognition for taking order service of elderly care robot"
+      details:    "Zhao, X., Naguib, A.M., Lee, S. (ISRC 2014)"
+      url:     "http://isrc.skku.ac.kr/publication/file/CP/ISRC-2014-CP-006-EN.pdf"
+
+    - date:   "2016-05-17"
+      venue:  "ViPr Lab"
+      presenter: "-"
+      paper:    "Video Tutorial: Deep learning, self-taught learning and unsupervised feature learning"
+      details:    "Graduate Summer School 2012, Andrew Ng"
+      url:     "https://www.youtube.com/watch?v=n1ViNeWhC24"
+      slides: "http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10595.pdf"	  
+
+    - date:   "2016-05-10"
+      venue:  "ViPr Lab"
+      presenter: "John"
+      paper:    "What makes an image popular?"
+      details:    "Khosla, A., Das Sarma, A., Hamid, R. (WWW 2014)"
+      url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
+      proj:    "http://popularity.csail.mit.edu" 
 
     - date:   "2016-05-03"
       venue:  "ViPr Lab"
@@ -19,35 +42,12 @@ reads:
       url:     "http://wanglimin.github.io/papers/WangQT_CVPR15.pdf"
       proj:     "http://wanglimin.github.io/tdd/index.html"
 
-    - date:   "2016-05-10"
-      venue:  "ViPr Lab"
-      presenter: "John"
-      paper:    "What makes an image popular?"
-      details:    "Khosla, A., Das Sarma, A., Hamid, R. (WWW 2014)"
-      url:     "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6890&rep=rep1&type=pdf"
-      proj:    "http://popularity.csail.mit.edu" 
-        
-    - date:   "2016-05-17"
-      venue:  "ViPr Lab"
-      presenter: "-"
-      paper:    "Video Tutorial: Deep learning, self-taught learning and unsupervised feature learning"
-      details:    "Graduate Summer School 2012, Andrew Ng"
-      url:     "https://www.youtube.com/watch?v=n1ViNeWhC24"
-      slides: "http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10595.pdf"	  
-
-    - date:   "2016-05-24"
-      venue:  "ViPr Lab"
-      presenter: "Fahmid"
-      paper:    "Kinect based calling gesture recognition for taking order service of elderly care robot"
-      details:    "Zhao, X., Naguib, A.M., Lee, S. (ISRC 2014)"
-      url:     "http://isrc.skku.ac.kr/publication/file/CP/ISRC-2014-CP-006-EN.pdf"
-
-    - date:   "2016-05-31"
+    - date:   "2016-04-26"
       venue:  "ViPr Lab"
       presenter: "Magzhan"
-      paper:    "Studying aesthetics in photographic images using a computational approach"
-      details:    "Datta, R., Joshi, D., Li, J., & Wang, J. Z. (ECCV 2006)"
-      url:     "http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf"  	  
+      paper:    "Rapid: Rating pictorial aesthetics using deep learning"
+      details:    "Lu, X., Lin, Z., Jin, H., Yang, J., & Wang, J. Z. (MM 2014)"
+      url: "http://www.personal.psu.edu/xxl5086/paper/fp245-lu.pdf"
 
 ---
 
