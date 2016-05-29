@@ -4,7 +4,14 @@ permalink: /readinggroup/
 title: Reading Group
 reads:
 
-    - date:   "2016-05-31"
+    - date:   "2016-06-07"
+      venue:  "ViPr Lab"
+      presenter: "TBC"
+      paper:    "TBC"
+      details:    " "
+      url:     "" 
+
+	- date:   "2016-05-31"
       venue:  "ViPr Lab"
       presenter: "Magzhan"
       paper:    "Studying aesthetics in photographic images using a computational approach"
@@ -51,7 +58,7 @@ reads:
 
 ---
 
-We have weekly paper reading group meet-ups. Feel free to join us, or if you would like to be part of the reading rotation. 
+We have a paper reading group that meets every week. Feel free to join us, or if you would like to be part of the reading rotation. 
 Current T3-1516 Term meets at **11.00am on Tuesdays**. 
 
 ## Schedule
