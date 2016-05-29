@@ -219,7 +219,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .newsdate { color: maroon }
 
-.hilite { color: maroon }
+.hilite { color: red }
 
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
