@@ -11,9 +11,9 @@ Here we are, embarking on a new start to research life @ AR4004. Research should
 
 Our ethos revolves around the following points that we think are essential to build a strong research group:
 
-- Supporting faculty-postgraduate-undergraduate research cohesion
-- Conducive research environment
-- Paper reading group -- Learn to do better research by first...reading more.
+- Faculty-postgraduate-undergraduate research cohesion *Projects are not independent work. They should involve everyone.*
+- Persuasive research environment -- *People learn best by example. A little dose of competition wouldn't hurt.*
+- Paper reading group -- *To do better research, start reading more.*
 
 {% include image.html url="http://www.cayoanimalwelfaresociety.org/wp-content/uploads/2014/09/EyelashViper2.jpg
-" max_width="480px" %}
+" max_width="240px" %}
