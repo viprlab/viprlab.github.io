@@ -127,6 +127,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .post h1, h2, h3, h4, h5, h6 { margin-top: 1.35em; margin-bottom: 0.3em; }
 
+.post em, strong { color: #b6321c }
+
 .post-list { margin-left: 0; list-style: none; }
 .post-list > li { margin-bottom: 1.5em; }
 
