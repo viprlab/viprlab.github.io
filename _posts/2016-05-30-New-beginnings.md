@@ -11,7 +11,7 @@ Here we are, embarking on a new start to research life @ AR4004. Research should
 
 Our ethos revolves around the following points that we think are essential to build a cohesive research group with strong output:
 
-- Faculty-postgraduate-undergraduate research cohesion *Projects are not independent work. They should involve everyone across the board if possible.*
+- Postgraduate-undergraduate-faculty research cohesion -- *Projects are not independent work. They should involve everyone across the board if possible.*
 - Persuasive research environment -- *People learn best from examples. A little dose of healthy competition wouldn't hurt.*
 - Paper reading group -- *To do better research, start reading more.*
 
