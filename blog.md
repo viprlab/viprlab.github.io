@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-The much awaited blog is under construction...
+Here's our simple blog with random things that we would like to share with you...
 
 <ul class="listing">
 {% for post in site.posts %}
