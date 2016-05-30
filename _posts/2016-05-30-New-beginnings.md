@@ -14,3 +14,6 @@ Our ethos revolves around the following points that we think are essential to bu
 - Supporting faculty-postgraduate-undergraduate research cohesion
 - Conducive research environment
 - Paper reading group -- Learn to do better research by first...reading more.
+
+{% include image.html url="http://www.cayoanimalwelfaresociety.org/wp-content/uploads/2014/09/EyelashViper2.jpg
+" max_width="480px" %}
