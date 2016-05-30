@@ -15,6 +15,6 @@ Our ethos revolves around the following points that we think are essential to bu
 - Persuasive research environment -- *People learn best from examples. A little dose of healthy competition wouldn't hurt.*
 - Paper reading group -- *To do better research, start reading more.*
 
-Before returning to my work, here's a nice pic of a viper.
+Before I get back to my work, here's a nice pic of a viper.
 {% include image.html url="http://www.cayoanimalwelfaresociety.org/wp-content/uploads/2014/09/EyelashViper2.jpg
 " max_width="240px" %}
