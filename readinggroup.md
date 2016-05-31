@@ -3,13 +3,24 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
-    - date: "2016-06-07"
+    - date: "2016-06-21"
       venue: "ViPr Lab"
-      presenter: "TBC"
+      presenter: "Chun Hau"
       paper:    "TBC"
       details: "TBC"
       url:  "" 
-
+    - date: "2016-06-14"
+      venue: "ViPr Lab"
+      presenter: "Saimun"
+      paper:    "TBC"
+      details: "TBC"
+      url:  "" 
+    - date: "2016-06-07"
+      venue: "ViPr Lab"
+      presenter: "John"
+      paper:    "TBC"
+      details: "TBC"
+      url:  ""
     - date:   "2016-05-31"
       venue:  "ViPr Lab"
       presenter: "Magzhan"
