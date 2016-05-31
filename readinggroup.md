@@ -3,13 +3,12 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
-
-    - date:   "2016-06-07"
-      venue:  "ViPr Lab"
+    - date: "2016-06-07"
+      venue: "ViPr Lab"
       presenter: "TBC"
       paper:    "TBC"
-      details:    " "
-      url:     "" 
+      details: "TBC"
+      url:  "" 
 
 	- date:   "2016-05-31"
       venue:  "ViPr Lab"
