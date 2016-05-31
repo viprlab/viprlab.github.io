@@ -4,10 +4,10 @@ permalink: /readinggroup/
 title: Reading Group
 reads:
     - date: "2016-06-21"
-      venue: "ViPr Lab"
-      presenter: "Chun Hau"
-      paper:    "TBC"
-      details: "TBC"
+      venue: "-"
+      presenter: "-"
+      paper:    "NO MEETING (Postgraduate Colloquium)"
+      details: ""
       url:  "" 
     - date: "2016-06-14"
       venue: "ViPr Lab"
