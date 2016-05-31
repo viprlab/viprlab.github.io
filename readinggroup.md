@@ -10,7 +10,7 @@ reads:
       details: "TBC"
       url:  "" 
 
-	- date:   "2016-05-31"
+    - date:   "2016-05-31"
       venue:  "ViPr Lab"
       presenter: "Magzhan"
       paper:    "Studying aesthetics in photographic images using a computational approach"
