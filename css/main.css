@@ -223,8 +223,6 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .hilite { color: #b6321c }
 
-span.authors:contains("John") { font-weight: bold; }
-
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
 #proj-description { font-size: 80%; }
