@@ -13,7 +13,7 @@ reads:
       venue: "ViPr Lab"
       presenter: "Saimun"
       paper:    "Real-time action recognition with enhanced motion vector CNNs"
-      details: "Zhang, B., Wang, L., Wang, Z., Qiao, Y. and Wang, H. "
+      details: "Zhang, B., Wang, L., Wang, Z., Qiao, Y. and Wang, H. (CVPR 2016)"
       url:  "http://wanglimin.github.io/papers/ZhangWWQW_CVPR16.pdf" 
     - date: "2016-06-07"
       venue: "ViPr Lab"
