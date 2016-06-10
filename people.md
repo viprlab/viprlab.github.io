@@ -28,12 +28,14 @@ permalink: /people/
 
 ### Local
 - Poo Kuan Hoong (Data Science Institute, MMU)
-- Chan Chee Seng (Universiti Malaya)
+- Chan Chee Seng (FSKTM, Universiti Malaya)
+- Lim Einly (Asian Cardiac, Universiti Malaya)
 - Abdul Aziz Abdul Rahman (TM R&D)
 - Hezri Amir (HezMedia Interactive)
 
 ### International
 - Wen-Huang Cheng (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
+- [Leow Wee Kheng](https://www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
 - Yandan Wang (Wenzhou University, China)
 - Anh Cat Le Ngo (University of Nottingham, UK)
 - Yap Moi Hoon (Manchester Metropolitan University, UK)
