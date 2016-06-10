@@ -69,7 +69,7 @@ reads:
 
 ---
 
-We have a paper reading group that meets every week. Feel free to join us, or if you would like to be part of the reading rotation. <br>
+We have a paper reading group that meets every week at ViPr Lab. Feel free to join us, or if you would like to be part of the reading rotation. <br>
 T3-1516 term meets at **11.00am on Tuesdays**.<br>
 T1-1617 term meets at **11.30am on Wednesdays**.   
 
