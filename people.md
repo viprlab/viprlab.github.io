@@ -27,14 +27,14 @@ permalink: /people/
 ## Collaborators
 
 ### Local
-- Poo Kuan Hoong (Data Science Institute, MMU)
-- Chan Chee Seng (FSKTM, Universiti Malaya)
-- Lim Einly (Asian Cardiac, Universiti Malaya)
+- [Poo Kuan Hoong](pesona.mmu.edu.my/~khpoo/){:target="_blank"} (Data Science Institute, MMU)
+- [Chan Chee Seng](web.fsktm.um.edu.my/~cschan/){:target="_blank"} (FSKTM, Universiti Malaya)
+- [Lim Einly](www.asiancardiac.org/){:target="_blank"} (Asian Cardiac, Universiti Malaya)
 - Abdul Aziz Abdul Rahman (TM R&D)
 - Hezri Amir (HezMedia Interactive)
 
 ### International
-- [Wen-Huang Cheng](www.citi.sinica.edu.tw/~whcheng/index.html) (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
+- [Wen-Huang Cheng](www.citi.sinica.edu.tw/~whcheng/index.html){:target="_blank"} (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
 - [Leow Wee Kheng](www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
 - [Yap Moi Hoon](www2.docm.mmu.ac.uk/STAFF/M.Yap/){:target="_blank"} (Manchester Metropolitan University, UK)
 - Yandan Wang (Wenzhou University, China)
