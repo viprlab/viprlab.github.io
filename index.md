@@ -35,8 +35,10 @@ Undergraduate students can also be part of the group by means of final year thes
 
 ## Vacancies
 
-We do not have any vacancies at the moment.
+We have [TWO vacancies]{:target="_blank"} for project SHERLOCK on video analytics for surveillance in smart cities. Interested candidates can fill in the online application form at [https://goo.gl/3il2R9]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
 
+[https://goo.gl/3il2R9]: https://goo.gl/3il2R9
+[TWO vacancies]: http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf
 [Multimedia University]: http://www.mmu.edu.my 
 [Faculty of Computing and Informatics]: http://fci.mmu.edu.my 
 [Dr. John See]: mailto:johnsee@mmu.edu.my 
