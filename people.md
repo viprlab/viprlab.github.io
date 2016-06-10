@@ -34,9 +34,10 @@ permalink: /people/
 - Hezri Amir (HezMedia Interactive)
 
 ### International
-- Wen-Huang Cheng (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
-- [Leow Wee Kheng](https://www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
+- [Wen-Huang Cheng](www.citi.sinica.edu.tw/~whcheng/index.html) (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
+- [Leow Wee Kheng](www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
+- [Yap Moi Hoon](www2.docm.mmu.ac.uk/STAFF/M.Yap/){:target="_blank"} (Manchester Metropolitan University, UK)
 - Yandan Wang (Wenzhou University, China)
 - Anh Cat Le Ngo (University of Nottingham, UK)
-- Yap Moi Hoon (Manchester Metropolitan University, UK)
+
 
