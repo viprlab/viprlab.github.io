@@ -35,7 +35,7 @@ Undergraduate students can also be part of the group by means of final year thes
 
 ## Vacancies
 
-We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. Interested candidates can fill in the online application form at [https://goo.gl/3il2R9]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
+{% include imagethumbnailblock.html align="left" url="/images/sherlock_postingImg.jpg" width="100px" height="auto" padding="right" %} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. Interested candidates can fill in the online application form at [https://goo.gl/3il2R9]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
 
 [https://goo.gl/3il2R9]: https://goo.gl/3il2R9
 [TWO vacancies]: http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf
