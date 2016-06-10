@@ -35,7 +35,7 @@ Undergraduate students can also be part of the group by means of final year thes
 
 ## Vacancies
 
-{% include imagethumbnailblock.html align="left" url="/images/sherlock_postingImg.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf" width="120px" height="auto" padding="right" %}{:target="_blank"} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. 
+{% include imagethumbnailblock.html align="left" url="/images/sherlock_postingImg.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf" width="120px" height="auto" padding="right" %} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. 
 
 Interested candidates can fill in the online application form at [https://goo.gl/3il2R9]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
 {% include clearfloat.html prevfloat="left" %}
