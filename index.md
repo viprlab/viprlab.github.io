@@ -4,7 +4,9 @@ title: About
 permalink: /
 news:
    - date: 2016-05-26
-     info: Website up and running!
+     info: Website up and running.
+   - date: 2016-05-27
+     info: Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau and Dr. CO Wong) has won a Gold Award at ITEX 2016!
 ---
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
