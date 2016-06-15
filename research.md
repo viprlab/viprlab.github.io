@@ -40,9 +40,9 @@ Image aesthetic evaluation is a research field which aims to design computationa
 ## Funding/Grants
 
 ### External
-- "SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities", 2016-2018, TM R&D Fund, RM 229,726.
-- "Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video", 2014-2016, MOHE FRGS Grant, RM 70,600.
-- "Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience", 2013-2015, MOHE FRGS Grant, RM 76,600.
+- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, RM 229,726.
+- **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, RM 70,600.
+- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant, RM 76,600.
 
 ### Internal
 - "Virtual Reality Fire Safety Intervention Program", 2015-2016, Mini Fund, RM 20,000.
