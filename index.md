@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visual Processing Lab
+title: ViPr Lab
 permalink: /
 news:
    - date: 2016-06-01
