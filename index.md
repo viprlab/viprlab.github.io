@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: **Vi**{:.hilite}sual Processing Lab
 permalink: /
 news:
    - date: 2016-06-01
@@ -13,7 +13,7 @@ news:
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
 
-Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [projects](/research/), [papers](/papers/) and [reading group](/readinggroup/) and [blog](/blog/)! 
+Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [projects](/research/), [papers](/papers/), [reading group](/readinggroup/) and [blog](/blog/)! 
 
 ## Areas
 
