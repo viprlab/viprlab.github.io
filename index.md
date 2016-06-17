@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Vi**{:.hilite}sual Processing Lab
+title: Visual Processing Lab
 permalink: /
 news:
    - date: 2016-06-01
