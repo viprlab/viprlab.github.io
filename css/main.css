@@ -94,6 +94,7 @@ table {
 th { background: #333; color: #EEE }
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
+td { padding: 1px; }
 
 .icon > svg { display: inline-block; width: 0.75em; height: 0.75em; vertical-align: middle; }
 .icon > svg path { fill: #222; }
