@@ -45,6 +45,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 - **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant, RM 76,600.
 
 ### Internal
+- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, *Pending*{:.highlight ne}
 - **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-2018, MMU-GRA Funding, RM 118,800.
 - **Analysis and Development of a Monitoring System using Dynamic Hand Gestures**{:.hilite}, 2015-2017, MMU-GRA Funding, RM 90,000.
 - **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2016, Mini Fund, RM 20,000.
