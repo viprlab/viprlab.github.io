@@ -5,9 +5,9 @@ title: Reading Group
 reads:
     - date: "29 Jun"
       time: "1130"
-      presenter: "TBC"
-      paper:    "TBC"
-      details: ""
+      presenter: "John"
+      paper:    "How to do better research"
+      details: "in CV, PR, ML and the like"
       url:  "" 
     - date: "21 Jun"
       time: "-"
