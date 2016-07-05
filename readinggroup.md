@@ -3,21 +3,9 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
-    - date: "10 Aug"
-      time: "1130"
-      presenter: "Lai Kuan"
-      paper:    "TBC"
-      details: "TBC"
-      url:  "" 
-    - date: "3 Aug"
-      time: "1130"
-      presenter: "Magzhan"
-      paper:    "TBC"
-      details: "TBC"
-      url:  "" 
     - date: "27 Jul"
       time: "1130"
-      presenter: "TBC"
+      presenter: "Albert"
       paper:    "TBC"
       details: "TBC"
       url:  "" 
