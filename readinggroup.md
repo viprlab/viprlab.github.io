@@ -18,7 +18,7 @@ reads:
     - date: "13 Jul"
       time: "1130"
       presenter: "Chun Hau"
-      paper:    "Automated Fabric Defect Detection - A Review"
+      paper:    "Automated fabric defect detection - A review"
       details: "Ngan, H.Y.T., Pang, G.K.H. and Yung. N.H.C. (Image and Vision Computing, 2011)"
       url:  "http://www.sciencedirect.com/science/article/pii/S0262885611000230" 
     - date: "6 Jul"
