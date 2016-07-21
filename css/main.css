@@ -224,6 +224,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .hilite { color: #b6321c }
 
+.marker { background: #ffff00; color: black; font-weight: bold; }
+
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
 #proj-description { font-size: 80%; }
