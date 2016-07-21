@@ -40,17 +40,17 @@ Image aesthetic evaluation is a research field which aims to design computationa
 ## Funding/Grants
 
 ### External
-- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-Current, MOHE FRGS Grant, RM 80,200.
-- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-Current, TM R&D Fund, RM 229,726.
+- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-**Current**{:.marker}, MOHE FRGS Grant, RM 80,200.
+- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-**Current**{:.marker}, TM R&D Fund, RM 229,726.
 - **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, RM 70,600.
 - **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant, RM 76,600.
 <!-- total: 457,126 -->
 
 ### Internal
 - **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-**Current**{:.marker}, MMU-GRA Funding, RM 57,600.
-- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-Current, MMU-GRA Funding, RM 118,800.
-- **Analysis and Development of a Monitoring System using Dynamic Hand Gestures**{:.hilite}, 2015-Current, MMU-GRA Funding, RM 90,000.
-- **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-Current, Mini Fund, RM 20,000.
+- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-**Current**{:.marker}, MMU-GRA Funding, RM 118,800.
+- **Analysis and Development of a Monitoring System using Dynamic Hand Gestures**{:.hilite}, 2015-**Current**{:.marker}, MMU-GRA Funding, RM 90,000.
+- **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-**Current**{:.marker}, Mini Fund, RM 20,000.
 - **Mining for Trends and Anomalies from Long-term Video Surveillance**{:.hilite}, 2014-2015, Mini Fund, RM 6,440
 - **Analysis of Variational Patterns in Long-term Video Surveillance Data**{:.hilite}, 2013-2014, Mini Fund, RM 7,970
 <!-- total: 300,810 -->
