@@ -3,12 +3,17 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "3 Aug"
+      time: "1130"
+      presenter: "TBC"
+      paper:    "TBC"
+      details: "TBC"
     - date: "27 Jul"
       time: "1130"
       presenter: "Albert"
-      paper:    "TBC"
-      details: "TBC"
-      url:  "" 
+      paper:    "Video: 15 years of lessons from IEEE Virtual Reality"
+      details: "Doug Bowman, Pablo Figueroa, Anthony Steed, Evan A. Suma (VRDC 2016)"
+      url:  "http://www.gdcvault.com/play/1023170/15-Years-of-Lessons-From" 
     - date: "20 Jul"
       time: "1130"
       presenter: "Bahar"
