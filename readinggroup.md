@@ -7,7 +7,7 @@ reads:
       time: "1130"
       presenter: "Magzhan"
       paper:    "The Beauty of Capturing Faces: Rating the Quality of Digital Portraits"
-      details: "Miriam Redi, Nikhil Rasiwasia, Gaurav Aggarwal, Alejandro Jaimes (FG 2015)"
+      details: "M. Redi, N. Rasiwasia, G. Aggarwal, A. Jaimes (FG 2015)"
     - date: "10 Aug"
       time: "1130"
       presenter: "Lai Kuan"
