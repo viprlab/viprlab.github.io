@@ -3,6 +3,16 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "31 Aug"
+      time: "-"
+      presenter: "-"
+      paper: "NO MEETING (NATIONAL DAY HOLIDAY)"
+      details: ""
+    - date: "24 Aug"
+      time: "1130"
+      presenter: "John"
+      paper: "TBC"
+      details: ""
     - date: "17 Aug"
       time: "1130"
       presenter: "Magzhan"
