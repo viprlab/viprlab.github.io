@@ -6,7 +6,7 @@ news:
    - date: 2016-06-01
      info: We have **TWO** vacancies (Masters scholars) for Project SHERLOCK. Look under Vacancies below. 
    - date: 2016-05-27
-     info: ![ITEX2016](/images/bahar-lkwong-itex.jpg)! Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau and CO Wong) has won a Gold Award at ITEX 2016!
+     info: ![ITEX2016] Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau and CO Wong) has won a Gold Award at ITEX 2016!
    - date: 2016-05-26
      info: Website up and running.
 ---
@@ -50,3 +50,4 @@ Interested candidates can fill in the online application form at [https://goo.gl
 [Faculty of Computing and Informatics]: http://fci.mmu.edu.my 
 [Dr. John See]: mailto:johnsee@mmu.edu.my 
 [Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my
+[ITEX2016]: /images/bahar-lkwong-itex.jpg {: height="36px" width="36px"}
