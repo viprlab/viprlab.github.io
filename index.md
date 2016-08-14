@@ -26,7 +26,7 @@ We work on a wide variety of research areas, particularly in the following speci
 {% include imagethumbnailblock.html url="images/oculusrift.jpg" caption="VR & Gestures" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/game.jpg" caption="Game Research" width="120px" height="120px"  %}
 
-## Newss
+## News
 
 {% for n in page.news %}
 - **{{n.date}}**{:.newsdate}: {{n.info}} {% endfor %}
