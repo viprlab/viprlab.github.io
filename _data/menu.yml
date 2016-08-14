@@ -1,8 +1,5 @@
 - title: "Research"
   href: "/research/"
-  subcategories:
-  - subtitle: "Item 1"
-    subhref: "/research/stereo-recomp/"
 
 - title: "People"
   href: "/people/"
