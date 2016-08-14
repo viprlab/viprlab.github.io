@@ -236,3 +236,4 @@ ul.listing li.listing-item a { color: #b6321c; }
 	text-transform: uppercase;
 }
 .childnav ul.menu {  list-style-type: none; }
+.childnav ul.menu li { display: inline; }

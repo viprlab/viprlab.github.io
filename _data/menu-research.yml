@@ -1,17 +1,11 @@
-- title: "Research"
+- title: "Projects"
   href: "/research/"
 
-- title: "People"
-  href: "/people/"
+- title: "Data"
+  href: "/research/"
   
-- title: "Papers"
-  href: "/papers/"
-
-- title: "RG"
-  href: "/readinggroup/"
-
-- title: "Blog"
-  href: "/blog/"
+- title: "Code"
+  href: "/research/"
 
   # subcategories:
   #  - subtitle: "Item 1"
