@@ -3,9 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
+{% include nav-research.html  %}
 
 ## Projects
-{% include nav-research.html  %}
 
 We have a number of funded and non-funded projects which are currently on-going.
 {% include image.html align="right" url="/images/grantcomic.gif" max_width="240px" %}
