@@ -1,11 +1,11 @@
 - title: "Projects"
   href: "/research/"
 
-- title: "Data"
+- title: "Datasets"
   href: "/research/data"
   
 - title: "Code"
-  href: "/research/"
+  href: "/research/code"
 
   # subcategories:
   #  - subtitle: "Item 1"
