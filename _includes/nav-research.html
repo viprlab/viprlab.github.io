@@ -1,6 +1,6 @@
 <div class="childnav">
 	<ul class="menu">
-		{% for menu_item in site.data.menu %}
+		{% for menu_item in site.data.menu-research %}
 		{% if menu_item.subcategories != null %}
 		<li><a href="{{ menu_item.href | prepend: site.baseurl }}" class="page-link">{{ menu_item.title }}</a>
 		<ul class="sub-menu">
