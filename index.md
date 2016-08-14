@@ -30,7 +30,7 @@ We work on a wide variety of research areas, particularly in the following speci
 ## News
 
 {% for n in page.news %}
-- {% if n.img %} {{n.img}} {% endif %} **{{n.date}}**{:.newsdate}: {{n.info}} {% endfor %}
+- **{{n.date}}**{:.newsdate}: {{n.info}} {% endfor %}
 
 ## Prospective Students
 
