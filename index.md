@@ -30,7 +30,7 @@ We work on a wide variety of research areas, particularly in the following speci
 ## News
 
 {% for n in page.news %}
-- <img src="/images/{{n.img}}" /> **{{n.date}}**{:.newsdate}: {{n.info}} {% endfor %}
+- {% include imagethumbnailblock.html url="images/deeplearningbrain.jpg" caption="Deep Learning" width="120px" height="120px"  %} **{{n.date}}**{:.newsdate}: {{n.info}} {% endfor %}
 
 ## Prospective Students
 
