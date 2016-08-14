@@ -232,8 +232,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .childnav { 
     text-align: left;
-    float: left;
     letter-spacing: 1px;
-	text-transform: uppercase
+	text-transform: uppercase;
 }
 .childnav ul.menu {  list-style-type: none; }
