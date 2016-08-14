@@ -1,0 +1,20 @@
+- title: "Research"
+  href: "/research/"
+
+- title: "People"
+  href: "/people/"
+  
+- title: "Papers"
+  href: "/papers/"
+
+- title: "RG"
+  href: "/readinggroup/"
+
+- title: "Blog"
+  href: "/blog/"
+
+  # subcategories:
+  #  - subtitle: "Item 1"
+  #    subhref: "/miscellany/item-1/"
+  #  - subtitle: "Item 2"
+  #    subhref: "/miscellany/item-2/"
