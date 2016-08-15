@@ -222,6 +222,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .newsdate { color: maroon }
 
+.newsimg { width: 400px; height: auto; margin: 1em auto; }
+
 .hilite { color: #b6321c }
 
 .marker { background: #ffff00; color: #000; font-weight: bold; }
