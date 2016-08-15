@@ -1,4 +1,4 @@
 {% for n in page.news %}
 - **{{n.date}}**{:.newsdate}: {{n.info}} {% if n.img %}
-	{% include news-image.html url="../images/{% {{n.img}} %}" href="" width="400px" height="auto" %}
+	{% include news-image.html url={{site.baseurl}}/images/{{n.img}} href="" width="400px" height="auto" %}
 {% endif %} {% endfor %}
