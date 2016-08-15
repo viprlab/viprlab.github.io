@@ -1,6 +1,5 @@
 {% for n in page.news %}
 - **{{n.date}}**{:.newsdate}: {{n.info}} 
 {% if n.img %}
-	{% include imagethumbnailblock.html align="left" url=/images/{{n.img}} href="" width=200px height=auto %}
-	<!-- <img src="http://s.hswstatic.com/gif/frog-1.jpg" style="width:400px; height: auto;" /> -->
+	{% include imagethumbnailblock.html align="left" url="http://s.hswstatic.com/gif/frog-1.jpg" href="" width="200px" height="auto" %}
 {% endif %} {% endfor %}
