@@ -1,5 +1,6 @@
 {% for n in page.news %}
-- {% if n.img %}
-	<img src="http://s.hswstatic.com/gif/frog-1.jpg" />
+- **{{n.date}}**{:.newsdate}:
+{% if n.img %}
+	<img src="http://s.hswstatic.com/gif/frog-1.jpg" style="width:400px; height: auto;" />
 {% endif %}
-**{{n.date}}**{:.newsdate}: {{n.info}} {% endfor %}
+ {{n.info}} {% endfor %}
