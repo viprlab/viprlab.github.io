@@ -222,7 +222,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .newsdate { color: maroon }
 
-.newsimg { width: 400px; height: auto; margin-top: 1em; }
+.newsimg { width: 400px; height: auto; margin-top: 0.75em; }
 
 .hilite { color: #b6321c }
 
