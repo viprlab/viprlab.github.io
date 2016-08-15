@@ -7,7 +7,7 @@ news:
      info: We have **TWO** vacancies (Masters scholars) for Project SHERLOCK. Look under Vacancies below. 
    - date: 2016-05-27
      info: Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau and CO Wong) has won a Gold Award at ITEX 2016!
-     img: frog.jpg
+     img: bahar-lkwong-itex.jpg
    - date: 2016-05-26
      info: Website up and running.
 ---
