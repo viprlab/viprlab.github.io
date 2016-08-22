@@ -11,8 +11,9 @@ reads:
     - date: "24 Aug"
       time: "1130"
       presenter: "John"
-      paper: "TBC"
-      details: ""
+      paper: "Mining Semantic Context Information for Intelligent Video Surveillance of Traffic Scenes"
+      details: "T. Zhang, S. Liu, C. Xu, H. Lu (IEEE T-Industrial Informatics 2013)"
+      url: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6298959
     - date: "17 Aug"
       time: "1130"
       presenter: "Magzhan"
