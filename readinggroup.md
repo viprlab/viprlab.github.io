@@ -3,6 +3,19 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "14 Sept"
+      time: "1130"
+      presenter: "Ryan"
+      paper: "Tracking All Road Users at Multimodal Urban Traffic Intersections"
+      details: "J.-P. Jodoin, G.-A. Bilodeau, N. Saunier (IEEE T-Int. Transp. Systems 2016)"
+      url: "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7457695"
+    - date: "7 Sept"
+      time: "1100"
+      presenter: "-"
+      paper: "[Video]: Convolutional Neural Networks and Computer Vision"
+      details: "Deep Learning Summer School 2016, Rob Fergus"
+      url:     "http://videolectures.net/deeplearning2016_fergus_neural_networks/"
+      slides: "http://videolectures.net/site/normal_dl/tag=1051690/deeplearning2016_fergus_neural_networks_01.pdf"	
     - date: "31 Aug"
       time: "-"
       presenter: "-"
