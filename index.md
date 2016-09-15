@@ -41,7 +41,7 @@ Undergraduate students can also be part of the group by means of final year thes
 
 ## Vacancies
 
-{% include imagethumbnailblock.html align="left" url="/images/microexp-teaser.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/microexp/MENSA_PhD_Vacancy_flyer.pdf" width="200px" height="auto" padding="right" %} We have **[ONE PhD research position]{:target="_blank"}** for project MENSA on facial micro-expression analysis. 
+{% include imagethumbnailblock.html align="left" url="/images/microexp-teaser.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/microexp/MENSA_PhD_Vacancy_flyer.pdf" width="200px" height="auto" padding="right" %} We have **[ONE PhD research position]{:target="_blank"}** for project MENSA on facial micro-expression analysis. This position is available until filled.
 
 Interested candidates can fill in the online application form at [https://goo.gl/SaNP3H]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
 
