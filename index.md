@@ -48,7 +48,7 @@ Interested candidates can fill in the online application form at [https://goo.gl
 
 {% include imagethumbnailblock.html align="left" url="/images/sherlock_postingImg.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf" width="120px" height="auto" padding="right" %} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. 
 
-**Positions have been filled!**
+**Update: Positions have been filled!**
 {% include clearfloat.html prevfloat="left" %}
 
 [https://goo.gl/SaNP3H]: https://goo.gl/SaNP3H
