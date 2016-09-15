@@ -54,6 +54,7 @@ Interested candidates can fill in the online application form at [https://goo.gl
 
 [https://goo.gl/SaNP3H]: https://goo.gl/SaNP3H
 [https://goo.gl/3il2R9]: https://goo.gl/3il2R9
+[ONE PhD research position]: http://pesona.mmu.edu.my/~johnsee/research/microexp/MENSA_PhD_Vacancy_flyer.pdf
 [TWO vacancies]: http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf
 [Multimedia University]: http://www.mmu.edu.my 
 [Faculty of Computing and Informatics]: http://fci.mmu.edu.my 
