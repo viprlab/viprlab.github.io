@@ -3,8 +3,10 @@ layout: page
 title: ViPr Lab
 permalink: /
 news:
+   - date: 2016-08-01
+     info: We have **ONE** Ph.D research position for Project MENSA. Look under Vacancies below.
    - date: 2016-06-01
-     info: We have **TWO** vacancies (Masters scholars) for Project SHERLOCK. Look under Vacancies below. 
+     info: Vacancies (Masters research scholar) for Project SHERLOCK have been filled! 
    - date: 2016-05-27
      info: Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau and CO Wong) has won a Gold Award at ITEX 2016!
      img: bahar-lkwong-itex.jpg
@@ -39,11 +41,17 @@ Undergraduate students can also be part of the group by means of final year thes
 
 ## Vacancies
 
-{% include imagethumbnailblock.html align="left" url="/images/sherlock_postingImg.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf" width="120px" height="auto" padding="right" %} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. 
+{% include imagethumbnailblock.html align="left" url="/images/mensa_postingImg.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/microexp/MENSA_PhD_Vacancy_flyer.pdf" width="120px" height="auto" padding="right" %} We have **[ONE PhD research position]{:target="_blank"}** for project MENSA on facial micro-expression analysis. 
 
-Interested candidates can fill in the online application form at [https://goo.gl/3il2R9]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
+Interested candidates can fill in the online application form at [https://goo.gl/SaNP3H]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
 {% include clearfloat.html prevfloat="left" %}
 
+{% include imagethumbnailblock.html align="left" url="/images/sherlock_postingImg.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf" width="120px" height="auto" padding="right" %} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. 
+
+**Positions have been filled!**
+{% include clearfloat.html prevfloat="left" %}
+
+[https://goo.gl/SaNP3H]: https://goo.gl/SaNP3H
 [https://goo.gl/3il2R9]: https://goo.gl/3il2R9
 [TWO vacancies]: http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf
 [Multimedia University]: http://www.mmu.edu.my 
