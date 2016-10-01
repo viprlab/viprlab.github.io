@@ -8,7 +8,6 @@ permalink: /research/
 ## Projects
 
 We have a number of funded and non-funded projects which are currently on-going.
-<!-- {% include image.html align="right" url="/images/grantcomic.gif" max_width="240px" %} -->
 
 ### Long-term Video Surveillance (LoViS)
 
