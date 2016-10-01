@@ -26,10 +26,10 @@ Most state-of-the-art techniques for HAR have been designed to perform well unde
 
 ### Aesthetics-driven Stereo Retargeting and Recomposition
 
-{% include imagethumbnailblock.html url="/images/retarget.jpg" width="480px" padding="right" %}
+<!-- {% include imagethumbnailblock.html url="/images/retarget.jpg" width="480px" padding="right" %} -->
 With the recent availability of stereoscopic displays such as 3D monitor, 3D television and stereo camera phone, there is an increasing need for stereo image retargeting and recomposition techniques. Image retargeting aims to resize an image to fit different aspect ratios and sizes while image recomposition attempts to computationally modify the composition of an image to mimic a professional photo. We investigate new aesthetic-driven methods for retargeting and recomposition for stereo image pairs.
 {: #proj-description}
-{% <!-- include clearfloat.html prevfloat="left" --> %}
+{% include clearfloat.html prevfloat="left" %}
 
 ### Large-scale Aesthetic Evaluation of Photographs (LAttE)
 
