@@ -7,7 +7,7 @@ reads:
       time: "1130"
       presenter: "-"
       paper: "[Video] Selected Works from CVPR 2016 Orals"
-	  details: !xml | "1. Image Style Transfer Using Convolutional Neural Networks2. "
+	  details: "1. Image Style Transfer Using Convolutional Neural Networks"
     - date: "05/10"
       time: "1130"
       presenter: "John"
