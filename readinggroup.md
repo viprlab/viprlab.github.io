@@ -3,11 +3,16 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "12/10"
+      time: "1130"
+      presenter: "-"
+      paper: "[Video] Selected Works from CVPR 2016 Orals"
+      details: "1. Image Style Transfer Using Convolutional Neural Networks<br />2. Walk and Learn: Facial Attribute Representation Learning From Egocentric Video and Contextual Data<br />3. Deep Hand: How to Train a CNN on 1 Million Hand Images
     - date: "05/10"
       time: "1130"
       presenter: "John"
-      paper: "TBD"
-      details: "TBD"
+      paper: "CNNs: From Pixels to Words"
+      details: ""
     - date: "28/09"
       time: "1130"
       presenter: "Chun Hau"
@@ -148,7 +153,7 @@ reads:
 ---
 
 We have a paper reading group that meets every week at ViPr Lab. Feel free to join us, or if you would like to be part of the reading rotation. <br>
-T3-1516 term meets at **11.00am on Tuesdays**. T1-1617 term meets at **11.30am on Wednesdays**.   
+T1-1617 term meets at **11.30am on Wednesdays**. T2-1617 term meets at **11.00am on Thursdays** (starting November).   
 
 ## Schedule
 
