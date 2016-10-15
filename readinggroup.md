@@ -7,6 +7,7 @@ reads:
       time: "1130"
       presenter: "-"
       paper: "[Video] Selected Works from CVPR 2016 Orals"
+	  details: "J.-K. Park, B.-K. Kwon, J.-H. Park, D.-J. Kang (IJPEM-GT 2016)"
     - date: "05/10"
       time: "1130"
       presenter: "John"
