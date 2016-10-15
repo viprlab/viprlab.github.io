@@ -7,7 +7,7 @@ reads:
       time: "1130"
       presenter: "-"
       paper: "[Video] Selected Works from CVPR 2016 Orals"
-      details: "1. Image Style Transfer Using Convolutional Neural Networks<br />2. Walk and Learn: Facial Attribute Representation Learning From Egocentric Video and Contextual Data<br />3. Deep Hand: How to Train a CNN on 1 Million Hand Images
+      details: "1. Image Style Transfer Using Convolutional Neural Networks<br>2. Walk and Learn: Facial Attribute Representation Learning From Egocentric Video and Contextual Data<br>3. Deep Hand: How to Train a CNN on 1 Million Hand Images
     - date: "05/10"
       time: "1130"
       presenter: "John"
@@ -159,5 +159,5 @@ T1-1617 term meets at **11.30am on Wednesdays**. T2-1617 term meets at **11.00am
 
 | Date | Time | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.time}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %}{% if read.slides %}<br>[Slides]({{read.slides}}){:target="_blank"}{% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.time}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{{read.details}}{:.rgdetails}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %}{% if read.slides %}<br>[Slides]({{read.slides}}){:target="_blank"}{% endif %} | 
 {% endfor %}
