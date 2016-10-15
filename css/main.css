@@ -200,8 +200,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 /* em hack to insert class into kramdown */
 em.rgdetails { 
-	font-weight: normal;
-	
+	font-size: 0.8em;
 }
 
 .captioned-img { text-align: center; border: none; font-size: smaller; overflow: hidden; }
