@@ -5,9 +5,8 @@ title: Reading Group
 reads:
     - date: "12/10"
       time: "1130"
-      presenter: "John"
+      presenter: "-"
       paper: "[Video] Selected Works from CVPR 2016 Orals"
-	  details: ""
     - date: "05/10"
       time: "1130"
       presenter: "John"
