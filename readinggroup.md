@@ -6,7 +6,7 @@ reads:
     - date: "05/10"
       time: "1130"
       presenter: "John"
-      paper: "CNNs: From Pixels to Words | test"
+      paper: "CNNs: From Pixels to Words"
     - date: "28/09"
       time: "1130"
       presenter: "Chun Hau"
