@@ -198,7 +198,9 @@ ul.listing li.listing-item a { color: #b6321c; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-.rgdetails { 
+/* em hack for kramdown inline attributes */
+em.rgdetails { 
+	font-style: normal;
 	font-size: 0.8em;
 }
 

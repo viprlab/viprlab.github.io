@@ -152,5 +152,5 @@ T1-1617 term meets at **11.30am on Wednesdays**. T2-1617 term meets at **11.00am
 
 | Date | Time | Presenter | Description |
 |:-|:-:|:-:|:- 
-{% for read in page.reads %}| {{read.date}} | {{read.time}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{% if read.details %}{:span}{{read.details}}{% endif %}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %}{% if read.slides %}<br>[Slides]({{read.slides}}){:target="_blank"}{% endif %} | 
+{% for read in page.reads %}| {{read.date}} | {{read.time}} | {{read.presenter}} | [{{read.paper}}]({{read.url}}){:target="_blank"}<br>{% if read.details %}*{{read.details}}*{:.rgdetails}{% endif %}{% if read.proj %}<br>[Project site]({{read.proj}}){:target="_blank"}{% endif %}{% if read.slides %}<br>[Slides]({{read.slides}}){:target="_blank"}{% endif %} | 
 {% endfor %}
