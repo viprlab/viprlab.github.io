@@ -25,6 +25,7 @@ We work on a wide variety of research areas, particularly in the following speci
 {% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/aesthetics.jpg" caption="Computational Aesthetics" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/microexp.jpg" caption="Micro-expression Analysis" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/deeplearningbrain.jpg" caption="Deep Learning" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/oculusrift.jpg" caption="VR & Gestures" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/game.jpg" caption="Game Research" width="120px" height="120px"  %}
