@@ -1,6 +1,6 @@
 <dl class="captioned-img thumbnail-block align{{ include.align }} padding{{ include.padding }}" style="width:{{ include.width }};"><dt><a href="{{ include.href }}"><img src="{{ include.url }}" alt="" style="width:{{ include.width }}; height:{{ include.height }}"/>
-{% if include.caption <dd> %}
-{{ include.caption }}
+{% if include.caption  %}
+<dd markdown="0">{{ include.caption }}
 	{% if include.caption2 %}
 	<br><div style="color:#c9a23c">{{ include.caption2 }}</div>
 	{% endif %}
