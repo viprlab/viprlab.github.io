@@ -47,7 +47,7 @@ The mechanism that allows for human forearm rotation is still poorly understood.
 ### Facial micro-expression analysis from videos
 
 {% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
-A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods of doing so. The analysis of spontaneous micro-expressions has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This is a contemporary field of research with international collaborations with institutions in UK and China.
+A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
