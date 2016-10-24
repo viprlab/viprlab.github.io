@@ -8,6 +8,7 @@ reads:
       presenter: "Faiz"
       paper: "In-vivo kinematic analysis of forearm rotation using helical axis analysis"
       details: "S.C. Tay et al. (Clinical Biomechanics, 2010)"
+      url: "http://dx.doi.org/10.1016/j.clinbiomech.2010.03.010"
     - date: "19/10"
       time: "1130"
       presenter: "Bahar"
@@ -18,6 +19,7 @@ reads:
       presenter: "-"
       paper: "[Video] Selected Works from CVPR 2016 Orals"
       details: 1. Image Style Transfer Using Convolutional Neural Networks<br>2. Walk and Learn - Facial Attribute Representation Learning from Egocentric Video and Contextual Data<br>3. Deep Hand - How to Train a CNN on 1 Million Hand Images
+      url: "https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw"
     - date: "05/10"
       time: "1130"
       presenter: "John"
