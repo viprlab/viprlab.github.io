@@ -5,18 +5,31 @@ title: Papers
 pubs:
     - year: "2016"
       groups:
+        - title:   "Automatic Micro-expression Recognition from Long Video using a Single Spotted Apex"
+          author:  "Liong Sze Teng, John See, Wong Kok Sheik, Raphael Phan Chung-Wei"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+          note:    "Accepted"
+        - title:   "Aesthetic Evaluation of Facial Portraits Using Compositional Augmentation for Deep CNNs"
+          author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+          note:    "Accepted"
+        - title:   "Deep or Shallow Facial Descriptors? A Case for Facial Attribute Classification and Face Retrieval"
+          author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+          note:    "Accepted"
         - title:   "A Survey of Aesthetics-Driven Image Recomposition"
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
           pub:     "Multimedia Tools and Applications"
           type:     j
-          note:    "Accepted"
           doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
         - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
           pub:     "ICCSE 2016"
           type:     c 
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"
-          note:    "Accepted"		  
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"		  
         - title:   "Spatio-temporal Mid-Level Feature Bank for Action Recognition in Low Quality Video"
           author:  "Saimunur Rahman, John See"
           pub:     "ICASSP 2016"
