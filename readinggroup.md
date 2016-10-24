@@ -3,6 +3,16 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "26/10"
+      time: "1130"
+      presenter: "Faiz"
+      paper: "In-vivo kinematic analysis of forearm rotation using helical axis analysis"
+      details: "S.C. Tay et al. (Clinical Biomechanics, 2010)"
+    - date: "19/10"
+      time: "1130"
+      presenter: "Bahar"
+      paper: "Content-aware stereoscopic video retargeting"
+      details: Discussion on on-going research work
     - date: "12/10"
       time: "1130"
       presenter: "-"
