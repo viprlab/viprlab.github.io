@@ -5,6 +5,11 @@ title: Papers
 pubs:
     - year: "2016"
       groups:
+        - title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
+          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael Phan Chung-Wei, Yogachandran Rahulamathavan, Ling Huo-Chong, Tan Su-Wei, Xujie Li"
+          pub:     "Multimedia Tools and Applications"
+          type:     j
+          note:    "Accepted, In Press"
         - title:   "Automatic Micro-expression Recognition from Long Video using a Single Spotted Apex"
           author:  "Liong Sze Teng, John See, Wong Kok Sheik, Raphael Phan Chung-Wei"
           pub:     "ACCV Workshops 2016"
