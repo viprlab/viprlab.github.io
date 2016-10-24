@@ -10,6 +10,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/lkwong.jpg" caption="Wong Lai Kuan" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/noramiza.jpg" caption="Noramiza Hashim" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/albert.jpg" caption="Albert Quek" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" width="120px" height="120px"  %}
 
 ## Postgraduates
 {% include imagethumbnailblock.html url="/images/bahar.jpg" caption="Baharul Islam" caption2="Ph.D student" width="120px" height="120px"  %}
