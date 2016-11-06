@@ -72,6 +72,8 @@ ul, ol { margin-left: 1.5em; }
 
 li > ul, li > ol { margin-bottom: 0; }
 
+li { margin-bottom: 0; }
+
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 
 a { color: #b6321c; text-decoration: none; }
