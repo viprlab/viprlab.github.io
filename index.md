@@ -3,6 +3,8 @@ layout: page
 title: ViPr Lab
 permalink: /
 news:
+   - date: 2016-11-02
+     info: Center for Visual Computing (CVC) organized the 2nd Symposium on Visual Computing Research, which was held at Shaftsbury Asteria, Cyberjaya.
    - date: 2016-08-01
      info: We have **ONE** Ph.D research position for Project MENSA. Look under Vacancies below.
    - date: 2016-06-01
