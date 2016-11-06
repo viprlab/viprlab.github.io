@@ -25,6 +25,11 @@ pubs:
           pub:     "ACCV Workshops 2016"
           type:     c
           note:    "Accepted"
+        - title:	"DUKE: Enhancing Virtual Reality based FPS Game with Full-Body Interactions"
+          author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid bin Sulaiman, John See"
+          pub:		"ACE 2016"
+          type:		c
+          note:     "Accepted"
         - title:   "A Survey of Aesthetics-Driven Image Recomposition"
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
           pub:     "Multimedia Tools and Applications"
