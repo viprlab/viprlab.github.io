@@ -3,6 +3,19 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "24/11"
+      time: "1100"
+      presenter: "Fahmid"
+      paper: "Skeleton-based dynamic hand gesture recognition"
+      details: "Q. De Smedt, H. Wannous, J.-P. Vandeborre (CVPR Workshops 2016)"
+      url: "http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w21/papers/De_Smedt_Skeleton-Based_Dynamic_Hand_CVPR_2016_paper.pdf"
+    - date: "17/11"
+      time: "1100"
+      presenter: "John"
+      paper: "Learning deep features for discriminative localization"
+      details: "B. Zhou, A. Khosla, A. Lapedriza, A. Oliva, A. Torralba (CVPR 2016)"
+      url: "http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf"
+      proj: "http://cnnlocalization.csail.mit.edu/"
     - date: "10/11"
       time: "1100"
       presenter: "Clarence"
@@ -26,7 +39,7 @@ reads:
       details: "Discussion on on-going research work"
     - date: "12/10"
       time: "1130"
-      presenter: "-"
+      presenter: "John"
       paper: "[Video] Selected Works from CVPR 2016 Orals"
       details: 1. Image Style Transfer Using Convolutional Neural Networks<br>2. Walk and Learn - Facial Attribute Representation Learning from Egocentric Video and Contextual Data<br>3. Deep Hand - How to Train a CNN on 1 Million Hand Images
       url: "https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw"
