@@ -3,6 +3,16 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "10/11"
+      time: "1100"
+      presenter: "Clarence"
+      paper: "The CountingApp, or how to count vehicles in 500 hours of video"
+      details: "A. Lessard, F. Belisle, G.-A. Bilodeau, N. Saunier (CVPR Workshops, 2016)"
+      url: "http://www.cv-foundation.org//openaccess/content_cvpr_2016_workshops/w25/papers/Lessard_The_CountingApp_or_CVPR_2016_paper.pdf"
+    - date: "2/11"
+      time: "-"
+      presenter: "-"
+      paper: "NO MEETING (CVC SYMPOSIUM)"
     - date: "26/10"
       time: "1130"
       presenter: "Faiz"
