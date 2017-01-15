@@ -3,6 +3,9 @@ layout: page
 title: ViPr Lab
 permalink: /
 news:
+   - date: 2016-12-05
+     info: Saimunur Rahman passed his M.Sc. viva voce. Congratulations!
+	 img: saimun-viva.jpg
    - date: 2016-11-02
      info: Center for Visual Computing (CVC) organized the 2nd Symposium on Visual Computing Research, which was held at Shaftsbury Asteria, Cyberjaya.
    - date: 2016-08-01
