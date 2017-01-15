@@ -3,6 +3,18 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "12/1"
+      time: "1000"
+      presenter: "Clarence"
+      paper: "Large-Scale vehicle detection, indexing, and search in urban surveillance videos"
+      details: "Rogerio Feris,  Behjat Siddiquie, James Petterson, Yun Zhai, Ankur Datta, Lisa M. Brown, Sharath Pankanti (T-MM 2012)"
+      url: "http://ieeexplore.ieee.org/document/6035786/"
+    - date: "5/1"
+      time: "1000"
+      presenter: "-"
+      paper: "[Video] PAMI Distinguished Lectures @ ICCV 2015"
+      details: "David Lowe & Yann LeCun"
+      url: "http://videolectures.net/iccv2015_santiago/"
     - date: "29/12"
       time: "1200"
       presenter: "-"
