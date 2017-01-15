@@ -222,7 +222,7 @@ reads:
 
 ---
 {% include imagethumbnailblock.html align="right" url="/images/rg-pic1.jpg" height="150px" padding="left" %}{% include imagethumbnailblock.html align="right" url="/images/rg-pic2.jpg" height="150px" padding="left" %}
-We have a paper reading group that meets every week at ViPr Lab. Feel free to join us, or if you would like to be part of the reading rotation. <br>
+We have a paper reading group that meets every week at ViPr Lab. Feel free to join us, or if you would like to be part of the reading rotation. <br><br>
 T1-1617 term meets at **11.30am on Wednesdays**. T2-1617 term meets at **11.00am on Thursdays** (starting November).   
 
 ## Schedule
