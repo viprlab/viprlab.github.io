@@ -8,6 +8,7 @@ permalink: /research/fyp/
 
 ## Final Year Projects for 2017/2016
 
+*offered by Wong Lai Kuan*
 - Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
 - AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
 - StylePotraits: Style Transfer for Portraits
@@ -16,6 +17,7 @@ permalink: /research/fyp/
 - CulturalAesthetics: Influence of Culture on Aesthetics Perception
 - MobiTCM: Mobile Tongue-based TCM Health Detector
 
+*offered by John See*
 - Cal-logs: Automatic Calorie Logger based on Food Photos
 - Skimlets: Finding Interesting Moments in Visual Lifelogs
 - Selfr: Recommending Better Selfie-taking
