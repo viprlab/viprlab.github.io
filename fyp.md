@@ -25,6 +25,16 @@ permalink: /research/fyp/
 - Visual Fashion Analytics: Finding What's In Trend
 - Parvis: Visualizing Data Analytics for Carpark Surveillance
 
+*offered by Albert Quek*
+- Augmented Reality Serious Games using Smartphones
+    - Treatment of Insect Phobia
+	- Interactive Story for Autistic Children
+- Lifestyle Game for Smartphone
+- Gesture-based Kinect Game for Visual Impaired Individuals
+- Gesture-based Game Mechanics for First Person Action Game
+- Virtual Reality Android based Game
+- Virtual Reality for Physical Exercise
+
 {::comment}
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
 Most state-of-the-art techniques for HAR have been designed to perform well under constrained and highly controlled conditions. However, these capabilities may not be easily replicable in real-world surveillance conditions (via devices such as CCTV or web cameras) where video quality may be naturally poor. We investigate new representations for recognizing human activities in adverse quality surveillance videos.
