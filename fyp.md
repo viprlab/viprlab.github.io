@@ -8,11 +8,20 @@ permalink: /research/fyp/
 
 ## Final Year Projects for 2017/2016
 
-. Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
-. AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
+- Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
+- AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
+- StylePotraits: Style Transfer for Portraits
+- LightUpMilky: Transforming a Low-Light Image into a A Milky Way Image
+- Image2Emo: What Emotion Does This Image Gives You?
+- CulturalAesthetics: Influence of Culture on Aesthetics Perception
+- MobiTCM: Mobile Tongue-based TCM Health Detector
 
-
-More to come...
+- Cal-logs: Automatic Calorie Logger based on Food Photos
+- Skimlets: Finding Interesting Moments in Visual Lifelogs
+- Selfr: Recommending Better Selfie-taking
+- Video2Trailer: Generating Trailers from Long Video
+- Visual Fashion Analytics: Finding What's In Trend
+- Parvis: Visualizing Data Analytics for Carpark Surveillance
 
 {::comment}
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
