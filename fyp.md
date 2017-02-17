@@ -6,9 +6,11 @@ permalink: /research/fyp/
 ---
 {% include nav-research.html  %}
 
-## Datasets
+## Final Year Projects for 2017/2016
 
-We are happy to share our data with other researchers. Our data is only for research purposes, unless stated differently. Please cite their respective publication(s) when using the data.
+. Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
+. AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
+
 
 More to come...
 
