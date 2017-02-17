@@ -8,7 +8,8 @@ permalink: /research/fyp/
 
 ## Final Year Projects for 2017/2016
 
-
+  
+  
 *offered by Wong Lai Kuan*
 - Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
 - AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
