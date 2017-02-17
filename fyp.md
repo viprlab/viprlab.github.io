@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research
-subtitle: Datasets
-permalink: /research/data/
+subtitle: Final Year Projects (Undergraduate)
+permalink: /research/fyp/
 ---
 {% include nav-research.html  %}
 
