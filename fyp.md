@@ -6,9 +6,9 @@ permalink: /research/fyp/
 ---
 {% include nav-research.html  %}
 
-## Final Year Projects for 2017/2016
+## Final Year Projects for 2017/2018
 
-  
+The following are projects to be offered for undergraduate FYPs for the upcoming academic session. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (hot-desks are provided at the lab, but subject to availability). 
   
 *offered by Wong Lai Kuan*
 - Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
