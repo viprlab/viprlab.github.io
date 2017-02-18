@@ -10,7 +10,7 @@ permalink: /research/fyp/
 
 The following are projects to be offered for undergraduate FYPs for the upcoming academic session. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (hot-desks are provided at the lab, but subject to availability). 
   
-*offered by Wong Lai Kuan*
+*Dr. Wong Lai Kuan*
 - Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
 - AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
 - StylePotraits: Style Transfer for Portraits
@@ -19,7 +19,7 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 - CulturalAesthetics: Influence of Culture on Aesthetics Perception
 - MobiTCM: Mobile Tongue-based TCM Health Detector
 
-*offered by John See*
+*Dr. John See*
 - Cal-logs: Automatic Calorie Logger based on Food Photos
 - Skimlets: Finding Interesting Moments in Visual Lifelogs
 - Selfr: Recommending Better Selfie-taking
@@ -27,7 +27,7 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 - Visual Fashion Analytics: Finding What's In Trend
 - Parvis: Visualizing Data Analytics for Carpark Surveillance
 
-*offered by Albert Quek*
+*Mr. Albert Quek*
 - Augmented Reality Serious Games using Smartphones
     - Treatment of Insect Phobia
 	- Interactive Story for Autistic Children
