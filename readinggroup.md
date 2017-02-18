@@ -3,6 +3,11 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "23/2"
+      time: "1000"
+      presenter: "Chun Hau"
+      paper: "TBC"
+      details: "TBC"
     - date: "16/2"
       time: "1000"
       presenter: "John, Lai Kuan, Albert"
