@@ -47,16 +47,7 @@ Undergraduate students can also be part of the group by means of final year thes
 
 ## Vacancies
 
-{% include imagethumbnailblock.html align="left" url="/images/microexp-teaser.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/microexp/MENSA_PhD_Vacancy_flyer.pdf" width="200px" height="auto" padding="right" %} We have **[ONE PhD research position]{:target="_blank"}** for project MENSA on facial micro-expression analysis. This position is available until filled.
-
-Interested candidates can fill in the online application form at [https://goo.gl/SaNP3H]{:target="_blank"}. Shortlisted candidates will be contacted for an interview. 
-
-{% include clearfloat.html prevfloat="left" %}
-
-{% include imagethumbnailblock.html align="left" url="/images/sherlock-teaser.jpg" href="http://pesona.mmu.edu.my/~johnsee/research/sherlock/SHERLOCK-Research-Scholar-Vacancies.pdf" width="200px" height="auto" padding="right" %} We have **[TWO vacancies]{:target="_blank"}** for project SHERLOCK on video analytics for surveillance in smart cities. 
-
-**Update: Positions have been filled!**
-{% include clearfloat.html prevfloat="left" %}
+Please see our [new page](/research/jobs/) for news on vacancies!
 
 [https://goo.gl/SaNP3H]: https://goo.gl/SaNP3H
 [https://goo.gl/3il2R9]: https://goo.gl/3il2R9
