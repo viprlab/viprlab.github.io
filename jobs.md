@@ -8,7 +8,9 @@ permalink: /research/jobs/
 
 ## Jobs
 
-Vacancies in ViPr Lab will be posted here. Currently, we have ONE vacancy.
+Vacancies in ViPr Lab will be posted here.
+- We have ONE Masters GRA vacancy for project DeepME. Application form below.
+
 <iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="800" height="1980" >
             Alternative text for browsers that do not understand IFrames.
 </iframe>
