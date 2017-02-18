@@ -9,7 +9,7 @@ permalink: /research/jobs/
 ## Jobs
 
 Vacancies in ViPr Lab will be posted here. Currently, we have ONE vacancy.
-<iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="500" >
+<iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="800" height="1980" >
             Alternative text for browsers that do not understand IFrames.
 </iframe>
 
