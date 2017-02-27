@@ -37,7 +37,7 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 - Virtual Reality Android based Game
 - Virtual Reality for Physical Exercise
 
-[FYP Briefing Day slides](/files/ViPrLab FYP Project Briefing - 16022017.pdf)(16/02/2017)
+[FYP Briefing Day slides](/files/ViPrLab FYP Project Briefing - 16022017.pdf) (16/02/2017)
 
 {::comment}
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
