@@ -10,7 +10,7 @@ permalink: /research/fyp/
 
 The following are projects to be offered for undergraduate FYPs for the upcoming academic session. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (**hot-desks** are provided at the lab, but subject to availability). 
   
-Dr. Wong Lai Kuan
+**Dr. Wong Lai Kuan**
 - Pic2PolyArt: Transforming A Photograph into Polygon-based Geometric Art
 - AmazeScape II: Transforming An Unappealing Landscape into an Amazing Landscape
 - StylePotraits: Style Transfer for Portraits
@@ -19,7 +19,7 @@ Dr. Wong Lai Kuan
 - CulturalAesthetics: Influence of Culture on Aesthetics Perception
 - MobiTCM: Mobile Tongue-based TCM Health Detector
 
-Dr. John See
+**Dr. John See**
 - Cal-logs: Automatic Calorie Logger based on Food Photos
 - Skimlets: Finding Interesting Moments in Visual Lifelogs
 - Selfr: Recommending Better Selfie-taking
@@ -27,7 +27,7 @@ Dr. John See
 - Visual Fashion Analytics: Finding What's In Trend
 - Parvis: Visualizing Data Analytics for Carpark Surveillance
 
-Mr. Albert Quek
+**Mr. Albert Quek**
 - Augmented Reality Serious Games using Smartphones
     - Treatment of Insect Phobia
 	- Interactive Story for Autistic Children
@@ -37,7 +37,7 @@ Mr. Albert Quek
 - Virtual Reality Android based Game
 - Virtual Reality for Physical Exercise
 
-[FYP Briefing Day slides] (16/02/2017)
+[FYP Briefing Day slides](/files/ViPrLab FYP Project Briefing - 16022017.pdf)(16/02/2017)
 
 {::comment}
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
@@ -47,4 +47,3 @@ Most state-of-the-art techniques for HAR have been designed to perform well unde
 
 [Download Link](https://drive.google.com/file/d/0B_3N19NSFoBgOFVPdzg5R21hUHM)
 {:/comment}
-[FYP Briefing Day slides](/files/ViPrLab FYP Project Briefing - 16022017.pdf)
