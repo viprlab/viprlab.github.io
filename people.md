@@ -26,7 +26,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/hiiyl.jpg" caption="Hii Yong Lian" caption2="UG RA" width="120px" height="120px"  %}
 
 ## Alumni
-- [Saimunur Rahman](http://saimunur.github.io/)(:target="_blank"), M.Sc 2014-2016 (R&D Engineer, Vitrox, Malaysia)  
+- [Saimunur Rahman](http://saimunur.github.io/){:target="_blank"}, M.Sc 2014-2016 (R&D Engineer, Vitrox, Malaysia)  
 
 ## Collaborators
 
