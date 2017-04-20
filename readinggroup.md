@@ -3,11 +3,17 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "16/3"
+      time: "1000"
+      presenter: "Ryan"
+      paper: "QuickSpot: A video analytics solution for on-street vacant parking spot detection"
+      details: "Elena Màrmol, Xavier Sevillano (MTAP 2016)"
+      url: "https://link.springer.com/content/pdf/10.1007%2Fs11042-016-3773-8.pdf"
     - date: "9/3"
       time: "1100"
       presenter: "Tazeek"
       paper: "Debunking word2vec"
-      details: "-"
+      details: ""
       url: "http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/"
     - date: "2/3"
       time: "1000"
