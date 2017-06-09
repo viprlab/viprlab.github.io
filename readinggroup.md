@@ -3,15 +3,7 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
-    - date: "15/6"
-      time: "-"
-      presenter: "TBC"
-      paper: "TBC"
-    - date: "6/6"
-      time: "-"
-      presenter: "-"
-      paper: "NO MEETING"
-	- date: "30/5"
+    - date: "30/5"
       time: "1100"
       presenter: "John"
       paper: "Computational Aesthetics: Moving Forward"
