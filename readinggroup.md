@@ -3,6 +3,18 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "16/5"
+      time: "1100"
+      presenter: "Clarence"
+      paper: "Retrieval in long-surveillance videos using user-described motion and object attributes"
+      details: "Gregory Castañón, Mohamed Elgharib, Venkatesh Saligrama, Pierre-Marc Jodoin (IEEE T-CSVT 2016)" 
+      url: "http://ieeexplore.ieee.org/document/7552873/"
+    - date: "9/5"
+      time: "1100"
+      presenter: "Bahar"
+      paper: "Learning-based quality assessment of retargeted stereoscopic images"
+      details: "Liu, Y., Sun, L. and Yang (ICME 2016)" 
+      url: "http://ieeexplore.ieee.org/document/7552873/"
     - date: "2/5"
       time: "1100"
       presenter: "Magzhan"
