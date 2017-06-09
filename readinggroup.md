@@ -3,6 +3,16 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "2/5"
+      time: "1100"
+      presenter: "Magzhan"
+      paper: "A-Lamp: Adaptive Layout-Aware Multi-Patch Deep Convolutional Neural Network for Photo Aesthetic Assessment"
+      details: "Shuang Ma, Jing Liu, Chang Wen Chen (arXiv 2017)" 
+      url: "https://arxiv.org/abs/1704.00248"
+    - date: "25/4"
+      time: "-"
+      presenter: "-"
+      paper: "NO MEETING"
     - date: "18/4"
       time: "1100"
       presenter: "Lai Kuan"
@@ -281,7 +291,7 @@ reads:
 ---
 {% include imagethumbnailblock.html align="right" url="/images/rg-pic1.jpg" height="150px" padding="left" %}{% include imagethumbnailblock.html align="right" url="/images/rg-pic2.jpg" height="150px" padding="left" %}
 We have a paper reading group that meets every week at ViPr Lab. Feel free to join us, or if you would like to be part of the reading rotation. <br><br>
-T1-1617 term meets at **11.30am on Wednesdays**. T2-1617 term meets at **11.00am on Thursdays** (starting November).   
+Currently, we meet on Thursdays at 11.00am (starting June till further notice).   
 
 ## Schedule
 
