@@ -3,6 +3,16 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
+    - date: "15/6"
+      time: "1100"
+      presenter: "TBC"
+      paper: "TBC"
+      details: "TBC" 
+      url: ""
+    - date: "6/6"
+      time: "-"
+      presenter: "-"
+      paper: "NO MEETING"
     - date: "30/5"
       time: "1100"
       presenter: "John"
