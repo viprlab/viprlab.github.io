@@ -3,10 +3,18 @@ layout: page
 permalink: /readinggroup/
 title: Reading Group
 reads:
-    - date: "30/5"
+    - date: "15/6"
+      time: "TBC"
+      presenter: "TBC"
+      paper: "TBC"
+    - date: "6/6"
+      time: "-"
+      presenter: "-"
+      paper: "NO MEETING"
+	- date: "30/5"
       time: "1100"
       presenter: "John"
-      paper: "Retrieval in long-surveillance videos using user-described motion and object attributes"
+      paper: "Computational Aesthetics: Moving Forward"
       details: "Selected recent papers on image aesthetic evaluation" 
       url: " "
     - date: "23/5"
