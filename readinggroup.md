@@ -8,7 +8,6 @@ reads:
       presenter: "TBC"
       paper: "TBC"
       details: "TBC" 
-      url: ""
     - date: "6/6"
       time: "-"
       presenter: "-"
