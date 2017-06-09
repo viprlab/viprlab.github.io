@@ -4,7 +4,7 @@ permalink: /readinggroup/
 title: Reading Group
 reads:
     - date: "15/6"
-      time: "TBC"
+      time: "-"
       presenter: "TBC"
       paper: "TBC"
     - date: "6/6"
