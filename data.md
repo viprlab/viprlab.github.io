@@ -2,7 +2,7 @@
 layout: page
 title: Research
 subtitle: Datasets
-permalink: /data/
+permalink: /research/data/
 ---
 {% include nav-research.html  %}
 
