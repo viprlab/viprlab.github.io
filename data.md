@@ -13,9 +13,7 @@ We are happy to share our data with other researchers. Our data is only for rese
 ### Stereoscopic 3D Image (S3DImage) dataset
 
 {% include imagethumbnailblock.html align="left" url="/images/s3dimage.jpg" width="160px" height="120px" padding="right" %}
-Consists of 50 stereoscopic images collected from three sources: (1) Images captured with our stereo camera, (2) creative common images from Flickr.com, and images provided by [Niu et al. (2012)] (http://web.cecs.pdx.edu/~fliu/project/stereo-warp/)
-
-We provide the following three formats for each image: Side-by-side view, anaglyph (red-cyan) view, separate left and right view
+Consists of 50 stereoscopic images collected from three sources: (1) Images captured with our stereo camera, (2) creative common images from Flickr.com, and images provided by [Niu et al. (2012)](http://web.cecs.pdx.edu/~fliu/project/stereo-warp/). We provide the following three formats for each image: Side-by-side view, anaglyph (red-cyan) view, separate left and right view
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
