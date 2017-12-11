@@ -7,7 +7,7 @@ pubs:
       groups:
         - title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
           author:	"R.W.-S. Lim, C.W. Cheong, J. See, I.K.T Tan, L.-K. Wong, H.-Q. Khor"
-          pub:		"Int. Conf. on Signal and Image Processing Applications (ICSIPA)
+          pub:		"Int. Conf. on Signal and Image Processing Applications (ICSIPA)"
           type:		c
           note:     "Accepted, to appear"
     - year: "2016"
