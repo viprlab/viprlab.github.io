@@ -36,7 +36,7 @@ pubs:
           url:     "https://arxiv.org/pdf/1606.01721.pdf"
           type:     j
           note:     "Accepted, in print"
-		- title:   "Hybrid facial region extraction for micro-expression recognition system"
+        - title:   "Hybrid facial region extraction for micro-expression recognition system"
           author:  "Liong Sze Teng, John See, Raphael C.-W. Phan, Wong KokSheik, Tan Su Wei"
           pub:     "Journal of Signal Processing Systems"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
