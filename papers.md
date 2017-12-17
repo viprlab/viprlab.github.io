@@ -15,7 +15,7 @@ pubs:
           pub:		"Int. Conf. on Image Processing (ICIP)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/filling-gaps-icip17.pdf"
-		- title:	"Pic2Geom: A fast rendering algorithm for low-poly geometric art"
+        - title:	"Pic2Geom: A fast rendering algorithm for low-poly geometric art"
           author:	"Ng Ruisheng, Wong Lai Kuan, John See"
           pub:		"Pacific-Rim Conference on Multimedia (PCM)"
           type:		c
