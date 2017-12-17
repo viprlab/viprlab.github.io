@@ -3,6 +3,8 @@ layout: page
 title: ViPr Lab
 permalink: /
 news:
+   - date: 2017-11-05
+     info: We have 2 papers accepted to [MMM 2018](http://mmm2018.chula.ac.th/) in Bangkok, Thailand.
    - date: 2017-10-09
      info: Our projects obtained three medals (1 gold, 2 bronze) at [Pecipta 2017](https://pecipta.my/)!
    - date: 2017-06-05
