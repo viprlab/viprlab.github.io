@@ -10,7 +10,7 @@ pubs:
           pub:		"Pacific-Rim Conference on Multimedia (PCM)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/pic2geom_pcm17.pdf"
-		- title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
+        - title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
           author:	"Ryan Lim Woei-Sheng, Clarence Cheong Weihan, John See, Ian Tan Kim Teck, Wong Lai Kuan, Khor Huai Qian"
           pub:		"Int. Conf. on Signal and Image Processing Applications (ICSIPA)"
           type:		c
