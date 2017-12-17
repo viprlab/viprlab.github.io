@@ -3,22 +3,24 @@ layout: page
 title: ViPr Lab
 permalink: /
 news:
+   - date: 2017-05-31
+     info: Our projects garnered three medals at ITEX 2017! Congratulations to Project S3DIR2 and PiQual for the Gold Medals and Project Trilobyte for the Silver Medal.
    - date: 2017-03-15
      info: YL Hii and HQ Khor joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for 3-month research internship under [Prof. Cheng Wen-Huang](https://www.citi.sinica.edu.tw/~whcheng/).
 # - date: 2016-12-05
 #     info: Saimunur Rahman passed his M.Sc. viva voce. Congratulations!
 #     img: saimun-viva.jpg
-   - date: 2016-11-02
-     info: Center for Visual Computing (CVC) organized the 2nd Symposium on Visual Computing Research, which was held at Shaftsbury Asteria, Cyberjaya.
-   - date: 2016-08-01
-     info: We have **ONE** Masters research position for Project DeepME. More information [here](/research/jobs/).
-   - date: 2016-06-01
-     info: Vacancies (Masters research scholar) for Project SHERLOCK have been filled! 
-   - date: 2016-05-27
-     info: Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau, Wong Chee Onn and Low Kok-Lim (NUS)) has won a Gold Award at ITEX 2016!
-     img: bahar-lkwong-itex.jpg
-   - date: 2016-05-26
-     info: Website up and running.
+#   - date: 2016-11-02
+#     info: Center for Visual Computing (CVC) organized the 2nd Symposium on Visual Computing Research, which was held at Shaftsbury Asteria, Cyberjaya.
+#   - date: 2016-08-01
+#     info: We have **ONE** Masters research position for Project DeepME. More information [here](/research/jobs/).
+#   - date: 2016-06-01
+#     info: Vacancies (Masters research scholar) for Project SHERLOCK have been filled! 
+#   - date: 2016-05-27
+#     info: Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau, Wong Chee Onn and Low Kok-Lim (NUS)) has won a Gold Award at ITEX 2016!
+#     img: bahar-lkwong-itex.jpg
+#   - date: 2016-05-26
+#     info: Website up and running.
 ---
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
