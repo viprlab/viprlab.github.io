@@ -26,7 +26,7 @@ pubs:
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
           type:     j
           note:     "Accepted, in print"
-		- title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
+        - title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
           author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su-Wei Tan, Xujie Li"
           pub:     "Multimedia Tools and Applications"
           doi:     "https://doi.org/10.1007/s11042-016-4079-6"
