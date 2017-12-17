@@ -9,35 +9,23 @@ pubs:
           author:	"R.W.-S. Lim, C.W. Cheong, J. See, I.K.T Tan, L.-K. Wong, H.-Q. Khor"
           pub:		"Int. Conf. on Signal and Image Processing Applications (ICSIPA)"
           type:		c
-          note:     "Accepted, to appear"
-    - year: "2016"
-      groups:
-        - title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/vehicle_icsipa17.pdf"
+        - title:	"Lost in Time: Temporal analytics for long-term video surveillance"
+          author:	"H.-Q. Khor, J. See"
+          pub:		"Int. Conf. on Computational Science and Technology (ICCST)"
+          type:		c
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lost-in-time-iccst17.pdf"
+        - title:   "Hybrid facial region extraction for micro-expression recognition system"
+          author:  "S.-T. Liong, J. See, R.C.-W. Phan, K. Wong, S.-W. Tan"
+          pub:     "Journal of Signal Processing Systems"
+          doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
+          type:     j
+          note:     "Accepted, in print"
+		- title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
           author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael Phan Chung-Wei, Yogachandran Rahulamathavan, Ling Huo-Chong, Tan Su-Wei, Xujie Li"
           pub:     "Multimedia Tools and Applications"
+          doi:     "https://doi.org/10.1007/s11042-016-4079-6"
           type:     j
-          note:    "Accepted, In Press"
-        - title:   "Automatic Micro-expression Recognition from Long Video using a Single Spotted Apex"
-          author:  "Liong Sze Teng, John See, Wong Kok Sheik, Raphael Phan Chung-Wei"
-          pub:     "ACCV Workshops 2016"
-          type:     c
-          note:    "Accepted"
-        - title:   "Aesthetic Evaluation of Facial Portraits Using Compositional Augmentation for Deep CNNs"
-          author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
-          pub:     "ACCV Workshops 2016"
-          type:     c
-          note:    "Accepted"
-        - title:   "Deep or Shallow Facial Descriptors? A Case for Facial Attribute Classification and Face Retrieval"
-          author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
-          pub:     "ACCV Workshops 2016"
-          type:     c
-          note:    "Accepted"
-        - title:	"DUKE: Enhancing Virtual Reality based FPS Game with Full-Body Interactions"
-          author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid bin Sulaiman, John See"
-          pub:		"ACE 2016"
-          type:		c
-          note:     "Accepted"
-          url:		"http://pesona.mmu.edu.my/~johnsee/research/papers/files/duke_ace16.pdf"
         - title:   "A Survey of Aesthetics-Driven Image Recomposition"
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
           pub:     "Multimedia Tools and Applications"
@@ -45,9 +33,28 @@ pubs:
           doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
         - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
-          pub:     "ICCSE 2016"
-          type:     c 
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"		  
+          pub:     "Advanced Science Letters (via ICCSE 2016)"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"
+    - year: "2016"
+      groups:
+        - title:   "Automatic Micro-expression Recognition from Long Video using a Single Spotted Apex"
+          author:  "Liong Sze Teng, John See, Wong Kok Sheik, Raphael Phan Chung-Wei"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+        - title:   "Aesthetic Evaluation of Facial Portraits Using Compositional Augmentation for Deep CNNs"
+          author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+        - title:   "Deep or Shallow Facial Descriptors? A Case for Facial Attribute Classification and Face Retrieval"
+          author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+        - title:	"DUKE: Enhancing Virtual Reality based FPS Game with Full-Body Interactions"
+          author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid bin Sulaiman, John See"
+          pub:		"ACE 2016"
+          type:		c
+          url:		"http://pesona.mmu.edu.my/~johnsee/research/papers/files/duke_ace16.pdf"		  
         - title:   "Spatio-temporal Mid-Level Feature Bank for Action Recognition in Low Quality Video"
           author:  "Saimunur Rahman, John See"
           pub:     "ICASSP 2016"
