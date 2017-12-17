@@ -44,7 +44,7 @@ We work on a wide variety of research areas, particularly in the following speci
 
 ## Prospective Students
 
-We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate) to join the lab. We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. John See] or [Dr. Wong Lai Kuan]) if you have any enquiries about our research or would like to join us.
+We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. John See] or [Dr. Wong Lai Kuan]) if you have any enquiries about our research or would like to join us.
 
 Undergraduate students can also be part of the group by means of final year thesis project or formal appointment via research funding.
 
