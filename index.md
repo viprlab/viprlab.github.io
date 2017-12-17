@@ -5,7 +5,7 @@ permalink: /
 news:
    - date: 2017-03-15
      info: YL Hii and HQ Khor joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for 3-month research internship under [Prof. Cheng Wen-Huang](https://www.citi.sinica.edu.tw/~whcheng/).
-   - date: 2016-12-05
+<!--   - date: 2016-12-05
      info: Saimunur Rahman passed his M.Sc. viva voce. Congratulations!
      img: saimun-viva.jpg
    - date: 2016-11-02
@@ -19,6 +19,7 @@ news:
      img: bahar-lkwong-itex.jpg
    - date: 2016-05-26
      info: Website up and running.
+-->
 ---
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
