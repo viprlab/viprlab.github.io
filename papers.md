@@ -6,23 +6,28 @@ pubs:
     - year: "2017"
       groups:
         - title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
-          author:	"R.W.-S. Lim, C.W. Cheong, J. See, I.K.T Tan, L.-K. Wong, H.-Q. Khor"
+          author:	"Ng Ruisheng, Wong Lai Kuan, John See"
+          pub:		"Pacific-Rim Conference on Multimedia (PCM)"
+          type:		c
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/pic2geom_pcm17.pdf"
+		- title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
+          author:	"Ryan Lim Woei-Sheng, Clarence Cheong Weihan, John See, Ian Tan Kim Teck, Wong Lai Kuan, Khor Huai Qian"
           pub:		"Int. Conf. on Signal and Image Processing Applications (ICSIPA)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/vehicle_icsipa17.pdf"
         - title:	"Lost in Time: Temporal analytics for long-term video surveillance"
-          author:	"H.-Q. Khor, J. See"
+          author:	"Khor Huai Qian, John See"
           pub:		"Int. Conf. on Computational Science and Technology (ICCST)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lost-in-time-iccst17.pdf"
         - title:   "Hybrid facial region extraction for micro-expression recognition system"
-          author:  "S.-T. Liong, J. See, R.C.-W. Phan, K. Wong, S.-W. Tan"
+          author:  "Liong Sze Teng, John See, Raphael C.-W. Phan, Wong KokSheik, Su-Wei Tan"
           pub:     "Journal of Signal Processing Systems"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
           type:     j
           note:     "Accepted, in print"
 		- title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
-          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael Phan Chung-Wei, Yogachandran Rahulamathavan, Ling Huo-Chong, Tan Su-Wei, Xujie Li"
+          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su-Wei Tan, Xujie Li"
           pub:     "Multimedia Tools and Applications"
           doi:     "https://doi.org/10.1007/s11042-016-4079-6"
           type:     j
@@ -32,7 +37,7 @@ pubs:
           type:     j
           doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
         - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
-          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
+          author:  "Saimunur Rahman, John See, Ho Chiung Ching"
           pub:     "Advanced Science Letters (via ICCSE 2016)"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"
@@ -61,12 +66,12 @@ pubs:
           type:     c 
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/stem_icassp16.pdf"
         - title:   "Pressure-based Touch Positioning Techniques for 3D Objects"
-          author:  "Siyuan Qiu, Lu Wang, Lai-Kuan Wong"
+          author:  "Siyuan Qiu, Lu Wang, Wong Lai Kuan"
           pub:     "SIGGRAPH Symposium on Interactive 3D Graphics and Games (i3D) 2016"
           type:     c 
           doi:     "http://dx.doi.org/10.1145/2856400.2876010"	
         - title:   "Leveraging Textural Features for Recognizing Actions in Low Quality Videos"
-          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
+          author:  "Saimunur Rahman, John See, Ho Chiung Ching"
           pub:     "ROVISP 2016"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/leverage_rovisp16.pdf"
@@ -78,7 +83,7 @@ pubs:
     - year: "2015"
       groups:         
         - title:   "Semantics Preserving Warping for Stereoscopic Image Retargeting"
-          author:  "Chun-Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
+          author:  "Tan Chun Hau, Md Baharul Islam, Wong Lai Kuan, Low Kok Lim" 
           pub:     "PSIVT 2015"
           type:     c
           doi:     "http://dx.doi.org/10.1007/978-3-319-29451-3_21"	
@@ -89,22 +94,17 @@ pubs:
           type:     c
           doi:     "http://dx.doi.org/10.1109/DICTA.2015.7371292"	  
         - title:   "Stereoscopic Image Warping for Enhancing Composition Aesthetics"
-          author:  "Md Baharul Islam, Lai-Kuan Wong, Chee-Onn Wong, Kok-Lim Low" 
+          author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn, Low Kok Lim" 
           pub:     "ACPR 2015"
           type:     c
-        - title:   "Detection and Classification of Diabetic Retinopathy Anomalies using Bag-of-Words Model"
-          author:  "Fanji Ari Mukti, Chikkannan Eswaran, Noramiza Hashim" 
-          pub:     "Journal of Medical Imaging and Health Informatics"
-          type:     j
-          doi:     "http://dx.doi.org/10.1166/jmihi.2015.1491"	
         - title:   "Lost and Found: Identifying Objects in Long-Term Surveillance Videos"
-          author:  "Mohamad Mahdi Saemi, John See, Suyin Tan" 
+          author:  "Mohamad Mahdi Saemi, John See, Tan Suyin" 
           pub:     "ICSIPA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lostfound_icsipa15.pdf"
           type:     c
           doi:     "http://dx.doi.org/10.1109/ICSIPA.2015.7412171"
         - title:   "Action Recognition in Low Quality Videos by Jointly Using Shape, Motion and Texture Features"
-          author:  "Saimunur Rahman, John See, Chiung Ching Ho" 
+          author:  "Saimunur Rahman, John See, Ho Chiung Ching" 
           pub:     "ICSIPA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lowquality_icsipa15.pdf"
           type:     c
