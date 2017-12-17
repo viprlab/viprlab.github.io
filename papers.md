@@ -42,12 +42,17 @@ pubs:
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
           type:     j
           note:     "Accepted, in print"
-        - title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
+        - title:   "Exploiting textures for better action recognition in low-quality videos "
+          author:  "Saimunur Rahman, John See, Ho Chiung Ching"
+          pub:     "EURASIP Journal on Image and Video Processing"
+          doi:     "https://doi.org/10.1186/s13640-017-0221-2"
+          type:     j
+        - title:   "Effective recognition of facial micro-expressions with video motion magnification"
           author:  "Yandan Wang, John See, Oh Yee Hui, Raphael C.-W. Phan, Y. Rahulamathavan, Ling Huo Chong, Tan Su Wei, Xujie Li"
           pub:     "Multimedia Tools and Applications"
           doi:     "https://doi.org/10.1007/s11042-016-4079-6"
           type:     j
-        - title:   "A Survey of Aesthetics-Driven Image Recomposition"
+        - title:   "A survey of aesthetics-driven image recomposition"
           author:  "Md Baharul Islam, Wong Lai Kuan, Wong Chee Onn"
           pub:     "Multimedia Tools and Applications"
           type:     j
