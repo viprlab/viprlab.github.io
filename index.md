@@ -3,8 +3,12 @@ layout: page
 title: ViPr Lab
 permalink: /
 news:
+   - date: 2017-10-09
+     info: Our projects obtained three medals (1 gold, 2 bronze) at [Pecipta 2017](https://pecipta.my/)!
+   - date: 2017-06-05
+     info: We have 2 papers on image aesthetics accepted to [ICIP 2017](http://2017.ieeeicip.org/) in Beijing, China. Congratulations to Magzhan for securing the IEEE SPS Travel Grant of USD 1,000!  
    - date: 2017-05-31
-     info: Our projects garnered three medals at ITEX 2017! Congratulations to Project S3DIR2 and PiQual for the Gold Medals and Project Trilobyte for the Silver Medal.
+     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)! 
    - date: 2017-03-15
      info: YL Hii and HQ Khor joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for 3-month research internship under [Prof. Cheng Wen-Huang](https://www.citi.sinica.edu.tw/~whcheng/).
 # - date: 2016-12-05
