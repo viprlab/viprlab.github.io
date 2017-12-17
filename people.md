@@ -48,7 +48,7 @@ permalink: /people/
 - [Leow Wee Kheng](http://www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
 - [Low Kok-Lim](http://comp.nus.edu.sg/~lowkl) (NUS, Singapore)
 - [Yap Moi Hoon](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/){:target="_blank"} (Manchester Metropolitan University, UK)
-- [Weiyao Lin](http://){:target="_blank"} (Shanghai Jiao Tong University, China)
+- [Weiyao Lin](http://wylin2.drivehq.com/){:target="_blank"} (Shanghai Jiao Tong University, China)
 - Yandan Wang (Wenzhou University, China)
 - Anh Cat Le Ngo (University of Nottingham, UK)
 
