@@ -5,7 +5,17 @@ title: Papers
 pubs:
     - year: "2017"
       groups:
-        - title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
+        - title:	"MultiGAP: Multi-pooled inception network with text augmentation for aesthetic prediction of photographs"
+          author:	"Hii Yong Lian, John See, Magzhan Kairanbay, Wong Lai Kuan"
+          pub:		"Int. Conf. on Image Processing (ICIP)"
+          type:		c
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/multigap-icip17.pdf"
+        - title:	"Filling the gaps: Reducing the complexity of networks for multi-attribute image aesthetic prediction"
+          author:	"Magzhan Kairanbay, John See, Wong Lai Kuan, Hii Yong Lian"
+          pub:		"Int. Conf. on Image Processing (ICIP)"
+          type:		c
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/filling-gaps-icip17.pdf"
+		- title:	"Pic2Geom: A fast rendering algorithm for low-poly geometric art"
           author:	"Ng Ruisheng, Wong Lai Kuan, John See"
           pub:		"Pacific-Rim Conference on Multimedia (PCM)"
           type:		c
@@ -20,14 +30,20 @@ pubs:
           pub:		"Int. Conf. on Computational Science and Technology (ICCST)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lost-in-time-iccst17.pdf"
-        - title:   "Hybrid facial region extraction for micro-expression recognition system"
-          author:  "Liong Sze Teng, John See, Raphael C.-W. Phan, Wong KokSheik, Su-Wei Tan"
+        - title:   "Less is more: Micro-expression recognition from video using apex frame"
+          author:  "Liong Sze Teng, John See, Wong KokSheik, Raphael C.-W. Phan"
+          pub:     "Signal Processing: Image Communication"
+          url:     "https://arxiv.org/pdf/1606.01721.pdf"
+          type:     j
+          note:     "Accepted, in print"
+		- title:   "Hybrid facial region extraction for micro-expression recognition system"
+          author:  "Liong Sze Teng, John See, Raphael C.-W. Phan, Wong KokSheik, Tan Su Wei"
           pub:     "Journal of Signal Processing Systems"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
           type:     j
           note:     "Accepted, in print"
         - title:   "Effective Recognition of Facial Micro-Expressions with Video Motion Magnification"
-          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su-Wei Tan, Xujie Li"
+          author:  "Yandan Wang, John See, Oh Yee Hui, Raphael C.-W. Phan, Y. Rahulamathavan, Ling Huo Chong, Tan Su Wei, Xujie Li"
           pub:     "Multimedia Tools and Applications"
           doi:     "https://doi.org/10.1007/s11042-016-4079-6"
           type:     j
