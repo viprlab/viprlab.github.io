@@ -42,10 +42,15 @@ pubs:
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
           type:     j
           note:     "Accepted, in print"
-        - title:   "Exploiting textures for better action recognition in low-quality videos "
+        - title:   "Exploiting textures for better action recognition in low-quality videos"
           author:  "Saimunur Rahman, John See, Ho Chiung Ching"
           pub:     "EURASIP Journal on Image and Video Processing"
           doi:     "https://doi.org/10.1186/s13640-017-0221-2"
+          type:     j
+        - title:   "Sparsity in dynamics of spontaneous subtle emotions: Analysis & application"
+          author:  "Anh Cat Le Ngo, John See, Raphael C.-W. Phan"
+          pub:     "IEEE Trans. on Affective Computing"
+          doi:     "http://dx.doi.org/10.1109/TAFFC.2016.2523996"
           type:     j
         - title:   "Effective recognition of facial micro-expressions with video motion magnification"
           author:  "Yandan Wang, John See, Oh Yee Hui, Raphael C.-W. Phan, Y. Rahulamathavan, Ling Huo Chong, Tan Su Wei, Xujie Li"
