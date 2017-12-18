@@ -57,7 +57,7 @@ A micro-expression is a brief and involuntary facial movement which reveals a ge
 <!-- total: 2,658,400 -->
 
 ### Internal
-- **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays **{:.hilite}, 2017-**Current**{:.marker}, MMU R&D Capex Fund, RM 23,550.
+- **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-**Current**{:.marker}, MMU R&D Capex Fund, RM 23,550.
 - **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-**Current**{:.marker}, MMU-GRA Funding, RM 57,600.
 - **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-**Current**{:.marker}, MMU-GRA Funding, RM 118,800.
 - **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, RM 20,000.
