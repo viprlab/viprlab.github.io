@@ -10,7 +10,7 @@ permalink: /research/jobs/
 
 Vacancies in ViPr Lab will be posted here.
 
-* We are looking for 2 Ph.D students to work in the areaes of (1) **visual cloud applications** (retail / drone / dashcam surveillance), (2) **job scheduling on cloud**. Interested applicants please contact Dr. John See (johnsee@mmu.edu.my) or Dr. Ian Tan (ian@mmu.edu.my).
+* We are looking for 2 Ph.D students to work in the areas of (1) **visual cloud applications** (retail / drone / dashcam surveillance), (2) **job scheduling on cloud**. Interested applicants please contact Dr. John See (johnsee@mmu.edu.my) or Dr. Ian Tan (ian@mmu.edu.my).
 
 <!-- have ONE **Masters GRA vacancy** ([flyer here]{:target="_blank"}) for project **DeepME**. Interested applicants can fill in the application form below, or click [here]{:target="_blank"} if the form does not load properly on this page. 
 
