@@ -54,7 +54,7 @@ A micro-expression is a brief and involuntary facial movement which reveals a ge
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-**Current**{:.marker}, TM R&D Fund, RM 230,000.
 - **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, RM 70,600.
 - **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant, RM 76,600.
-<!-- total: 457,126 -->
+<!-- total: 2,658,400 -->
 
 ### Internal
 - **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays **{:.hilite}, 2017-**Current**{:.marker}, MMU R&D Capex Fund, RM 23,550.
@@ -63,4 +63,4 @@ A micro-expression is a brief and involuntary facial movement which reveals a ge
 - **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, RM 20,000.
 - **Mining for Trends and Anomalies from Long-term Video Surveillance**{:.hilite}, 2014-2015, Mini Fund, RM 6,440
 - **Analysis of Variational Patterns in Long-term Video Surveillance Data**{:.hilite}, 2013-2014, Mini Fund, RM 7,970
-<!-- total: 300,810 -->
+<!-- total: 234,360 -->
