@@ -30,6 +30,14 @@ pubs:
           pub:		"Int. Conf. on Computational Science and Technology (ICCST)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lost-in-time-iccst17.pdf"
+        - title:	"TARogic: Tangible augmented reality game"
+          author:	"Albert Quek, Lee Kah Tong"
+          pub:		"Int. Conf. on Informatics, Computing and Applied Mathematics"
+          type:		c
+        - title:	"Onmyouji: Gesture-based virtual reality game"
+          author:	"Albert Quek, Chou Ka Weng, Yew Hui Hong"
+          pub:		"Int. Conf. on Informatics, Computing and Applied Mathematics"
+          type:		c
         - title:   "Less is more: Micro-expression recognition from video using apex frame"
           author:  "Liong Sze Teng, John See, Wong KokSheik, Raphael C.-W. Phan"
           pub:     "Signal Processing: Image Communication"
