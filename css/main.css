@@ -204,6 +204,9 @@ em.rgdetails {
 	font-size: 0.8em;
 }
 
+
+.nocaptioned-img { text-align: left; border: none; font-size: smaller; overflow: hidden; }
+
 .captioned-img { text-align: center; border: none; font-size: smaller; overflow: hidden; }
 
 .captioned-img dd { padding: 2px 0px 3px 0px; margin: 0; }
