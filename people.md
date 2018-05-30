@@ -13,24 +13,26 @@ permalink: /people/
 ## Postgraduates
 {% include imagethumbnailblock.html url="/images/bahar.jpg" caption="Baharul Islam" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/magzhan.jpg" caption="Magzhan Kairanbay" caption2="Ph.D student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/chunhau.jpg" caption="Tan Chun Hau" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/faiz.jpg" caption="Muhammad Faiz Ghazali" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/ryan.jpg" caption="Ryan Lim" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/clarence.jpg" caption="Clarence Cheong" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/tazeek.jpg" caption="Tazeek" caption2="M.Sc student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/asyraf.jpg" caption="Asyraf Ibrahim" caption2="M.Sc student" width="120px" height="120px"  %}
 
 ## Research Assistants
-{% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Officer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Officer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/junehao.jpg" caption="Ching June Hao" caption2="Project Developer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/nophoto.jpg" caption="Benjamin Bong" caption2="Research Officer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/nophoto.jpg" caption="Nelsen Chong" caption2="Research Officer" width="120px" height="120px"  %}
 
 ## Associate Members
 {% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" caption2="Data Science Institute" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/khpoo.jpg" caption="Poo Kuan Hoong" caption2="Coqnitics" width="120px" height="120px"  %}
 
 ## Alumni
-- [Saimunur Rahman](http://saimunur.github.io/){:target="_blank"}, M.Sc 2014-2016 (R&D Engineer, Vitrox, Malaysia) 
+- [Saimunur Rahman](http://saimunur.github.io/){:target="_blank"}, M.Sc 2014-2016 (PhD Student & CSIRO Data61 Scholar, Univ. of Wollongong, Australia) 
 - [Hii Yong Lian](https://github.com/HiiYL){:target="_blank"}, UG RA 2016-2017 (Software Engineer, Carousell, Singapore)   
 
 ## Collaborators
