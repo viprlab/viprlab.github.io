@@ -25,7 +25,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/junehao.jpg" caption="Ching June Hao" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/nophoto.jpg" caption="Benjamin Bong" caption2="Research Officer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/nophoto.jpg" caption="Nelsen Chong" caption2="Research Officer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/nophoto.jpg" caption="Nelson Chong" caption2="Research Officer" width="120px" height="120px"  %}
 
 ## Associate Members
 {% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" caption2="Data Science Institute" width="120px" height="120px"  %}
