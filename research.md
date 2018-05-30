@@ -49,7 +49,7 @@ A micro-expression is a brief and involuntary facial movement which reveals a ge
 
 ### External
 - **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, **to start in 2018**{:.marker}, CREST R&D Grant, RM 1,998,000.
-- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-Current**{:.marker}, One Belt One Road Initiative Young Scholar Exchange Grant, 300,000 Chinese yuan.
+- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-Current**{:.marker}, One Belt One Road Initiative Young Scholar Exchange Grant, 300,000 Chinese RMB.
 - **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-**Current**{:.marker}, MOHE FRGS Grant, RM 80,200.
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-**Current**{:.marker}, TM R&D Fund, RM 200,000.
 - **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, RM 70,600.
