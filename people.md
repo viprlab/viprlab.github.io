@@ -28,7 +28,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/nelson.jpg" caption="Nelson Chong" caption2="Research Officer" width="120px" height="120px"  %}
 
 ## Associate Members
-{% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" caption2="Data Science Institute" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" caption2="" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/khpoo.jpg" caption="Poo Kuan Hoong" caption2="Coqnitics" width="120px" height="120px"  %}
 
 ## Alumni
@@ -39,10 +39,10 @@ permalink: /people/
 
 ### Local
 - [Chan Chee Seng](http://web.fsktm.um.edu.my/~cschan/){:target="_blank"} (FSKTM, Universiti Malaya)
-- [Wong Kok Sheik](https://www.monash.edu.my/it/staff/academic-staff/a-prof-wong-kok-sheik){:target="_blank"} (, Monash University, Malaysia)
-- [Lim Einly](http://www.asiancardiac.org/){:target="_blank"} (Asian Cardiac, Universiti Malaya)
+- [Wong Kok Sheik](https://www.monash.edu.my/it/staff/academic-staff/a-prof-wong-kok-sheik){:target="_blank"} (Monash University, Malaysia)
+- [Lim Einly](http://www.asiancardiac.org/){:target="_blank"} (University of Malaya)
 - Kwong Kae Hsiang (Recogine Technology)
-- Abdul Aziz Abdul Rahman (TM R&D)
+- Azrin Aris (TM One)
 - Hezri Amir (HezMedia Interactive)
 
 ### International
