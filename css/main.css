@@ -1,3 +1,6 @@
+@font-face {font-family: 'Lato';font-style: normal;font-weight: 400;src: url('../fonts/lato-light-ext.woff2') format('woff2')}
+@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;src: url('../fonts/open-sans-ext.woff2') format('woff2')}
+
 .site-header { border-bottom: 1px solid #ccc; position: relative; text-transform: uppercase; font-size: 0.875em; }
 
 .site-header, .site-header a { color: #888; }
