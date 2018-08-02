@@ -22,7 +22,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/junehao.jpg" caption="Ching June Hao" caption2="Project Developer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/garychan.jpg" caption="Gary Chee" caption2="Research Intern" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/garychan.jpg" caption="Gary Chan" caption2="Research Intern" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/tingwei.jpg" caption="Goh Ting Wei" caption2="Research Intern" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/benjamin.jpg" caption="Benjamin Bong" caption2="Research Officer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/nelson.jpg" caption="Nelson Chong" caption2="Research Officer" width="120px" height="120px"  %}
