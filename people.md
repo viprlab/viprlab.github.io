@@ -17,15 +17,16 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/ryan.jpg" caption="Ryan Lim" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/clarence.jpg" caption="Clarence Cheong" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="M.Sc student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/tazeek.jpg" caption="Tazeek" caption2="M.Sc student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/asyraf.jpg" caption="Asyraf Ibrahim" caption2="M.Sc student" width="120px" height="120px"  %}
 
 ## Research Assistants
 {% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/junehao.jpg" caption="Ching June Hao" caption2="Project Developer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/garychan.jpg" caption="Gary Chee" caption2="Research Intern" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/tingwei.jpg" caption="Goh Ting Wei" caption2="Research Intern" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/benjamin.jpg" caption="Benjamin Bong" caption2="Research Officer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/nelson.jpg" caption="Nelson Chong" caption2="Research Officer" width="120px" height="120px"  %}
+
 
 ## Associate Members
 {% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" caption2="" width="120px" height="120px"  %}
@@ -50,7 +51,7 @@ permalink: /people/
 - [Leow Wee Kheng](http://www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
 - [Low Kok-Lim](http://comp.nus.edu.sg/~lowkl) (NUS, Singapore)
 - [Yap Moi Hoon](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/){:target="_blank"} (Manchester Metropolitan University, UK)
-- [Weiyao Lin](http://wylin2.drivehq.com/){:target="_blank"} (Shanghai Jiao Tong University, China)
+- [Weiyao Lin](http://weiyaolin.github.io/){:target="_blank"} (Shanghai Jiao Tong University, China)
 - Yandan Wang (Wenzhou University, China)
 - Anh Cat Le Ngo (University of Nottingham, UK)
 
