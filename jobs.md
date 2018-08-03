@@ -25,9 +25,10 @@ We are always happy to receive students, from undergraduate or postgraduate leve
 * Opportunity to work in an enthusiastic research group in specific niche areas in visual processing
 * Participation in regular reading group and access to facilities in the lab (machines and coffee!) 
 * Gain experience or a foretaste of working in computing research. 
-<!-- have ONE **Masters GRA vacancy** ([flyer here]{:target="_blank"}) for project **DeepME**. Interested applicants can fill in the application form below, or click [here]{:target="_blank"} if the form does not load properly on this page. 
 
-<iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="800" height="1980" >
+<!-- have ONE **Masters GRA vacancy** ([flyer here]{:target="_blank"}) for project **DeepME**. Interested applicants can fill in the application form below, or click [here]{:target="_blank"} if the form does not load properly on this page. -->
+
+<!-- <iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="800" height="1980" >
             Alternative text for browsers that do not understand IFrames.
 </iframe>
 -->
