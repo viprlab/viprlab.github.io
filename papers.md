@@ -11,6 +11,12 @@ pubs:
           type:     j
           url:     "https://arxiv.org/pdf/1606.01721.pdf"
           doi:     "https://doi.org/10.1016/j.image.2017.11.006"
+        - title:   "Hybrid facial region extraction for micro-expression recognition system"
+          author:  "Liong Sze Teng, John See, Raphael C.-W. Phan, Wong KokSheik, Tan Su Wei"
+          pub:     "Journal of Signal Processing Systems"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/hybrid_jsps17.pdf"
+          doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
     - year: "2017"
       groups:
         - title:	"MultiGAP: Multi-pooled inception network with text augmentation for aesthetic prediction of photographs"
@@ -46,12 +52,6 @@ pubs:
           author:	"Albert Quek, Chou Ka Weng, Yew Hui Hong"
           pub:		"Int. Conf. on Informatics, Computing and Applied Mathematics"
           type:		c
-        - title:   "Hybrid facial region extraction for micro-expression recognition system"
-          author:  "Liong Sze Teng, John See, Raphael C.-W. Phan, Wong KokSheik, Tan Su Wei"
-          pub:     "Journal of Signal Processing Systems"
-          doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
-          type:     j
-          note:     "Accepted, in print"
         - title:   "Exploiting textures for better action recognition in low-quality videos"
           author:  "Saimunur Rahman, John See, Ho Chiung Ching"
           pub:     "EURASIP Journal on Image and Video Processing"
