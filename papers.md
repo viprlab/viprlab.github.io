@@ -3,14 +3,6 @@ layout: page
 permalink: /papers/
 title: Papers
 pubs:
-    - year: "2018"
-      groups:
-        - title:   "Less is more: Micro-expression recognition from video using apex frame"
-          author:  "Liong Sze Teng, John See, Wong KokSheik, Raphael C.-W. Phan"
-          pub:     "Signal Processing: Image Communication"
-          url:     "https://arxiv.org/pdf/1606.01721.pdf"
-          type:     j
-          doi:     "https://doi.org/10.1016/j.image.2017.11.006"
     - year: "2017"
       groups:
         - title:	"MultiGAP: Multi-pooled inception network with text augmentation for aesthetic prediction of photographs"
