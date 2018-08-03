@@ -5,6 +5,12 @@ title: Papers
 pubs:
     - year: "2018"
       groups:
+        - title:   "A survey of automatic facial micro-expression analysis: Databases, methods, and challenges"
+          author:  "Oh Yee Hui, John See, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu Monn Baskaran"
+          pub:     "Frontiers in Psychology"
+          type:     j
+          url:     "https://arxiv.org/pdf/1606.01721.pdf"
+          doi:     "https://doi.org/10.3389/fpsyg.2018.01128"
         - title:   "Less is more: Micro-expression recognition from video using apex frame"
           author:  "Liong Sze Teng, John See, Wong KokSheik, Raphael C.-W. Phan"
           pub:     "Signal Processing: Image Communication"
@@ -23,6 +29,12 @@ pubs:
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/towards_mmm18.pdf"
           doi:     "https://doi.org/10.1007/978-3-319-73603-7_43"
+        - title:   "Vehicle semantics extraction and retrieval for long-term carpark video surveillance"
+          author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
+          pub:     "Int. Conf. on Multimedia Modeling (MMM)"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/vehicle_mmm18.pdf"
+          doi:     "https://doi.org/10.1007/978-3-319-73600-6_27"
     - year: "2017"
       groups:
         - title:	"MultiGAP: Multi-pooled inception network with text augmentation for aesthetic prediction of photographs"
