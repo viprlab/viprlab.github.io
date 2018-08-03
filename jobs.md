@@ -12,9 +12,9 @@ Vacancies in ViPr Lab will be posted here.
 
 ### Funded
 
-* We are looking for **2 Ph.D students** (Malaysian citizens only) to work in the areas of (1) **algorithms for visual cloud analytics** (applications such as retail/crowd surveillance), (2) **embedded systems/edge computing for IoT**. Interested applicants may contact Dr. John See (:email: johnsee@mmu.edu.my) or Dr. Ian Tan (:email: ian@mmu.edu.my) by email.
+* We are looking for **2 Ph.D students** (Malaysian citizens only) to work in the areas of (1) **algorithms for visual cloud analytics** (applications such as retail/crowd surveillance), (2) **embedded systems/edge computing for IoT**. Interested applicants may contact Dr. John See (`johnsee[at]mmu[dot]edu[dot]my`) or Dr. Ian Tan (`ian[at]mmu[dot]edu[dot]my`) by email.
 
-* We are looking for **1 Masters/Ph.D student** (open to all) to work in some niche areas of computational photography. This is for a *graduate research assistantship* which must be jointly applied by both supervisor and candidate, subject to an interview and approval by university. Interested applicants may contact Dr. John See (:email: johnsee@mmu.edu.my) or Dr. Wong Lai Kuan (:email: lkwong@mmu.edu.my) by email. Topics are as follows:
+* We are looking for **1 Masters/Ph.D student** (open to all) to work in some niche areas of computational photography. This is for a *graduate research assistantship* which must be jointly applied by both supervisor and candidate, subject to an interview and approval by university. Interested applicants may contact Dr. John See (`johnsee[at]mmu[dot]edu[dot]my`) or Dr. Wong Lai Kuan (`lkwong[at]mmu[dot]edu[dot]my`) by email. Topics are as follows:
     - **Aesthetic and/or emotional captioning of photos**
     - **Learning and predicting affective content in photos**
 
@@ -26,7 +26,7 @@ We are always happy to receive students, from undergraduate or postgraduate leve
 * Participation in regular reading group and access to facilities in the lab (machines and coffee!) 
 * Gain experience or a foretaste of working in computing research. 
 
-Send your CV with a cover letter to Dr. John See (:email: johnsee@mmu.edu.my) or Dr. Wong Lai Kuan (:email: lkwong@mmu.edu.my).
+Send your CV with a cover letter to Dr. John See (`johnsee[at]mmu[dot]edu[dot]my`) or Dr. Wong Lai Kuan (`lkwong[at]mmu[dot]edu[dot]my`).
 <!-- have ONE **Masters GRA vacancy** ([flyer here]{:target="_blank"}) for project **DeepME**. Interested applicants can fill in the application form below, or click [here]{:target="_blank"} if the form does not load properly on this page. -->
 
 <!-- <iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="800" height="1980" >
