@@ -17,6 +17,12 @@ pubs:
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/hybrid_jsps17.pdf"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
+        - title:   "Towards demographic-based photographic aesthetics prediction for portraitures"
+          author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
+          pub:     "Int. Conf. on Multimedia Modeling (MMM)"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/towards_mmm18.pdf"
+          doi:     "https://doi.org/10.1007/978-3-319-73603-7_43"
     - year: "2017"
       groups:
         - title:	"MultiGAP: Multi-pooled inception network with text augmentation for aesthetic prediction of photographs"
