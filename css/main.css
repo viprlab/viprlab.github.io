@@ -140,6 +140,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .post-link { display: block; }
 
+.authors { font-size: 0.85em }
+
 .highlight { background: #fff; }
 .highlight .c { color: #998; font-style: italic; }
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
