@@ -129,12 +129,6 @@ pubs:
           doi:      "http://dx.doi.org/10.14419/ijet.v7i2.14.11465"
     - year: "2016"
       groups:
-        - title:   "Spontaneous subtle expression detection and recognition based on facial strain "
-          author:  "Sze-Teng Liong, John See, Raphael C.-W. Phan, Yee-Hui Oh, Anh Cat Le Ngo, KokSheik Wong, Su-Wei Tan"
-          pub:     "Signal Processing: Image Communication"
-          type:     j
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/facialstrain_spic16.pdf"
-          doi:     "http://dx.doi.org/10.1016/j.image.2016.06.004"
         - title:   "Eulerian emotion magnification for subtle expression recognition"
           author:  "Anh Cat Le Ngo, Yee-Hui Oh, Raphael C.-W. Phan, John See"
           pub:     "ICASSP 2016"
@@ -186,13 +180,7 @@ pubs:
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
-      groups:         
-        - title:   "Efficient spatio-temporal local binary patterns for spontaneous facial micro-expression recognition"
-          author:  "Yandan Wang, John See, Raphael C.-W. Phan, Yee-Hui Oh" 
-          pub:     "PLoS One"
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/sipmop_pone15.pdf"
-          type:     j
-          doi:     "http://dx.doi.org/10.1371/journal.pone.0124674"
+      groups:
         - title:   "Semantics preserving warping for stereoscopic image retargeting"
           author:  "Chun Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
           pub:     "PSIVT 2015"
