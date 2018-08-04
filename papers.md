@@ -218,7 +218,7 @@ pubs:
 {% endif %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}){:target="_blank"} {% else %} [{{entry.title}}]({{entry.doi}}){:target="_blank"} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author}}</span><br />
-{{entry.pub}}
+<span class="publication">{{entry.pub}}</span>
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %} 
 {% endfor %}
 {% endfor %}
