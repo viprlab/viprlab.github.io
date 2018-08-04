@@ -140,12 +140,10 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .post-link { display: block; }
 
-.authors, .publication { font-size: 0.85em }
+.authors, .publication { font-size: 0.85em; margin-left: 20px; }
 
-div.paper { margin-left: 15px }
-p a.conf { background-image: url('../images/c.png'); padding: 15px; }
-
-p a.journal {  background-image: url('../images/j.png'); padding: 15px; }
+p a.conf { background-image: url('../images/c.png'); margin-left: 20px; padding-bottom: 2em; }
+p a.journal {  background-image: url('../images/j.png'); margin-left: 20px; padding-bottom: 2em; }
 
 .highlight { background: #fff; }
 .highlight .c { color: #998; font-style: italic; }
