@@ -5,12 +5,24 @@ title: Papers
 pubs:
     - year: "2018"
       groups:
-        - title:   "A survey of automatic facial micro-expression analysis: Databases, methods, and challenges"
-          author:  "Oh Yee Hui, John See, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu Monn Baskaran"
-          pub:     "Frontiers in Psychology"
+        - title:   "The design and empirical evaluations of 3D positioning techniques for pressure-based touch control on mobile devices"
+          author:  "Lu Wang, Wong Lai Kuan, Yajie Xu, Xiao Zhou, Siyuan Qiu, Xiangxu Meng, Chenglei Yang"
+          pub:     "Personal and Ubiquitous Computing"
           type:     j
-          url:     "https://arxiv.org/pdf/1606.01721.pdf"
-          doi:     "https://doi.org/10.3389/fpsyg.2018.01128"
+          url:     "https://dl.acm.org/citation.cfm?id=3234127"
+          doi:     "https://doi.org/10.1007/s00779-018-1147-0"
+        - title:   "Semantic facial scores and compact deep transferred descriptors for scalable face image retrieval"
+          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "Neurocomputing"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/semantic_neurocomp18.pdf"
+          doi:     "https://doi.org/10.1016/j.neucom.2018.04.056"
+        - title:   "Semantic facial scores and compact deep transferred descriptors for scalable face image retrieval"
+          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "Neurocomputing"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/semantic_neurocomp18.pdf"
+          doi:     "https://doi.org/10.1016/j.neucom.2018.04.056"
         - title:   "Less is more: Micro-expression recognition from video using apex frame"
           author:  "Liong Sze Teng, John See, Wong KokSheik, Raphael C.-W. Phan"
           pub:     "Signal Processing: Image Communication"
@@ -36,7 +48,7 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/glmm-megc-fg18.pdf"
           doi:     "https://doi.org/10.1109/FG.2018.00102"
         - title:   "Enriched long-term recurrent convolutional network for facial micro-expression recognition "
-          author:  "Huai-Qian Khhor, John See, Raphael C.-W. Phan, Weiyao Lin"
+          author:  "Khor Huai Qian, John See, Raphael C.-W. Phan, Weiyao Lin"
           pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/elrcn-megc-fg18.pdf"
@@ -48,7 +60,7 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/towards_mmm18.pdf"
           doi:     "https://doi.org/10.1007/978-3-319-73603-7_43"
         - title:   "Vehicle semantics extraction and retrieval for long-term carpark video surveillance"
-          author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
+          author:  "Clarence Weihan Cheong and Ryan Woei-Sheng Lim and John See and Wong Lai Kuan and Ian Tan Kim Teck and Azrin Aris"
           pub:     "Int. Conf. on Multimedia Modeling (MMM)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/vehicle_mmm18.pdf"
