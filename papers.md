@@ -5,6 +5,24 @@ title: Papers
 pubs:
     - year: "2018"
       groups:
+        - title:   "The design and empirical evaluations of 3D positioning techniques for pressure-based touch control on mobile devices"
+          author:  "Lu Wang, Wong Lai Kuan, Yajie Xu, Xiao Zhou, Siyuan Qiu, Xiangxu Meng, Chenglei Yang"
+          pub:     "Personal and Ubiquitous Computing"
+          type:     j
+          url:     "https://dl.acm.org/citation.cfm?id=3234127"
+          doi:     "https://doi.org/10.1007/s00779-018-1147-0"
+        - title:   "Semantic facial scores and compact deep transferred descriptors for scalable face image retrieval"
+          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "Neurocomputing"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/semantic_neurocomp18.pdf"
+          doi:     "https://doi.org/10.1016/j.neucom.2018.04.056"
+        - title:   "Semantic facial scores and compact deep transferred descriptors for scalable face image retrieval"
+          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "Neurocomputing"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/semantic_neurocomp18.pdf"
+          doi:     "https://doi.org/10.1016/j.neucom.2018.04.056"
         - title:   "Less is more: Micro-expression recognition from video using apex frame"
           author:  "Liong Sze Teng, John See, Wong KokSheik, Raphael C.-W. Phan"
           pub:     "Signal Processing: Image Communication"
@@ -165,6 +183,9 @@ pubs:
 {% for pub in page.pubs %}
 ### {{pub.year}}
 {% for entry in pub.groups %}
+{% if forloop.first %}
+<i>({{ forloop.length }} publications)</i>
+{% endif %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}){:target="_blank"} {% else %} [{{entry.title}}]({{entry.doi}}){:target="_blank"} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author}}</span><br />
 {{entry.pub}}
