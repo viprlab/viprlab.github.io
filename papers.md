@@ -129,26 +129,12 @@ pubs:
           doi:      "http://dx.doi.org/10.14419/ijet.v7i2.14.11465"
     - year: "2016"
       groups:
-        - title:   "Automatic micro-expression recognition from long video using a single spotted apex"
-          author:  "Sze-Teng Liong, John See, KokSheik Wong, Raphael C.-W. Phan"
-          pub:     "ACCV Workshops 2016"
-          type:     c
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/auto_accvw16.pdf"
-        - title:   "Aesthetic evaluation of facial portraits using compositional augmentation for deep CNNs"
-          author:  "Magzhan Kairanbay, John See, Lai-Kuan Wong"
-          pub:     "ACCV Workshops 2016"
-          type:     c
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/compaug_accvw16.pdf"
-        - title:   "Deep or shallow facial descriptors? A case for facial attribute classification and face retrieval"
-          author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
-          pub:     "ACCV Workshops 2016"
-          type:     c
-          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deeporshallow_accvw16.pdf"
-        - title:	"DUKE: Enhancing virtual reality based FPS game with full-body interactions"
-          author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid Sulaiman, John See"
-          pub:		"ACE 2016"
-          type:		c
-          url:		"http://pesona.mmu.edu.my/~johnsee/research/papers/files/duke_ace16.pdf"		  
+       - title:   "Spontaneous subtle expression detection and recognition based on facial strain "
+          author:  "Sze-Teng Liong, John See, Raphael C.-W. Phan, Yee-Hui Oh, Anh Cat Le Ngo, KokSheik Wong, Su-Wei Tan"
+          pub:     "Signal Processing: Image Communication"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/facialstrain_spic16.pdf"
+          doi:     "http://dx.doi.org/10.1016/j.image.2016.06.004"
         - title:   "Eulerian emotion magnification for subtle expression recognition"
           author:  "Anh Cat Le Ngo, Yee-Hui Oh, Raphael C.-W. Phan, John See"
           pub:     "ICASSP 2016"
@@ -169,6 +155,26 @@ pubs:
           pub:     "SIGGRAPH Symposium on Interactive 3D Graphics and Games (i3D) 2016"
           type:     c 
           doi:     "http://dx.doi.org/10.1145/2856400.2876010"	
+        - title:   "Automatic micro-expression recognition from long video using a single spotted apex"
+          author:  "Sze-Teng Liong, John See, KokSheik Wong, Raphael C.-W. Phan"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/auto_accvw16.pdf"
+        - title:   "Aesthetic evaluation of facial portraits using compositional augmentation for deep CNNs"
+          author:  "Magzhan Kairanbay, John See, Lai-Kuan Wong"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/compaug_accvw16.pdf"
+        - title:   "Deep or shallow facial descriptors? A case for facial attribute classification and face retrieval"
+          author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          pub:     "ACCV Workshops 2016"
+          type:     c
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deeporshallow_accvw16.pdf"
+        - title:	"DUKE: Enhancing virtual reality based FPS game with full-body interactions"
+          author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid Sulaiman, John See"
+          pub:		"ACE 2016"
+          type:		c
+          url:		"http://pesona.mmu.edu.my/~johnsee/research/papers/files/duke_ace16.pdf"		 
         - title:   "Leveraging textural features for recognizing actions in low quality videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
           pub:     "ROVISP 2016"
@@ -181,6 +187,12 @@ pubs:
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
       groups:         
+        - title:   "Efficient spatio-temporal local binary patterns for spontaneous facial micro-expression recognition"
+          author:  "Yandan Wang, John See, Raphael C.-W. Phan, Yee-Hui Oh" 
+          pub:     "PLoS One"
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/sipmop_pone15.pdf"
+          type:     j
+          doi:     "http://dx.doi.org/10.1371/journal.pone.0124674"
         - title:   "Semantics preserving warping for stereoscopic image retargeting"
           author:  "Chun Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
           pub:     "PSIVT 2015"
