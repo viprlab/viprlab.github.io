@@ -93,13 +93,15 @@ pubs:
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lost-in-time-iccst17.pdf"
         - title:	"TARogic: Tangible augmented reality game"
-          author:	"Albert Quek, Kah Tong Lee"
+          author:	"Kah Tong Lee, Albert Quek"
           pub:		"Int. Conf. on Informatics, Computing and Applied Mathematics"
           type:		c
+          doi:      "http://dx.doi.org/10.14419/ijet.v7i2.14.11463"
         - title:	"Onmyouji: Gesture-based virtual reality game"
           author:	"Albert Quek, Ka Weng Chou, Hui Hong Yew"
           pub:		"Int. Conf. on Informatics, Computing and Applied Mathematics"
           type:		c
+          doi:      "http://dx.doi.org/10.14419/ijet.v7i2.14.11465"
         - title:   "Exploiting textures for better action recognition in low-quality videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
           pub:     "EURASIP Journal on Image and Video Processing"
@@ -131,14 +133,17 @@ pubs:
           author:  "Sze-Teng Liong, John See, KokSheik Wong, Raphael C.-W. Phan"
           pub:     "ACCV Workshops 2016"
           type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/auto_accvw16.pdf"
         - title:   "Aesthetic Evaluation of Facial Portraits Using Compositional Augmentation for Deep CNNs"
           author:  "Magzhan Kairanbay, John See, Lai-Kuan Wong"
           pub:     "ACCV Workshops 2016"
           type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/compaug_accvw16.pdf"
         - title:   "Deep or Shallow Facial Descriptors? A Case for Facial Attribute Classification and Face Retrieval"
           author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
           pub:     "ACCV Workshops 2016"
           type:     c
+          url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deeporshallow_accvw16.pdf"
         - title:	"DUKE: Enhancing Virtual Reality based FPS Game with Full-Body Interactions"
           author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid Sulaiman, John See"
           pub:		"ACE 2016"
@@ -216,7 +221,7 @@ pubs:
 {% if forloop.first %}
 *({{ forloop.length }} publications)*
 {% endif %}
-{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %}<span>[{{entry.title}}]({{entry.url}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %}{% else %}<span>[{{entry.title}}]({{entry.doi}}){:target="_blank"}</span> {% endif %} {% endif %}<br />
+{% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %}<span>[{{entry.title}}]({{entry.url}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %}{% else %}<span>[{{entry.title}}]({{entry.doi}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author}}</span><br />
 <span class="publication">{{entry.pub}}</span>
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %} 
