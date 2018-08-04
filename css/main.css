@@ -142,6 +142,10 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .authors, .publication { font-size: 0.85em }
 
+p a.conf { background-image: url('../images/c.png'); padding: 15px; }
+
+p a.journal {  background-image: url('../images/j.png'); padding: 15px; }
+
 .highlight { background: #fff; }
 .highlight .c { color: #998; font-style: italic; }
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
