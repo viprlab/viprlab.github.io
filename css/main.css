@@ -140,7 +140,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .post-link { display: block; }
 
-.authors, .publication { font-size: 0.8em; margin-left: 24px; }
+.authors, .publication { font-size: 0.85em; margin-left: 24px; }
+.publication { font-weight: bold; }
 
 span.conf { border-left: 1.2em solid #196ca3; padding-left: 5px; }
 span.journal {  border-left: 1.2em solid #c32b72; padding-left: 5px; }
