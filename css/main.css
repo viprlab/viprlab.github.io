@@ -142,8 +142,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .authors, .publication { font-size: 0.85em; margin-left: 20px; }
 
-span.conf { border-left: 3px solid #7d848a; }
-span.journal {  border-left: 3px solid #c32b72; }
+span.conf { border-left: 1em solid #196ca3; margin-left: 5px; }
+span.journal {  border-left: 1em solid #c32b72; margin-left: 5px; 	}
 
 .highlight { background: #fff; }
 .highlight .c { color: #998; font-style: italic; }
