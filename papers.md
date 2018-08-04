@@ -67,6 +67,31 @@ pubs:
           doi:     "https://doi.org/10.1007/978-3-319-73600-6_27"
     - year: "2017"
       groups:
+        - title:   "Sparsity in dynamics of spontaneous subtle emotions: Analysis & application"
+          author:  "Anh Cat Le Ngo, John See, Raphael C.-W. Phan"
+          pub:     "IEEE Trans. on Affective Computing"
+          doi:     "http://dx.doi.org/10.1109/TAFFC.2016.2523996"
+          type:     j
+        - title:   "Effective recognition of facial micro-expressions with video motion magnification"
+          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su Wei Tan, Xujie Li"
+          pub:     "Multimedia Tools and Applications"
+          doi:     "https://doi.org/10.1007/s11042-016-4079-6"
+          type:     j
+        - title:   "A survey of aesthetics-driven image recomposition"
+          author:  "Md Baharul Islam, Lai-Kuan Wong, Chee Onn Wong"
+          pub:     "Multimedia Tools and Applications"
+          type:     j
+          doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
+        - title:   "Exploiting textures for better action recognition in low-quality videos"
+          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
+          pub:     "EURASIP Journal on Image and Video Processing"
+          doi:     "https://doi.org/10.1186/s13640-017-0221-2"
+          type:     j
+        - title:   "Deep CNN object features for improved action recognition in low quality videos"
+          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
+          pub:     "Advanced Science Letters (via ICCSE 2016)"
+          type:     j
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"
         - title:	"MultiGAP: Multi-pooled inception network with text augmentation for aesthetic prediction of photographs"
           author:	"Yong-Lian Hii, John See, Magzhan Kairanbay, Lai-Kuan Wong"
           pub:		"Int. Conf. on Image Processing (ICIP)"
@@ -82,7 +107,7 @@ pubs:
           pub:		"Pacific-Rim Conference on Multimedia (PCM)"
           type:		c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/pic2geom_pcm17.pdf"
-        - title:	"On Vehicle State Tracking for Long-term Carpark Video Surveillance"
+        - title:	"On vehicle state tracking for long-term carpark video surveillance"
           author:	"Ryan W.-S. Lim, Clarence W. Cheong, John See, Ian K.T. Tan, Lai-Kuan Wong, Huai-Qian Khor"
           pub:		"Int. Conf. on Signal and Image Processing Applications (ICSIPA)"
           type:		c
@@ -102,109 +127,94 @@ pubs:
           pub:		"Int. Conf. on Informatics, Computing and Applied Mathematics"
           type:		c
           doi:      "http://dx.doi.org/10.14419/ijet.v7i2.14.11465"
-        - title:   "Exploiting textures for better action recognition in low-quality videos"
-          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
-          pub:     "EURASIP Journal on Image and Video Processing"
-          doi:     "https://doi.org/10.1186/s13640-017-0221-2"
-          type:     j
-        - title:   "Sparsity in dynamics of spontaneous subtle emotions: Analysis & application"
-          author:  "Anh Cat Le Ngo, John See, Raphael C.-W. Phan"
-          pub:     "IEEE Trans. on Affective Computing"
-          doi:     "http://dx.doi.org/10.1109/TAFFC.2016.2523996"
-          type:     j
-        - title:   "Effective recognition of facial micro-expressions with video motion magnification"
-          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su Wei Tan, Xujie Li"
-          pub:     "Multimedia Tools and Applications"
-          doi:     "https://doi.org/10.1007/s11042-016-4079-6"
-          type:     j
-        - title:   "A survey of aesthetics-driven image recomposition"
-          author:  "Md Baharul Islam, Lai-Kuan Wong, Chee Onn Wong"
-          pub:     "Multimedia Tools and Applications"
-          type:     j
-          doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
-        - title:   "Deep CNN Object Features for Improved Action Recognition in Low Quality Videos"
-          author:  "Saimunur Rahman, John See, Chiung Ching Ho"
-          pub:     "Advanced Science Letters (via ICCSE 2016)"
-          type:     j
-          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deepobjfeat_iccse16.pdf"
     - year: "2016"
       groups:
-        - title:   "Automatic Micro-expression Recognition from Long Video using a Single Spotted Apex"
+        - title:   "Automatic micro-expression recognition from long video using a single spotted apex"
           author:  "Sze-Teng Liong, John See, KokSheik Wong, Raphael C.-W. Phan"
           pub:     "ACCV Workshops 2016"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/auto_accvw16.pdf"
-        - title:   "Aesthetic Evaluation of Facial Portraits Using Compositional Augmentation for Deep CNNs"
+        - title:   "Aesthetic evaluation of facial portraits using compositional augmentation for deep CNNs"
           author:  "Magzhan Kairanbay, John See, Lai-Kuan Wong"
           pub:     "ACCV Workshops 2016"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/compaug_accvw16.pdf"
-        - title:   "Deep or Shallow Facial Descriptors? A Case for Facial Attribute Classification and Face Retrieval"
+        - title:   "Deep or shallow facial descriptors? A case for facial attribute classification and face retrieval"
           author:  "Rasoul Banaeeyan, Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
           pub:     "ACCV Workshops 2016"
           type:     c
           url:      "http://pesona.mmu.edu.my/~johnsee/research/papers/files/deeporshallow_accvw16.pdf"
-        - title:	"DUKE: Enhancing Virtual Reality based FPS Game with Full-Body Interactions"
+        - title:	"DUKE: Enhancing virtual reality based FPS game with full-body interactions"
           author:	"Mohd Hezri Amir, Albert Quek, Nur Rasyid Sulaiman, John See"
           pub:		"ACE 2016"
           type:		c
           url:		"http://pesona.mmu.edu.my/~johnsee/research/papers/files/duke_ace16.pdf"		  
-        - title:   "Spatio-temporal Mid-Level Feature Bank for Action Recognition in Low Quality Video"
+        - title:   "Eulerian emotion magnification for subtle expression recognition"
+          author:  "Anh Cat Le Ngo, Yee-Hui Oh, Raphael C.-W. Phan, John See"
+          pub:     "ICASSP 2016"
+          type:     c 
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/emm_icassp16.pdf"
+        - title:   "Spatio-temporal mid-level feature bank for action recognition in low quality video"
           author:  "Saimunur Rahman, John See"
           pub:     "ICASSP 2016"
           type:     c 
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/stem_icassp16.pdf"
-        - title:   "Pressure-based Touch Positioning Techniques for 3D Objects"
+        - title:   "Intrinsic two-dimensional local structures for micro-expression recognition"
+          author:  "Yee-Hui Oh, Anh Cat Le Ngo, Raphael C.-W. Phan, John See, Huo-Chong Ling"
+          pub:     "ICASSP 2016"
+          type:     c 
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/i2d_icassp16.pdf"
+        - title:   "Pressure-based touch positioning techniques for 3D Objects"
           author:  "Siyuan Qiu, Lu Wang, Lai-Kuan Wong"
           pub:     "SIGGRAPH Symposium on Interactive 3D Graphics and Games (i3D) 2016"
           type:     c 
           doi:     "http://dx.doi.org/10.1145/2856400.2876010"	
-        - title:   "Leveraging Textural Features for Recognizing Actions in Low Quality Videos"
+        - title:   "Leveraging textural features for recognizing actions in low quality videos"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho"
           pub:     "ROVISP 2016"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/leverage_rovisp16.pdf"
-        - title:   "Automatic Detection and Counting of Circular and Rectangular Steel Bars"
+        - title:   "Automatic detection and counting of circular and rectangular steel bars"
           author:  "Muhammad Faiz Ghazali, Lai-Kuan Wong, John See"
           pub:     "ROVISP 2016"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/steel_rovisp16.pdf"
     - year: "2015"
       groups:         
-        - title:   "Semantics Preserving Warping for Stereoscopic Image Retargeting"
+        - title:   "Semantics preserving warping for stereoscopic image retargeting"
           author:  "Chun Hau Tan, Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low" 
           pub:     "PSIVT 2015"
           type:     c
           doi:     "http://dx.doi.org/10.1007/978-3-319-29451-3_21"	
-        - title:   "On the Effects of Low Video Quality in Human Action Recognition"
+        - title:   "On the effects of low video quality in human action recognition"
           author:  "John See, Saimunur Rahman" 
           pub:     "DICTA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/effects_dicta15.pdf"
           type:     c
           doi:     "http://dx.doi.org/10.1109/DICTA.2015.7371292"	  
-        - title:   "Stereoscopic Image Warping for Enhancing Composition Aesthetics"
+        - title:   "Stereoscopic image warping for enhancing composition aesthetics"
           author:  "Md Baharul Islam, Lai-Kuan Wong, Chee Onn Wong, Kok-Lim Low" 
           pub:     "ACPR 2015"
           type:     c
-        - title:   "Lost and Found: Identifying Objects in Long-Term Surveillance Videos"
+        - title:   "Lost and found: Identifying objects in long-term surveillance videos"
           author:  "Mohamad Mahdi Saemi, John See, Tan Suyin" 
           pub:     "ICSIPA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lostfound_icsipa15.pdf"
           type:     c
           doi:     "http://dx.doi.org/10.1109/ICSIPA.2015.7412171"
-        - title:   "Action Recognition in Low Quality Videos by Jointly Using Shape, Motion and Texture Features"
+        - title:   "Action recognition in low quality videos by jointly using shape, motion and texture features"
           author:  "Saimunur Rahman, John See, Chiung Ching Ho" 
           pub:     "ICSIPA 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/lowquality_icsipa15.pdf"
           type:     c
           doi:     "http://dx.doi.org/10.1109/ICSIPA.2015.7412168"
-        - title:   "Obscura: A Mobile Game with Camera based Mechanics"
+        - title:   "Obscura: A mobile game with camera based mechanics"
           author:  "Albert Quek, John See" 
           pub:     "GAMEPEC 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/obscura_gamepec15.pdf"
           type:     c
           doi:     "http://dx.doi.org/10.1109/GAMEPEC.2015.7331850"
-        - title:   "The Invoker: Intuitive Gesture Mechanics for Motion-based Shooter RPG"
+        - title:   "The Invoker: Intuitive gesture mechanics for motion-based shooter RPG"
           author:  "Albert Quek, John See" 
           pub:     "GAMEPEC 2015"
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/invoker_gamepec15.pdf"
