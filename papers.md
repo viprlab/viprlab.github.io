@@ -213,6 +213,9 @@ pubs:
 {% for pub in page.pubs %}
 ### {{pub.year}}
 {% for entry in pub.groups %}
+{% if forloop.first %}
+<i>({{ forloop.length }} publications)</i>
+{% endif %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %} [{{entry.title}}]({{entry.url}}){:target="_blank"} {% else %} [{{entry.title}}]({{entry.doi}}){:target="_blank"} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author}}</span><br />
 {{entry.pub}}
