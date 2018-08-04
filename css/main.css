@@ -142,6 +142,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .authors, .publication { font-size: 0.85em }
 
+div.paper { margin-left: 15px }
 p a.conf { background-image: url('../images/c.png'); padding: 15px; }
 
 p a.journal {  background-image: url('../images/j.png'); padding: 15px; }
