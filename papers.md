@@ -129,7 +129,7 @@ pubs:
           doi:      "http://dx.doi.org/10.14419/ijet.v7i2.14.11465"
     - year: "2016"
       groups:
-       - title:   "Spontaneous subtle expression detection and recognition based on facial strain "
+        - title:   "Spontaneous subtle expression detection and recognition based on facial strain "
           author:  "Sze-Teng Liong, John See, Raphael C.-W. Phan, Yee-Hui Oh, Anh Cat Le Ngo, KokSheik Wong, Su-Wei Tan"
           pub:     "Signal Processing: Image Communication"
           type:     j
