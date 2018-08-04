@@ -23,6 +23,24 @@ pubs:
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/hybrid_jsps17.pdf"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
+        - title:   "Facial Micro-Expressions Grand Challenge 2018 Summary"
+          author:  "Moi Hoon Yap, John See, Xiaopeng Hong, Su-Jing Wang"
+          pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/summary-megc-fg18.pdf"
+          doi:     "https://doi.org/10.1109/FG.2018.00106"
+        - title:   "Micro-expression motion magnification: Global Lagrangian vs. Local Eulerian approaches"
+          author:  "Anh Cat Le Ngo, Alan Johnston, Raphael C.-W. Phan, John See"
+          pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/glmm-megc-fg18.pdf"
+          doi:     "https://doi.org/10.1109/FG.2018.00102"
+        - title:   "Enriched long-term recurrent convolutional network for facial micro-expression recognition "
+          author:  "Huai-Qian Khhor, John See, Raphael C.-W. Phan, Weiyao Lin"
+          pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
+          type:     c
+          url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/elrcn-megc-fg18.pdf"
+          doi:     "https://doi.org/10.1109/FG.2018.00105"
         - title:   "Towards demographic-based photographic aesthetics prediction for portraitures"
           author:  "Magzhan Kairanbay, John See, Wong Lai Kuan"
           pub:     "Int. Conf. on Multimedia Modeling (MMM)"
