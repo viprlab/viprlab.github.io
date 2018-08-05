@@ -7,6 +7,8 @@ news:
      info: Our lab participated (for the first time) in the [AI Meets Beauty - Perfect Half Million Beauty Product Image Recognition Challenge](https://challenge2018.perfectcorp.com/) held in conjunction with ACM MM 2018, achieving 7th placing (of 13 teams). 
    - date: 06/2018
      info: Clarence and Ryan joins [National Chung Cheng University](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Nung Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/) and [Prof. Ching-Chun Huang](http://acm.ee.ccu.edu.tw).
+   - date: 05/2018
+     info: This year, our projects SHERLOCK and PiQual won 1 silver and 2 bronze medals from ITEX 2018 and MTE 2018 exhibitions respectively. 
    - date: 04/2018
      info: Gary Chan and Ting Wei joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Huang Cheng](https://www.citi.sinica.edu.tw/~whcheng/).
    - date: 03/2018
@@ -63,7 +65,7 @@ We work on a wide variety of research areas, particularly in the following speci
 
 We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. John See] or [Dr. Wong Lai Kuan]) if you have any enquiries about our research or would like to join us.
 
-Undergraduate students can also be part of the group by means of final year thesis project or formal appointment via research funding.
+Undergraduate students can also be part of the group by joining us on voluntary projects or on part-time appointment via research funding. 
 
 ## Vacancies
 
