@@ -1,5 +1,5 @@
 {% for n in page.news %}
-- **{{n.date}}**{:.newsdate}: {{n.info | escape }} {% if n.img %}
+- **{{n.date}}**{:.newsdate}: {{n.info}} {% if n.img %}
 	![frog]({{site.baseurl}}/images/{{n.img}}){:.newsimg}
 {% endif %} 
 {% endfor %}
