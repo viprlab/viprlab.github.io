@@ -21,6 +21,12 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
+### Facial micro-expression analysis from videos
+{% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
+A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
 Most state-of-the-art techniques for HAR have been designed to perform well under constrained and highly controlled conditions. However, these capabilities may not be easily replicable in real-world surveillance conditions (via devices such as CCTV or web cameras) where video quality may be naturally poor. We investigate new representations for recognizing human activities in adverse quality surveillance videos.
@@ -39,11 +45,6 @@ The mechanism that allows for human forearm rotation is still poorly understood.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-### Facial micro-expression analysis from videos
-{% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
-A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
-{: #proj-description}
-{% include clearfloat.html prevfloat="left" %}
 
 ## Funding/Grants
 
