@@ -134,7 +134,7 @@ pubs:
           pub:     "Signal Processing: Image Communication"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/facialstrain_spic16.pdf"
-          doi:     "http://dx.doi.org/10.1016/j.image.2016.06.004"
+          doi:     "10.1016/j.image.2016.06.004"
         - title:   "Eulerian emotion magnification for subtle expression recognition"
           author:  "Anh Cat Le Ngo, Yee-Hui Oh, Raphael C.-W. Phan, John See"
           pub:     "ICASSP 2016"
@@ -247,6 +247,8 @@ Lab faculty member indicated in **bold**
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %}<span>[{{entry.title}}]({{entry.url}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %}{% else %}<span>[{{entry.title}}]({{entry.doi}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author | replace: 'John See', '**John See**' | replace: 'Lai-Kuan Wong', '**Lai-Kuan Wong**' | replace: 'Albert Quek', '**Albert Quek**'}}</span><br />
 <span class="publication">{{entry.pub}}</span>
-{% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %} 
+{% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %}
+<img src="https://api.elsevier.com/content/abstract/citation-count?doi={{entry.doi}}&apiKey=ad2ec8846dc7f8baaabe4d1b1e607f43
+" />
 {% endfor %}
 {% endfor %}
