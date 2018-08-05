@@ -6,7 +6,7 @@ pubs:
     - year: "2018"
       groups:
         - title:   "A survey of automatic facial micro-expression analysis: Databases, methods, and challenges"
-          author:  "Yee-Hui Oh, **John See**, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu M. Baskaran"
+          author:  "Yee-Hui Oh, <ins>John See</ins>, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu M. Baskaran"
           pub:     "Frontiers in Psychology"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/survey_fip18.pdf"
