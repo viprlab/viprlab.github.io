@@ -236,7 +236,8 @@ pubs:
 ---
 
 ## Publications
-Lab faculty member indicated in bold {: .pubinfo}
+Lab faculty member indicated in **bold** 
+{: .pubinfo}
 {% for pub in page.pubs %}
 ### {{pub.year}}
 {% for entry in pub.groups %}
