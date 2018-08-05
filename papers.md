@@ -236,7 +236,7 @@ pubs:
 ---
 
 ## Publications
-Lab faculty members indicated in **bold**. Papers marked using [DBLP](https://dblp.uni-trier.de/) color codes.  
+Lab faculty members indicated in **bold**. Papers marked using [DBLP](https://dblp.uni-trier.de/){:target="_blank"} color codes.  
 {: .pubinfo}
 {% for pub in page.pubs %}
 ### {{pub.year}}
