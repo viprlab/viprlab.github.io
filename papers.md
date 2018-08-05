@@ -248,7 +248,6 @@ Lab faculty member indicated in **bold**
 <span class="authors">{{entry.author | replace: 'John See', '**John See**' | replace: 'Lai-Kuan Wong', '**Lai-Kuan Wong**' | replace: 'Albert Quek', '**Albert Quek**'}}</span><br />
 <span class="publication">{{entry.pub}}</span>
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %}
-<img src="https://api.elsevier.com/content/abstract/citation-count?doi={{entry.doi}}&apiKey=ad2ec8846dc7f8baaabe4d1b1e607f43
-" />
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi={{entry.doi}}&apiKey=ad2ec8846dc7f8baaabe4d1b1e607f43&httpAccept=text%2Fhtml"></object>
 {% endfor %}
 {% endfor %}
