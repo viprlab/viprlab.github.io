@@ -3,16 +3,24 @@ layout: page
 title:
 permalink: /
 news:
-   - date: 2017-11-05
+   - date: 07/2018
+     info: Our lab participated (for the first time) in the ["AI Meets Beauty: Perfect Half Million Beauty Product Image Recognition Challenge"](https://challenge2018.perfectcorp.com/) held in conjunction with ACM MM 2018, achieving 7th placing (of 13 teams). 
+   - date: 06/2018
+     info: Clarence and Ryan joins [National Chung Cheng University](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Nung Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/) and [Prof. Ching-Chun Huang](http://acm.ee.ccu.edu.tw).
+   - date: 04/2018
+     info: Gary Chan and Ting Wei joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Huang Cheng](https://www.citi.sinica.edu.tw/~whcheng/).
+   - date: 03/2018
+     info: We have 3 papers accepted to the [1st Workshop on Micro-Expression Grand Challenge (MEGC)](http://www2.docm.mmu.ac.uk/STAFF/m.yap/FG2018Workshop.htm) @ [FG 2018](https://fg2018.cse.sc.edu) in Xi'an, China.
+   - date: 11/2017
      info: We have 2 papers accepted to [MMM 2018](http://mmm2018.chula.ac.th/) in Bangkok, Thailand.
    - date: 2017-10-09
      info: Our projects obtained three medals (1 gold, 2 bronze) at [Pecipta 2017](https://pecipta.my/)!
    - date: 2017-06-05
      info: We have 2 papers on image aesthetics accepted to [ICIP 2017](http://2017.ieeeicip.org/) in Beijing, China. Congratulations to Magzhan for securing the IEEE SPS Travel Grant of USD 1,000!  
-   - date: 2017-05-31
-     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)! 
-   - date: 2017-03-15
-     info: YL Hii and HQ Khor joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for 3-month research internship under [Prof. Cheng Wen-Huang](https://www.citi.sinica.edu.tw/~whcheng/).
+#   - date: 2017-05-31
+#     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)! 
+#   - date: 2017-03-15
+#     info: YL Hii and HQ Khor joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for 3-month research internship under [Prof. Cheng Wen-Huang](https://www.citi.sinica.edu.tw/~whcheng/).
 # - date: 2016-12-05
 #     info: Saimunur Rahman passed his M.Sc. viva voce. Congratulations!
 #     img: saimun-viva.jpg
