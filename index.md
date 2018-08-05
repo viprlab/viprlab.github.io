@@ -4,7 +4,7 @@ title:
 permalink: /
 news:
    - date: 07/2018
-     info: Our lab participated (for the first time) in the ["AI Meets Beauty: Perfect Half Million Beauty Product Image Recognition Challenge"](https://challenge2018.perfectcorp.com/) held in conjunction with ACM MM 2018, achieving 7th placing (of 13 teams). 
+     info: Our lab participated (for the first time) in the [AI Meets Beauty: Perfect Half Million Beauty Product Image Recognition Challenge](https://challenge2018.perfectcorp.com/) held in conjunction with ACM MM 2018, achieving 7th placing (of 13 teams). 
    - date: 06/2018
      info: Clarence and Ryan joins [National Chung Cheng University](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Nung Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/) and [Prof. Ching-Chun Huang](http://acm.ee.ccu.edu.tw).
    - date: 04/2018
