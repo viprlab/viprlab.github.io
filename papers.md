@@ -6,61 +6,61 @@ pubs:
     - year: "2018"
       groups:
         - title:   "A survey of automatic facial micro-expression analysis: Databases, methods, and challenges"
-          author:  "Yee-Hui Oh, <ins>John See</ins>, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu M. Baskaran"
+          author:  "Yee-Hui Oh, **John See**, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu M. Baskaran"
           pub:     "Frontiers in Psychology"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/survey_fip18.pdf"
           doi:     "https://doi.org/10.3389/fpsyg.2018.01128"
         - title:   "The design and empirical evaluations of 3D positioning techniques for pressure-based touch control on mobile devices"
-          author:  "Lu Wang, Lai-Kuan Wong, Yajie Xu, Xiao Zhou, Siyuan Qiu, Xiangxu Meng, Chenglei Yang"
+          author:  "Lu Wang, **Lai-Kuan Wong**, Yajie Xu, Xiao Zhou, Siyuan Qiu, Xiangxu Meng, Chenglei Yang"
           pub:     "Personal and Ubiquitous Computing"
           type:     j
           url:     "https://dl.acm.org/citation.cfm?id=3234127"
           doi:     "https://doi.org/10.1007/s00779-018-1147-0"
         - title:   "Semantic facial scores and compact deep transferred descriptors for scalable face image retrieval"
-          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
+          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, **John See**"
           pub:     "Neurocomputing"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/semantic_neurocomp18.pdf"
           doi:     "https://doi.org/10.1016/j.neucom.2018.04.056"
         - title:   "Less is more: Micro-expression recognition from video using apex frame"
-          author:  "Sze-Teng Liong, John See, KokSheik Wong, Raphael C.-W. Phan"
+          author:  "Sze-Teng Liong, **John See**, KokSheik Wong, Raphael C.-W. Phan"
           pub:     "Signal Processing: Image Communication"
           type:     j
           url:     "https://arxiv.org/pdf/1606.01721.pdf"
           doi:     "https://doi.org/10.1016/j.image.2017.11.006"
         - title:   "Hybrid facial region extraction for micro-expression recognition system"
-          author:  "Sze-Teng Liong, John See, Raphael C.-W. Phan, KokSheik Wong, Su-Wei Tan"
+          author:  "Sze-Teng Liong, **John See**, Raphael C.-W. Phan, KokSheik Wong, Su-Wei Tan"
           pub:     "Journal of Signal Processing Systems"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/hybrid_jsps17.pdf"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
         - title:   "Facial Micro-Expressions Grand Challenge 2018 Summary"
-          author:  "Moi Hoon Yap, John See, Xiaopeng Hong, Su-Jing Wang"
+          author:  "Moi Hoon Yap, **John See**, Xiaopeng Hong, Su-Jing Wang"
           pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/summary-megc-fg18.pdf"
           doi:     "https://doi.org/10.1109/FG.2018.00106"
         - title:   "Micro-expression motion magnification: Global Lagrangian vs. Local Eulerian approaches"
-          author:  "Anh Cat Le Ngo, Alan Johnston, Raphael C.-W. Phan, John See"
+          author:  "Anh Cat Le Ngo, Alan Johnston, Raphael C.-W. Phan, **John See**"
           pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/glmm-megc-fg18.pdf"
           doi:     "https://doi.org/10.1109/FG.2018.00102"
         - title:   "Enriched long-term recurrent convolutional network for facial micro-expression recognition "
-          author:  "Huai-Qian Khor, John See, Raphael C.-W. Phan, Weiyao Lin"
+          author:  "Huai-Qian Khor, **John See**, Raphael C.-W. Phan, Weiyao Lin"
           pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/elrcn-megc-fg18.pdf"
           doi:     "https://doi.org/10.1109/FG.2018.00105"
         - title:   "Towards demographic-based photographic aesthetics prediction for portraitures"
-          author:  "Magzhan Kairanbay, John See, Lai-Kuan Wong"
+          author:  "Magzhan Kairanbay, **John See**, Lai-Kuan Wong"
           pub:     "Int. Conf. on Multimedia Modeling (MMM)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/towards_mmm18.pdf"
           doi:     "https://doi.org/10.1007/978-3-319-73603-7_43"
         - title:   "Vehicle semantics extraction and retrieval for long-term carpark video surveillance"
-          author:  "Clarence W. Cheong, Ryan W.-S. Lim, John See, Lai-Kuan Wong, Ian K.T. Tan, A. Aris"
+          author:  "Clarence W. Cheong, Ryan W.-S. Lim, **John See**, **Lai-Kuan Wong**, Ian K.T. Tan, A. Aris"
           pub:     "Int. Conf. on Multimedia Modeling (MMM)"
           type:     c
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/vehicle_mmm18.pdf"
@@ -68,17 +68,17 @@ pubs:
     - year: "2017"
       groups:
         - title:   "Sparsity in dynamics of spontaneous subtle emotions: Analysis & application"
-          author:  "Anh Cat Le Ngo, John See, Raphael C.-W. Phan"
+          author:  "Anh Cat Le Ngo, **John See**, Raphael C.-W. Phan"
           pub:     "IEEE Trans. on Affective Computing"
           doi:     "http://dx.doi.org/10.1109/TAFFC.2016.2523996"
           type:     j
         - title:   "Effective recognition of facial micro-expressions with video motion magnification"
-          author:  "Yandan Wang, John See, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su Wei Tan, Xujie Li"
+          author:  "Yandan Wang, **John See**, Yee-Hui Oh, Raphael C.-W. Phan, Y. Rahulamathavan, Huo-Chong Ling, Su Wei Tan, Xujie Li"
           pub:     "Multimedia Tools and Applications"
           doi:     "https://doi.org/10.1007/s11042-016-4079-6"
           type:     j
         - title:   "A survey of aesthetics-driven image recomposition"
-          author:  "Md Baharul Islam, Lai-Kuan Wong, Chee Onn Wong"
+          author:  "**Md Baharul Islam**, **Lai-Kuan Wong**, Chee Onn Wong"
           pub:     "Multimedia Tools and Applications"
           type:     j
           doi:     "http://dx.doi.org/10.1007/s11042-016-3561-5"
@@ -244,7 +244,7 @@ pubs:
 *({{ forloop.length }} publications)*
 {% endif %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %}<span>[{{entry.title}}]({{entry.url}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %}{% else %}<span>[{{entry.title}}]({{entry.doi}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %} {% endif %} {% endif %}<br />
-<span class="authors">{{entry.author}}</span><br />
+<span class="authors">{{entry.author | replace: 'John See', '**John See**'}}</span><br />
 <span class="publication">{{entry.pub}}</span>
 {% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %} 
 {% endfor %}
