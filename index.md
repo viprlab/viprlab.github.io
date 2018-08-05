@@ -4,7 +4,7 @@ title:
 permalink: /
 news:
    - date: 08/2018
-     info: Looking forward to ACCV 2018! Lai Kuan and John will be chairing the [Workshop on AI Aesthetics in Art and Media](https://aiaesthetics.github.io/) while John to give a Tutorial on "Facial Micro-Expression Analysis: A Computer Vision Challenge" (site to be up soon).
+     info: "Looking forward to ACCV 2018! Lai Kuan and John will be chairing the [Workshop on AI Aesthetics in Art and Media](https://aiaesthetics.github.io/) while John to give a Tutorial on \"Facial Micro-Expression Analysis: A Computer Vision Challenge\" (site to be up soon)."
    - date: 07/2018
      info: Our lab participated (for the first time) in the [AI Meets Beauty - Perfect Half Million Beauty Product Image Recognition Challenge](https://challenge2018.perfectcorp.com/) held in conjunction with ACM MM 2018, achieving 7th placing (of 13 teams). 
    - date: 06/2018
