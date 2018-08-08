@@ -258,6 +258,6 @@ Lab faculty members indicated in **bold**. Papers marked using [DBLP](https://db
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %}<span>[{{entry.title}}]({{entry.url}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %}{% else %}<span>[{{entry.title}}]({{entry.doi}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author | replace: 'John See', '**John See**' | replace: 'Lai-Kuan Wong', '**Lai-Kuan Wong**' | replace: 'Albert Quek', '**Albert Quek**'}}</span><br />
 <span class="publication">{{entry.pub}}
-{% if entry.note %} **[{{entry.note}}]**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}} {% endif %}</span>
+{% if entry.note %} **[{{entry.note}}]**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %}</span>
 {% endfor %}
 {% endfor %}
