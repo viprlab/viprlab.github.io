@@ -142,7 +142,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .authors, .publication { font-size: 0.85em; margin-left: 24px; }
 .publication { font-weight: bold; }
-.note { font-weight:normal; color:maroon; }
+.note { font-weight:normal; color:#b6321c; }
 .pubinfo { font-size: 0.7em; }	
 em.pubcount { font-size: 0.9em; }
 
