@@ -13,6 +13,8 @@ We have a number of funded and non-funded projects which are currently on-going.
 {% include imagethumbnailblock.html align="left" url="/images/latte.jpg" width="120px" height="120px" padding="right" %}
 Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
 {: #proj-description}
+Magzhan Kairanbay, Hii Yong Lian, John See, Wong Lai Kuan
+{: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
 ### Long-term Video Surveillance (LoViS)
@@ -21,11 +23,20 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-### Facial micro-expression analysis from videos
+### Facial Micro-Expression Analysis
 {% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
 A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
+
+### Computational 3D Model of Forearm Rotation
+{% include imagethumbnailblock.html align="left" url="/images/3dforearm.png" height="120px" padding="right" %}
+The mechanism that allows for human forearm rotation is still poorly understood. As a result, sub-optimal surgical treatment of fractured radius or ulna can lead to impaired forearm motion. We aim to develop a physically accurate 3D dynamic model of human forearm rotation from CT scan, with visualization of the model, the dynamic rotation and tensing of interosseous membrane. This is a project in collaboration with National University of Singapore (NUS) and Singapore General Hospital (SGH).
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
+---
+Older projects that are still very much relevant today.
 
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
@@ -39,11 +50,7 @@ With the recent availability of stereoscopic displays such as 3D monitor, 3D tel
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-### Computational 3D Model of Forearm Rotation
-{% include imagethumbnailblock.html align="left" url="/images/3dforearm.png" height="120px" padding="right" %}
-The mechanism that allows for human forearm rotation is still poorly understood. As a result, sub-optimal surgical treatment of fractured radius or ulna can lead to impaired forearm motion. We aim to develop a physically accurate 3D dynamic model of human forearm rotation from CT scan, with visualization of the model, the dynamic rotation and tensing of interosseous membrane. This is a project in collaboration with National University of Singapore (NUS) and Singapore General Hospital (SGH).
-{: #proj-description}
-{% include clearfloat.html prevfloat="left" %}
+
 
 
 ## Funding/Grants
