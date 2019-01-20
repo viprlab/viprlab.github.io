@@ -9,14 +9,15 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/johnsee.jpg" caption="John See" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/lkwong.jpg" caption="Wong Lai Kuan" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/albert.jpg" caption="Albert Quek" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/yploh.jpg" caption="Loh Yuen Peng" width="120px" height="120px"  %}
 
 ## Postgraduates
-{% include imagethumbnailblock.html url="/images/bahar.jpg" caption="Baharul Islam" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/magzhan.jpg" caption="Magzhan Kairanbay" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/faiz.jpg" caption="Muhammad Faiz Ghazali" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/ryan.jpg" caption="Ryan Lim" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/clarence.jpg" caption="Clarence Cheong" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="M.Sc student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/jyching.jpg" caption="Ching Jiun Yen" caption2="M.Sc student" width="120px" height="120px"  %}
 
 ## Research Assistants
 {% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
@@ -33,6 +34,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/khpoo.jpg" caption="Poo Kuan Hoong" caption2="Coqnitics" width="120px" height="120px"  %}
 
 ## Alumni
+- [Baharul Islam](https://www.linkedin.com/in/baharul){:target="_blank"}, Ph.D 2013-2018 (Post-Doc, Miller School of Medicine, University of Miami, USA) 
 - [Saimunur Rahman](http://saimunur.github.io/){:target="_blank"}, M.Sc 2014-2016 (PhD Student & CSIRO Data61 Scholar, Univ. of Wollongong, Australia) 
 - [Hii Yong Lian](https://github.com/HiiYL){:target="_blank"}, UG RA 2016-2017 (Software Engineer, Carousell, Singapore)   
 
@@ -47,11 +49,13 @@ permalink: /people/
 - Hezri Amir (HezMedia Interactive)
 
 ### International
-- [Wen-Huang Cheng](http://www.citi.sinica.edu.tw/~whcheng/index.html){:target="_blank"} (Multimedia Computing Laboratory, Academia Sinica, Taiwan)
-- [Leow Wee Kheng](http://www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (NUS, Singapore)
+- [Wen-Huang Cheng](http://www.citi.sinica.edu.tw/~whcheng/index.html){:target="_blank"} (National Chiao Tung University, Taiwan)
+- [Weisi Lin](http://www.ntu.edu.sg/home/wslin/){:target="_blank"} (Nanyang Technological University, Singapore)
+- [Leow Wee Kheng](http://www.comp.nus.edu.sg/~leowwk/){:target="_blank"} (National University of Singapore)
 - [Low Kok-Lim](http://comp.nus.edu.sg/~lowkl) (NUS, Singapore)
 - [Yap Moi Hoon](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/){:target="_blank"} (Manchester Metropolitan University, UK)
 - [Weiyao Lin](http://weiyaolin.github.io/){:target="_blank"} (Shanghai Jiao Tong University, China)
+- Sze-Teng Liong (Feng Chia University, Taiwan)
 - Yandan Wang (Wenzhou University, China)
 - Anh Cat Le Ngo (University of Nottingham, UK)
 
