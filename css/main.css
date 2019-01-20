@@ -142,7 +142,8 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 .authors, .publication { font-size: 0.85em; margin-left: 24px; }
 .publication { font-weight: bold; }
-.pubinfo { font-size: 0.7em; }
+.note { font-weight:normal; color:#b6321c; }
+.pubinfo { font-size: 0.7em; }	
 em.pubcount { font-size: 0.9em; }
 
 span.conf { border-left: 1.2em solid #196ca3; padding-left: 5px; }
@@ -251,6 +252,10 @@ em.rgdetails {
 @media screen and (max-width: 32em) { .alignleft, .alignright { display: block; margin-left: auto; margin-right: auto; float: none; } }
 
 #proj-description { font-size: 80%; }
+#proj-members { 
+	font-size: 70%; 
+	color: #b6321c; 
+}
 
 .childnav { 
     text-align: left;

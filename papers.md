@@ -11,30 +11,41 @@ pubs:
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/survey_fip18.pdf"
           doi:     "https://doi.org/10.3389/fpsyg.2018.01128"
-        - title:   "The design and empirical evaluations of 3D positioning techniques for pressure-based touch control on mobile devices"
-          author:  "Lu Wang, Lai-Kuan Wong, Yajie Xu, Xiao Zhou, Siyuan Qiu, Xiangxu Meng, Chenglei Yang"
-          pub:     "Personal and Ubiquitous Computing"
+          note:    "Scopus Q1, IF: 2.089 (2017)"
+        - title:   "Aesthetics-driven stereoscopic 3D image recomposition with depth adaptation"
+          author:  "Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low, Chee-Onn Wong"
+          pub:     "IEEE Transactions on Multimedia"
           type:     j
-          url:     "https://dl.acm.org/citation.cfm?id=3234127"
-          doi:     "https://doi.org/10.1007/s00779-018-1147-0"
+          doi:     "https://doi.org/10.1109/TMM.2018.2820324"
+          note:    "Scopus Q1, IF: 3.977 (2017)"
         - title:   "Semantic facial scores and compact deep transferred descriptors for scalable face image retrieval"
-          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, **John See**"
+          author:  "Rasoul Banaeeyan, Mohd Haris Lye, Mohammad Faizal Ahmad Fauzi, Hezerul Abdul Karim, John See"
           pub:     "Neurocomputing"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/semantic_neurocomp18.pdf"
           doi:     "https://doi.org/10.1016/j.neucom.2018.04.056"
+          note:    "Scopus Q1, IF: 3.241 (2017)"
         - title:   "Less is more: Micro-expression recognition from video using apex frame"
           author:  "Sze-Teng Liong, John See, KokSheik Wong, Raphael C.-W. Phan"
           pub:     "Signal Processing: Image Communication"
           type:     j
           url:     "https://arxiv.org/pdf/1606.01721.pdf"
           doi:     "https://doi.org/10.1016/j.image.2017.11.006"
+          note:    "Scopus Q1, IF: 2.073 (2017)"
+        - title:   "The design and empirical evaluations of 3D positioning techniques for pressure-based touch control on mobile devices"
+          author:  "Lu Wang, Lai-Kuan Wong, Yajie Xu, Xiao Zhou, Siyuan Qiu, Xiangxu Meng, Chenglei Yang"
+          pub:     "Personal and Ubiquitous Computing"
+          type:     j
+          url:     "https://dl.acm.org/citation.cfm?id=3234127"
+          doi:     "https://doi.org/10.1007/s00779-018-1147-0"
+          note:    "Scopus Q2, IF: 1.924 (2017)"
         - title:   "Hybrid facial region extraction for micro-expression recognition system"
           author:  "Sze-Teng Liong, John See, Raphael C.-W. Phan, KokSheik Wong, Su-Wei Tan"
           pub:     "Journal of Signal Processing Systems"
           type:     j
           url:     "http://pesona.mmu.edu.my/~johnsee/research/papers/files/hybrid_jsps17.pdf"
           doi:     "http://dx.doi.org/10.1007/s11265-017-1276-0"
+          note:    "Scopus Q3, IF: 1.088 (2017)"
         - title:   "Facial Micro-Expressions Grand Challenge 2018 Summary"
           author:  "Moi Hoon Yap, John See, Xiaopeng Hong, Su-Jing Wang"
           pub:     "Int. Conference on Automatic Face & Gesture Recognition (FG)"
@@ -246,7 +257,7 @@ Lab faculty members indicated in **bold**. Papers marked using [DBLP](https://db
 {% endif %}
 {% if entry.internal %}[{{entry.title}}]({{entry.url | prepend: site.baseurl}}){% else %} {% if entry.url %}<span>[{{entry.title}}]({{entry.url}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %}{% else %}<span>[{{entry.title}}]({{entry.doi}}){:target="_blank"}</span>{% if entry.type=='j' %}{: .journal}{% else %}{: .conf}{% endif %} {% endif %} {% endif %}<br />
 <span class="authors">{{entry.author | replace: 'John See', '**John See**' | replace: 'Lai-Kuan Wong', '**Lai-Kuan Wong**' | replace: 'Albert Quek', '**Albert Quek**'}}</span><br />
-<span class="publication">{{entry.pub}}</span>
-{% if entry.note %} **({{entry.note}})**{: style="color: maroon"} {% endif %} {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %}
+<span class="publication">{{entry.pub}}
+{% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %} {% if entry.note %} <span class="note">[{{entry.note}}]</span>{% endif %}</span>
 {% endfor %}
 {% endfor %}
