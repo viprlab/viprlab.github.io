@@ -25,18 +25,16 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/junehao.jpg" caption="Ching June Hao" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/garychan.jpg" caption="Gary Chan" caption2="Research Intern" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/tingwei.jpg" caption="Goh Ting Wei" caption2="Research Intern" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/benjamin.jpg" caption="Benjamin Bong" caption2="Research Officer" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/weiweitoo.jpg" caption="Too Seng Wei" caption2="Research Officer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/nelson.jpg" caption="Nelson Chong" caption2="Research Officer" width="120px" height="120px"  %}
 
 
-## Associate Members
-{% include imagethumbnailblock.html url="/images/iantan.jpg" caption="Ian Tan" caption2="" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/khpoo.jpg" caption="Poo Kuan Hoong" caption2="Coqnitics" width="120px" height="120px"  %}
 
 ## Alumni
 - [Baharul Islam](https://www.linkedin.com/in/baharul){:target="_blank"}, Ph.D 2013-2018 (Post-Doc, Miller School of Medicine, University of Miami, USA) 
 - [Saimunur Rahman](http://saimunur.github.io/){:target="_blank"}, M.Sc 2014-2016 (PhD Student & CSIRO Data61 Scholar, Univ. of Wollongong, Australia) 
 - [Hii Yong Lian](https://github.com/HiiYL){:target="_blank"}, UG RA 2016-2017 (Software Engineer, Carousell, Singapore)   
+- [Benjamin Bong](), RO 2018
 
 ## Collaborators
 
