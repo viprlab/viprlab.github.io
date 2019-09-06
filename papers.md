@@ -12,20 +12,20 @@ pubs:
           pub:     "IEEE Transactions on Multimedia"
           type:     j
           url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8327910"
-          doi:     "10.1109/TMM.2018.2820324"
+          doi:     "https://doi.org/10.1109/TMM.2018.2820324"
           note:    "Scopus Q1, IF: 5.452 (2018)"      
         - title:   "Multi-scale Spatiotemporal Information Fusion Network for Video Action Recognition"
           author:  "Yutong Cai, Weiyao Lin, John See, Ming-Ming Cheng, Guangcan Liu, Hongkai Xiong"
           pub:     "2018 IEEE Visual Communications and Image Processing (VCIP)"
           type:     c
           url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698676"
-          doi:     "10.1109/VCIP.2018.8698676"        
+          doi:     "https://doi.org/10.1109/VCIP.2018.8698676"        
         - title:   "Tracklet Siamese Network with Constrained Clustering for Multiple Object Tracking"
           author:  "Jinlong Peng, Fan Qiu, John See, Qi Guo, Shaoshuai Huang, Ling-Yu Duan, Weiyao Lin"
           pub:     "2018 IEEE Visual Communications and Image Processing (VCIP)"
           type:     c
           url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698623"
-          doi:     "10.1109/VCIP.2018.8698623"            
+          doi:     "https://doi.org/10.1109/VCIP.2018.8698623"            
         - title:   "Paying Attention to Style: Recognizing Photo Styles with Convolutional Attentional Units"
           author:  "John See, Lai-Kuan Wong, Magzhan Kairanbay"
           pub:     "Asian Conference on Computer Vision"
