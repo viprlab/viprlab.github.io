@@ -5,6 +5,31 @@ title: Papers
 pubs:
     - year: "2018"
       groups:
+        - title:   "Multi-scale Spatiotemporal Information Fusion Network for Video Action Recognition"
+          author:  "Yutong Cai, Weiyao Lin, John See, Ming-Ming Cheng, Guangcan Liu, Hongkai Xiong"
+          pub:     "2018 IEEE Visual Communications and Image Processing (VCIP)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698676"
+          doi:     "10.1109/VCIP.2018.8698676"        
+        - title:   "Tracklet Siamese Network with Constrained Clustering for Multiple Object Tracking"
+          author:  "Jinlong Peng, Fan Qiu, John See, Qi Guo, Shaoshuai Huang, Ling-Yu Duan, Weiyao Lin"
+          pub:     "2018 IEEE Visual Communications and Image Processing (VCIP)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8698623"
+          doi:     "10.1109/VCIP.2018.8698623"            
+        - title:   "Paying Attention to Style: Recognizing Photo Styles with Convolutional Attentional Units"
+          author:  "John See, Lai-Kuan Wong, Magzhan Kairanbay"
+          pub:     "Asian Conference on Computer Vision"
+          type:     c
+          url:     "https://link.springer.com/content/pdf/10.1007%2F978-3-030-21074-8.pdf"
+          doi:     "https://doi.org/10.1007/978-3-030-21074-8_10"      
+        - title:   "Micro-expression recognition based on 3D flow convolutional neural network"
+          author:  "Jing Li, Yandan Wang, John See, Wenbin Liu"
+          pub:     "Pattern Analysis and Applications"
+          type:     j
+          url:     "https://link.springer.com/content/pdf/10.1007%2Fs10044-018-0757-5.pdf"
+          doi:     "https://doi.org/10.1007/s10044-018-0757-5"
+          note:    "Scopus Q2, IF: 0.86 (2018)"      
         - title:   "A survey of automatic facial micro-expression analysis: Databases, methods, and challenges"
           author:  "Yee-Hui Oh, John See, Anh Cat Le Ngo, Raphael C.-W. Phan, Vishnu M. Baskaran"
           pub:     "Frontiers in Psychology"
