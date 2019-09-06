@@ -3,8 +3,17 @@ layout: page
 permalink: /papers/
 title: Papers
 pubs:
+
+    - year: "2019"
     - year: "2018"
       groups:
+        - title:   "Aesthetics-driven stereoscopic 3-D image recomposition with depth adaptation"
+          author:  "Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low, Chee-Onn Wong"
+          pub:     "IEEE Transactions on Multimedia"
+          type:     j
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8327910"
+          doi:     "10.1109/TMM.2018.2820324"
+          note:    "Scopus Q1, IF: 5.452 (2018)"      
         - title:   "Multi-scale Spatiotemporal Information Fusion Network for Video Action Recognition"
           author:  "Yutong Cai, Weiyao Lin, John See, Ming-Ming Cheng, Guangcan Liu, Hongkai Xiong"
           pub:     "2018 IEEE Visual Communications and Image Processing (VCIP)"
