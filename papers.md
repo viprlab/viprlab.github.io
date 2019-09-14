@@ -5,6 +5,36 @@ title: Papers
 pubs:
 
     - year: "2019"
+      groups:
+        - title:   "Towards Accurate One-Stage Object Detection With AP-Loss"
+          author:  "Kean Chen, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou"
+          pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+          type:     c
+          url:     "http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf"
+        - title:   "GANmera: Reproducing Aesthetically Pleasing Photographs Using Deep Adversarial Networks"
+          author:  "Nelson Chong, Lai-Kuan Wong, John See"
+          pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+          type:     c
+          url:     "http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Chong_GANmera_Reproducing_Aesthetically_Pleasing_Photographs_Using_Deep_Adversarial_Networks_CVPRW_2019_paper.pdf"     
+        - title:   "Shallow triple stream three-dimensional CNN (STSTNet) for micro-expression recognition"
+          author:  "Sze-Teng Liong, YS Gan, John See, Huai-Qian Khor"
+          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756567"  
+          doi:      "https://doi.org/10.1109/FG.2019.8756567"
+        - title:   "MEGC 2019 – The Second Facial Micro-Expressions Grand Challenge"
+          author:  "John See, Moi Hoon Yap, Jingting Li, Xiaopeng Hong, Su-Jing Wang"
+          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
+          doi:     "https://doi.org/10.1109/FG.2019.8756611" 
+        - title:   "Group Re-Identification with Multi-grained Matching and Integration"
+          author:  "Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang, Tao Mei"
+          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
+          doi:     "https://doi.org/10.1109/FG.2019.8756611"                     
+
     - year: "2018"
       groups:
         - title:   "Aesthetics-driven stereoscopic 3-D image recomposition with depth adaptation"
