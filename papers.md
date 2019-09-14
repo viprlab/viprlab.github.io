@@ -6,6 +6,30 @@ pubs:
 
     - year: "2019"
       groups:
+        - title:   "Dual-stream Shallow Networks for Facial Micro-expression Recognition"
+          author:  "Huai-Qian Khor, John See, Sze-Teng Liong, Raphael CW Phan, Weiyao Lin"
+          pub:     "IEEE International Conference on Image Processing (ICIP)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/abstract/document/8802965"    
+          doi:     "https://doi.org/10.1109/ICIP.2019.8802965"      
+        - title:   "Beauty Is in the Eye of the Beholder: Demographically Oriented Analysis of Aesthetics in Photographs"
+          author:  "Magzhan Kairanbay, John See, Lai-Kuan Wong"
+          pub:     "ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)"
+          type:     c
+          url:     "http://delivery.acm.org/10.1145/3330000/3328993/a63-kairanbay.pdf?ip=203.106.67.53&id=3328993&acc=ACTIVE%20SERVICE&key=69AF3716A20387ED%2EE854CB4DB8D6D408%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568478714_eac2ff240d11acde3905d8101e1467d0"    
+          doi:     "https://doi.org/10.1145/3328993"        
+        - title:   "Efficient Semantic-Based Vehicle Retrieval in Long-term Car Park Videos"
+          author:  "Clarence Weihan Cheong, Ryan Woei-Sheng Lim, John See, Lai-Kuan Wong, Ian K.T. Tan"
+          pub:     "IEEE International Conference on Multimedia & Expo Workshops (ICMEW)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8795027"    
+          doi:     "https://doi.org/10.1109/ICMEW.2019.00-97"        
+        - title:   "Localization Guided Fight Action Detection in Surveillance Videos"
+          author:  "Qichao Xu, John See, Weiyao Lin"
+          pub:     "IEEE International Conference on Multimedia and Expo (ICME)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784746"    
+          doi:     "https://doi.org/10.1109/ICME.2019.00104"  
         - title:   "Towards Accurate One-Stage Object Detection With AP-Loss"
           author:  "Kean Chen, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou"
           pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
