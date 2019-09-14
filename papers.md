@@ -23,7 +23,13 @@ pubs:
           pub:     "IEEE International Conference on Multimedia & Expo Workshops (ICMEW)"
           type:     c
           url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8795027"    
-          doi:     "https://doi.org/10.1109/ICMEW.2019.00-97"        
+          doi:     "https://doi.org/10.1109/ICMEW.2019.00-97" 
+        - title:   "Warping-based Stereoscopic 3D Video Retargeting with Depth Remapping"
+          author:  "Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low, Chee Onn Wong"
+          pub:     "IEEE Winter Conference on Applications of Computer Vision (WACV)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658242"    
+          doi:     "https://doi.org/10.1109/WACV.2019.00181"                    
         - title:   "Localization Guided Fight Action Detection in Surveillance Videos"
           author:  "Qichao Xu, John See, Weiyao Lin"
           pub:     "IEEE International Conference on Multimedia and Expo (ICME)"
@@ -39,7 +45,13 @@ pubs:
           author:  "Nelson Chong, Lai-Kuan Wong, John See"
           pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
           type:     c
-          url:     "http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Chong_GANmera_Reproducing_Aesthetically_Pleasing_Photographs_Using_Deep_Adversarial_Networks_CVPRW_2019_paper.pdf"     
+          url:     "http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Chong_GANmera_Reproducing_Aesthetically_Pleasing_Photographs_Using_Deep_Adversarial_Networks_CVPRW_2019_paper.pdf" 
+        - title:   "Understanding the Photo-shooting Patterns of Sightseeing"
+          author:  "Xuefeng Liang, Song Tong, Takatsune Kumada, Yuen Peng Loh"
+          pub:     "ACM"
+          type:     c
+          url:     "https://dl.acm.org/ft_gateway.cfm?id=3352418&ftid=2081415&dwn=1&CFID=97199788&CFTOKEN=84f810b61c320a40-E7E3C29E-CB8E-3735-57135A5862EFFF2E"  
+          doi:     "https://doi.org/10.1145/3352411.3352418"               
         - title:   "Shallow triple stream three-dimensional CNN (STSTNet) for micro-expression recognition"
           author:  "Sze-Teng Liong, YS Gan, John See, Huai-Qian Khor"
           pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
@@ -57,7 +69,25 @@ pubs:
           pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
           type:     c
           url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
-          doi:     "https://doi.org/10.1109/FG.2019.8756611"                     
+          doi:     "https://doi.org/10.1109/FG.2019.8756611"   
+        - title:   "Low-light image enhancement using Gaussian Process for features retrieval"
+          author:  "Yuen Peng Loh, Xuefeng Liang, Chee Seng Chan"
+          pub:     "Signal Processing: Image Communication"
+          type:     j
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658242&tag=1"  
+          doi:     "https://doi.org/10.1016/j.image.2019.02.001"                         
+        - title:   "Wide or Narrow? A Visual Attention Inspired Model for View-Type Classification"
+          author:  "Song Tong, Yuen Peng Loh, Xuefeng Liang, Takatsune Kumada"
+          pub:     "IEEE Access ( Volume: 7 )"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8692716"  
+          doi:     "https://doi.org/10.1109/ACCESS.2019.2908856"                   
+        - title:   "Getting to Know Low-light Images with The Exclusively Dark Dataset"
+          author:  "Yuen Peng Loh, Chee Seng Chan"
+          pub:     "Computer Vision and Image Understanding"
+          type:     j
+          url:     "https://www.sciencedirect.com/science/article/pii/S1077314218304296/pdfft?md5=ad7231052bc8af766aa18aa274921432&pid=1-s2.0-S1077314218304296-main.pdf"  
+          doi:     "https://doi.org/10.1016/j.cviu.2018.10.010"                      
 
     - year: "2018"
       groups:
