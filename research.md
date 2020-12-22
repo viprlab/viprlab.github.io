@@ -60,7 +60,6 @@ With the recent availability of stereoscopic displays such as 3D monitor, 3D tel
 - **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-123RF Collaboration, PI: John See
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
 
-
 ### External (Government/Institutional-funded)
 - **Player-Dependent Predictive Modeling for Automated Tactical Analysis of Badminton Videos**{:.hilite}, 2019-**Ongoing**{:.marker}, MOHE FRGS Grant, PI: Ban Kar Weng
 - **Aesthetics-driven, Crop-and-Warp Image Recomposition Using Dual Learning Framework**{:.hilite}, 2019-**Ongoing**{:.marker}, MOHE FRGS Grant, PI: Wong Lai Kuan
@@ -70,10 +69,11 @@ With the recent availability of stereoscopic displays such as 3D monitor, 3D tel
 - **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant 
 
 ### Internal
+- **Low-light Image Enhancement and Recognition**{.hilite}, 2019-2020, Mini Fund, PI: Loh Yuen Peng
 - **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, PI: Albert Quek
 - **Semi-supervised, Aesthetics-driven Image Recomposition Using Generative Adversarial Model**{:.hilite},
 2018-2019, Mini Fund, PI: Wong Lai Kuan
-- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-2018, MMU-GRA Funding, PI: Wong Lai Kuan
 - **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-2019, MMU-GRA Funding, PI: John See 
+- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-2018, MMU-GRA Funding, PI: Wong Lai Kuan
 - **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-2018, MMU R&D Capex Fund / MMU-GRA Funding, PI: Albert Quek
 - **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, Albert Quek 

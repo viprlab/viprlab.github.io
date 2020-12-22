@@ -4,14 +4,14 @@
 - title: "People"
   href: "/people/"
   
-- title: "Papers"
+- title: "Publications"
   href: "/papers/"
 
 - title: "RG"
   href: "/readinggroup/"
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+#  href: "/blog/"
 
   # subcategories:
   #  - subtitle: "Item 1"
