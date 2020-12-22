@@ -17,12 +17,6 @@ Magzhan Kairanbay, Hii Yong Lian, John See, Wong Lai Kuan
 {: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
-### Long-term Video Surveillance (LoViS)
-{% include imagethumbnailblock.html align="left" url="/images/lovis.png" width="120px" height="120px" padding="right" %}
-In a long-term period, video surveillance takes on a different perspective. Habitual behaviors of people or permanent changes to objects can be observed while anomalous "out-of-norm" variations can also be traced. We investigate how these variational patterns can be extracted over a long period of time to gain a high-level understanding of various factors at play.
-{: #proj-description}
-{% include clearfloat.html prevfloat="left" %}
-
 ### Facial Micro-Expression Analysis
 {% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
 A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
@@ -35,8 +29,9 @@ The mechanism that allows for human forearm rotation is still poorly understood.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
----
-Older projects that are still very much relevant today.
+
+## Past Projects
+<small>Here's some of our previous completed projects, which are still very much relevant today.</small>
 
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
@@ -47,6 +42,12 @@ Most state-of-the-art techniques for HAR have been designed to perform well unde
 ### Aesthetics-driven Stereo Retargeting and Recomposition
 {% include imagethumbnailblock.html url="/images/retarget.jpg" width="480px" padding="right" %}
 With the recent availability of stereoscopic displays such as 3D monitor, 3D television and stereo camera phone, there is an increasing need for stereo image retargeting and recomposition techniques. Image retargeting aims to resize an image to fit different aspect ratios and sizes while image recomposition attempts to computationally modify the composition of an image to mimic a professional photo. We investigate new aesthetic-driven methods for retargeting and recomposition for stereo image pairs.
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
+### Long-term Video Surveillance (LoViS)
+{% include imagethumbnailblock.html align="left" url="/images/lovis.png" width="120px" height="120px" padding="right" %}
+In a long-term period, video surveillance takes on a different perspective. Habitual behaviors of people or permanent changes to objects can be observed while anomalous "out-of-norm" variations can also be traced. We investigate how these variational patterns can be extracted over a long period of time to gain a high-level understanding of various factors at play.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
