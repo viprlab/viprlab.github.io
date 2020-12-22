@@ -24,9 +24,6 @@ permalink: /people/
 ## Research Assistants
 {% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/junehao.jpg" caption="Ching June Hao" caption2="Project Developer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/weiweitoo.jpg" caption="Too Seng Wei" caption2="Research Officer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/nelson.jpg" caption="Nelson Chong" caption2="Research Officer" width="120px" height="120px"  %}
 
 
 ## Alumni
