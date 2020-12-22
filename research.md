@@ -54,22 +54,26 @@ With the recent availability of stereoscopic displays such as 3D monitor, 3D tel
 
 ## Funding/Grants
 
-### External
-- **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, 2020-2023, CREST R&D Grant 
-- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-2019, One Belt One Road Initiative Young Scholar Exchange Grant 
-- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant
-- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant
-- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund
-- **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant
+### External (Industry-funded)
+- **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, 2020-**Ongoing**{:.marker}, CREST R&D Grant, PI: John See 
+- **AI Technologies for Visual and Textual Media**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-Astro Collaboration, PI: John See
+- **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-123RF Collaboration, PI: John See
+- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
+
+
+### External (Government/Institutional-funded)
+- **Player-Dependent Predictive Modeling for Automated Tactical Analysis of Badminton Videos**{:.hilite}, 2019-**Ongoing**{:.marker}, MOHE FRGS Grant, PI: Ban Kar Weng
+- **Aesthetics-driven, Crop-and-Warp Image Recomposition Using Dual Learning Framework**{:.hilite}, 2019-**Ongoing**{:.marker}, MOHE FRGS Grant, PI: Wong Lai Kuan
+- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-2019, One Belt One Road Initiative Young Scholar Exchange Grant, Co-PI: John See 
+- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant, PI: John See
+- **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, PI: John See
 - **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant 
-<!-- total: 2,611,880 -->
 
 ### Internal
-- **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, Albert Quek{:.hilite}.
+- **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, PI: Albert Quek
 - **Semi-supervised, Aesthetics-driven Image Recomposition Using Generative Adversarial Model**{:.hilite},
-2018-**Ongoing**{:.marker}, Mini Fund
-- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-**Ongoing**{:.marker}, MMU-GRA Funding
-- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-**Ongoing**{:.marker}, MMU-GRA Funding 
-- **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-2018, MMU R&D Capex Fund, MMU-GRA Funding
+2018-2019, Mini Fund, PI: Wong Lai Kuan
+- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-2018, MMU-GRA Funding, PI: Wong Lai Kuan
+- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-2019, MMU-GRA Funding, PI: John See 
+- **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-2018, MMU R&D Capex Fund / MMU-GRA Funding, PI: Albert Quek
 - **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, Albert Quek 
-<!-- total: 310,920 -->
