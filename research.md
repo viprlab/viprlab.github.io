@@ -21,14 +21,19 @@ Magzhan Kairanbay, Hii Yong Lian, John See, Wong Lai Kuan
 {% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
 A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
 {: #proj-description}
+Huai-Qian Khor, John See
+{: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
 ### Computational 3D Model of Forearm Rotation
 {% include imagethumbnailblock.html align="left" url="/images/3dforearm.png" height="120px" padding="right" %}
 The mechanism that allows for human forearm rotation is still poorly understood. As a result, sub-optimal surgical treatment of fractured radius or ulna can lead to impaired forearm motion. We aim to develop a physically accurate 3D dynamic model of human forearm rotation from CT scan, with visualization of the model, the dynamic rotation and tensing of interosseous membrane. This is a project in collaboration with National University of Singapore (NUS) and Singapore General Hospital (SGH).
 {: #proj-description}
+Muhammad Faiz, Wong Lai Kuan, John See
+{: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
+---
 
 ## Past Projects
 <small>Here's some of our previous completed projects, which are still very much relevant today.</small>
