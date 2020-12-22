@@ -52,25 +52,24 @@ With the recent availability of stereoscopic displays such as 3D monitor, 3D tel
 
 
 
-
 ## Funding/Grants
 
 ### External
-- **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, **to start in 2018**{:.marker}, CREST R&D Grant, RM 1,998,000.
-- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-Ongoing**{:.marker}, One Belt One Road Initiative Young Scholar Exchange Grant, 300,000 Chinese RMB.
-- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-**Ongoing**{:.marker}, MOHE FRGS Grant, RM 80,200.
-- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, RM 200,000.
-- **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, RM 70,600.
-- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant, RM 76,600.
+- **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, 2020-2023, CREST R&D Grant 
+- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-2019, One Belt One Road Initiative Young Scholar Exchange Grant 
+- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant
+- **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant
+- **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund
+- **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant
+- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant 
 <!-- total: 2,611,880 -->
 
 ### Internal
+- **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, Albert Quek{:.hilite}.
 - **Semi-supervised, Aesthetics-driven Image Recomposition Using Generative Adversarial Model**{:.hilite},
-2018-**Ongoing**{:.marker}, Mini Fund, RM 20,160.
-- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-**Ongoing**{:.marker}, MMU-GRA Funding, RM 57,600.
-- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-**Ongoing**{:.marker}, MMU-GRA Funding, RM 118,800.
-- **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-2018, MMU R&D Capex Fund, RM 23,550, MMU-GRA Funding, RM 56,400.
-- **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, RM 20,000.
-- **Mining for Trends and Anomalies from Long-term Video Surveillance**{:.hilite}, 2014-2015, Mini Fund, RM 6,440
-- **Analysis of Variational Patterns in Long-term Video Surveillance Data**{:.hilite}, 2013-2014, Mini Fund, RM 7,970
+2018-**Ongoing**{:.marker}, Mini Fund
+- **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-**Ongoing**{:.marker}, MMU-GRA Funding
+- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-**Ongoing**{:.marker}, MMU-GRA Funding 
+- **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-2018, MMU R&D Capex Fund, MMU-GRA Funding
+- **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, Albert Quek 
 <!-- total: 310,920 -->
