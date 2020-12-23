@@ -6,7 +6,7 @@ reads:
     - date: "18 Dec"
       time: "1100"
       presenter: "Nelson, JY Ching"
-      paper: "Computational Aesthetics: Moving Forward"
+      paper: "Paper Sharing"
       details: "Kim et al. PieNet: Personalized Image Enhancement Network (ECCV 2020)<br>Zhan et al. Self-Supervised Scene De-occlusion (CVPR 2020)" 
 
 ---
