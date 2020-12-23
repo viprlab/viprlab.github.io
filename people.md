@@ -21,7 +21,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/iceboy.jpg" caption="Khor Huai Qian" caption2="M.Sc student" width="120px" height="120px"  %}
 
 
-## Research Assistants
+## Research Assistants / Project Developers
 {% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
 
