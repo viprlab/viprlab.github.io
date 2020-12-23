@@ -9,6 +9,15 @@ permalink: /research/
 
 We have a number of funded and non-funded projects which are currently on-going.
 
+### Generation of Polygonal Geometric Art 
+{% include imagethumbnailblock.html align="left" url="/images/polyart.jpg" height="120px" padding="bottom" %}
+Automatic geometric abstraction which is a process of transforming an image into geometric art has widespread use in image editing and artistic synthesis. While existing methods yield unwanted distortions, are less subject-focused and even computationally expensive, we seek to design straightforward, non-learning algorithms which can support both triangle- and polygon-based abstraction without sacrificing on the semantics of subjects in the picture. 
+{: #proj-description}
+Abby Low, Ng Ruisheng, Wong Lai Kuan, John See
+{: #proj-members}
+{% include clearfloat.html prevfloat="left" %}
+
+
 ### Large-scale Aesthetic Evaluation of Photographs (LAttE)
 {% include imagethumbnailblock.html align="left" url="/images/latte.jpg" width="120px" height="120px" padding="right" %}
 Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
@@ -18,7 +27,7 @@ Magzhan Kairanbay, Hii Yong Lian, John See, Wong Lai Kuan
 {% include clearfloat.html prevfloat="left" %}
 
 ### Facial Micro-Expression Analysis
-{% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/microexp-emm.gif" height="140px" padding="right" %}
 A micro-expression is a brief and involuntary facial movement which reveals a genuine emotion that a person tries to hide. Psychologists have been studying facial micro-expressions since the 1960’s, computer scientists are now beginning to explore the possibility of spotting and identifying these micro-expressions using machine vision and learning algorithms; we aim to discover novel methods for doing so. This contemporary field of research has potential applications for clinical diagnosis of psychological conditions (autism and depression), criminal interrogation and lie detection. This project is in collaboration with institutions in UK and China.
 {: #proj-description}
 Huai-Qian Khor, John See
