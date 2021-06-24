@@ -3,14 +3,17 @@
 
 - title: "People"
   href: "/people/"
-  
+
 - title: "Publications"
   href: "/papers/"
 
-- title: "RG"
-  href: "/readinggroup/"
+- title: "Contact"
+  href: "/contact/"
 
-  
+
+#- title: "RG"
+#  href: "/readinggroup/"
+
 #- title: "Blog"
 #  href: "/blog/"
 
