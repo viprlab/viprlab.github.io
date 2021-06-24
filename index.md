@@ -3,26 +3,12 @@ layout: page
 title:
 permalink: /
 news:
-   - date: 08/2018
-     info: "Looking forward to ACCV 2018! Lai Kuan and John will be chairing the [Workshop on AI Aesthetics in Art and Media](https://aiaesthetics.github.io/) while John to give a Tutorial on \"Facial Micro-Expression Analysis: A Computer Vision Challenge\" (site to be up soon)."
-   - date: 07/2018
-     info: Our lab participated (for the first time) in the [AI Meets Beauty - Perfect Half Million Beauty Product Image Recognition Challenge](https://challenge2018.perfectcorp.com/) held in conjunction with ACM MM 2018, achieving 7th placing (of 13 teams). 
-   - date: 06/2018
-     info: Clarence and Ryan joins [National Chung Cheng University](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Nung Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/) and [Prof. Ching-Chun Huang](http://acm.ee.ccu.edu.tw).
-   - date: 05/2018
-     info: This year, our projects SHERLOCK and PiQual won 1 silver and 2 bronze medals from ITEX 2018 and MTE 2018 exhibitions respectively. 
-   - date: 04/2018
-     info: Gary Chan and Ting Wei joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for a 3-month research internship under [Prof. Wen-Huang Cheng](https://www.citi.sinica.edu.tw/~whcheng/).
-   - date: 03/2018
-     info: We have 3 papers accepted to the [1st Workshop on Micro-Expression Grand Challenge (MEGC)](http://www2.docm.mmu.ac.uk/STAFF/m.yap/FG2018Workshop.htm) @ [FG 2018](https://fg2018.cse.sc.edu) in Xi'an, China.
-   - date: 11/2017
-     info: We have 2 papers accepted to [MMM 2018](http://mmm2018.chula.ac.th/) in Bangkok, Thailand.
-   - date: 2017-10-09
-     info: Our projects obtained three medals (1 gold, 2 bronze) at [Pecipta 2017](https://pecipta.my/)!
-   - date: 2017-06-05
-     info: We have 2 papers on image aesthetics accepted to [ICIP 2017](http://2017.ieeeicip.org/) in Beijing, China. Congratulations to Magzhan for securing the IEEE SPS Travel Grant of USD 1,000!  
+   - date: 05/2021
+     info: "We have **two** papers accepted to [ICIP 2021](https://www.2021.ieeeicip.org/) on aesthetics captioning and micro-expression spotting."
+   - date: 04/2021
+     info: [Dr. John See](https://john-see.github.io) will remain as an Associate Member of this lab, as he takes on a new role at Heriot-Watt University Malaysia."
 #   - date: 2017-05-31
-#     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)! 
+#     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)!
 #   - date: 2017-03-15
 #     info: YL Hii and HQ Khor joins [Academic Sinica](https://www.sinica.edu.tw/en), Taiwan for 3-month research internship under [Prof. Cheng Wen-Huang](https://www.citi.sinica.edu.tw/~whcheng/).
 # - date: 2016-12-05
@@ -33,7 +19,7 @@ news:
 #   - date: 2016-08-01
 #     info: We have **ONE** Masters research position for Project DeepME. More information [here](/research/jobs/).
 #   - date: 2016-06-01
-#     info: Vacancies (Masters research scholar) for Project SHERLOCK have been filled! 
+#     info: Vacancies (Masters research scholar) for Project SHERLOCK have been filled!
 #   - date: 2016-05-27
 #     info: Project **"Stereoscopic 3D Image Recomposition and Retargeting"** led by Lai Kuan (with Baharul, Chun Hau, Wong Chee Onn and Low Kok-Lim (NUS)) has won a Gold Award at ITEX 2016!
 #     img: bahar-lkwong-itex.jpg
@@ -44,7 +30,7 @@ news:
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
 
-Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [projects](/research/), [papers](/papers/), [reading group](/readinggroup/) and [blog](/blog/)! 
+Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [research projects](/research/) and [publications](/papers/).
 
 ## Areas
 
@@ -65,17 +51,15 @@ We work on a wide variety of research areas, particularly in the following speci
 
 ## Prospective Students
 
-We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. John See] or [Dr. Wong Lai Kuan]) if you have any enquiries about our research or would like to join us.
+We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. Wong Lai Kuan] or [Dr. Loh Yuen Peng]) if you have any enquiries about our research or would like to join us.
 
-Undergraduate students can also be part of the group by joining us on voluntary projects or on part-time appointment via research funding. 
+Undergraduate students can also be part of the group by joining us on voluntary projects or on part-time appointment via research funding.
 
 ## Vacancies
 
-Please see our [new page](/research/jobs/) for news on vacancies!
+Please see our [this page](/research/jobs/) for news on vacancies!
 
-[https://goo.gl/SaNP3H]: https://goo.gl/SaNP3H
-[https://goo.gl/3il2R9]: https://goo.gl/3il2R9
-[Multimedia University]: http://www.mmu.edu.my 
-[Faculty of Computing and Informatics]: http://fci.mmu.edu.my 
-[Dr. John See]: mailto:johnsee@mmu.edu.my 
+[Multimedia University]: http://www.mmu.edu.my
+[Faculty of Computing and Informatics]: http://fci.mmu.edu.my
+[Dr. Loh Yuen Peng]: mailto:yploh@mmu.edu.my
 [Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my

@@ -9,9 +9,9 @@ permalink: /research/
 
 We have a number of funded and non-funded projects which are currently on-going.
 
-### Generation of Polygonal Geometric Art 
+### Generation of Polygonal Geometric Art
 {% include imagethumbnailblock.html align="left" url="/images/polyart.jpg" height="120px" padding="bottom" %}
-Automatic geometric abstraction which is a process of transforming an image into geometric art has widespread use in image editing and artistic synthesis. While existing methods yield unwanted distortions, are less subject-focused and even computationally expensive, we seek to design straightforward, non-learning algorithms which can support both triangle- and polygon-based abstraction without sacrificing on the semantics of subjects in the picture. 
+Automatic geometric abstraction which is a process of transforming an image into geometric art has widespread use in image editing and artistic synthesis. While existing methods yield unwanted distortions, are less subject-focused and even computationally expensive, we seek to design straightforward, non-learning algorithms which can support both triangle- and polygon-based abstraction without sacrificing on the semantics of subjects in the picture.
 {: #proj-description}
 Abby Low, Ng Ruisheng, Wong Lai Kuan, John See
 {: #proj-members}
@@ -70,7 +70,7 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 ## Funding/Grants
 
 ### External (Industry-funded)
-- **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, 2020-**Ongoing**{:.marker}, CREST R&D Grant, PI: John See 
+- **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, 2020-**Ongoing**{:.marker}, CREST R&D Grant, PI: John See
 - **AI Technologies for Visual and Textual Media**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-Astro Collaboration, PI: John See
 - **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-123RF Collaboration, PI: John See
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
@@ -78,17 +78,17 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 ### External (Government/Institutional-funded)
 - **Player-Dependent Predictive Modeling for Automated Tactical Analysis of Badminton Videos**{:.hilite}, 2019-**Ongoing**{:.marker}, MOHE FRGS Grant, PI: Ban Kar Weng
 - **Aesthetics-driven, Crop-and-Warp Image Recomposition Using Dual Learning Framework**{:.hilite}, 2019-**Ongoing**{:.marker}, MOHE FRGS Grant, PI: Wong Lai Kuan
-- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-2019, One Belt One Road Initiative Young Scholar Exchange Grant, Co-PI: John See 
+- **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-2019, One Belt One Road Initiative Young Scholar Exchange Grant, Co-PI: John See
 - **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant, PI: John See
 - **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, PI: John See
-- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant 
+- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant
 
 ### Internal
 - **Low-light Image Enhancement and Recognition**{.hilite}, 2019-2020, Mini Fund, PI: Loh Yuen Peng
 - **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, PI: Albert Quek
 - **Semi-supervised, Aesthetics-driven Image Recomposition Using Generative Adversarial Model**{:.hilite},
 2018-2019, Mini Fund, PI: Wong Lai Kuan
-- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-2019, MMU-GRA Funding, PI: John See 
+- **Large-scale Computational Aesthetic Evaluation of Photographs using Deep Learning**{:.hilite}, 2016-2019, MMU-GRA Funding, PI: John See
 - **In Silico Modelling of Interosseous Membrane Behaviour in 3D Forearm Rotation**{:.hilite}, 2016-2018, MMU-GRA Funding, PI: Wong Lai Kuan
 - **Efficient Streaming of Real-time 360-degree Videos for Head Mounted Displays**{:.hilite}, 2017-2018, MMU R&D Capex Fund / MMU-GRA Funding, PI: Albert Quek
-- **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, Albert Quek 
+- **Virtual Reality Fire Safety Intervention Program**{:.hilite}, 2015-2017, Mini Fund, Albert Quek
