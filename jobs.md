@@ -12,11 +12,11 @@ Vacancies in ViPr Lab will be posted here.
 
 ### Funded
 
-* We are looking for **2 Ph.D students** (Malaysian citizens only) to work in the areas of (1) **algorithms for visual cloud analytics** (applications such as retail/crowd surveillance), (2) **embedded systems/edge computing for IoT**. Interested applicants may contact Dr. John See (`johnsee[at]mmu[dot]edu[dot]my`) or Dr. Ian Tan (`ian[at]mmu[dot]edu[dot]my`) by email.
+{% * We are looking for **2 Ph.D students** (Malaysian citizens only) to work in the areas of (1) **algorithms for visual cloud analytics** (applications such as retail/crowd surveillance), (2) **embedded systems/edge computing for IoT**. Interested applicants may contact Dr. John See (`johnsee[at]mmu[dot]edu[dot]my`) or Dr. Ian Tan (`ian[at]mmu[dot]edu[dot]my`) by email. %}
 
 * We are looking for **1 Masters/Ph.D student** (open to all) to work in some niche areas of computational photography. This is for a graduate research assistantship which must be jointly applied by both supervisor and candidate, subject to an interview and approval by university. Interested applicants may contact Dr. John See (`johnsee[at]mmu[dot]edu[dot]my`) or Dr. Wong Lai Kuan (`lkwong[at]mmu[dot]edu[dot]my`) by email. Topics are as follows:
     - **Aesthetic and/or emotional captioning of photos**
-    - **Learning and predicting affective content in photos**
+    - **Learning and predicting affective content in photos** %}
 
 ---
 ### Voluntary    
