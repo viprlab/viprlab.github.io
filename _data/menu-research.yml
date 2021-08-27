@@ -6,9 +6,6 @@
   
 - title: "Datasets"
   href: "/research/data"
-  
-- title: "Code"
-  href: "/research/code"
 
 - title: "Jobs"
   href: "/research/jobs"
@@ -18,3 +15,5 @@
   #    subhref: "/miscellany/item-1/"
   #  - subtitle: "Item 2"
   #    subhref: "/miscellany/item-2/"
+  #  - title: "Code"
+  #  href: "/research/code"
