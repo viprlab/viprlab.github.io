@@ -38,7 +38,7 @@ Huai-Qian Khor, John See
 {% include imagethumbnailblock.html align="left" url="/images/3dforearm.png" height="120px" padding="right" %}
 The mechanism that allows for human forearm rotation is still poorly understood. As a result, sub-optimal surgical treatment of fractured radius or ulna can lead to impaired forearm motion. We aim to develop a physically accurate 3D dynamic model of human forearm rotation from CT scan, with visualization of the model, the dynamic rotation and tensing of interosseous membrane. This is a project in collaboration with National University of Singapore (NUS) and Singapore General Hospital (SGH).
 {: #proj-description}
-Muhammad Faiz, Wong Lai Kuan, John See
+Muhammad Faiz, Wong Lai Kuan, John See, Loh Yuen Peng
 {: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
