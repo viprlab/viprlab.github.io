@@ -6,7 +6,7 @@ permalink: /people/
 
 ## Faculty Staff
 
-{% include imagethumbnailblock.html url="/images/lkwong.jpg" caption="Wong Lai Kuan" width="120px" height="120px"  %}(https://mmuexpert.mmu.edu.my/lkwong){:target="_blank"},
+{% include imagethumbnailblock.html url="/images/lkwong.jpg" caption="Wong Lai Kuan" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/albert.jpg" caption="Albert Quek" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/yploh.jpg" caption="Loh Yuen Peng" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/cypee.jpg" caption="Pee Chih Yang" width="100px" height="120px" %}
