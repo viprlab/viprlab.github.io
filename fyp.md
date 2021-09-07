@@ -24,6 +24,11 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 - Object Recognition in Low-light Images
 - Dashboard Camera View Vehicle License Plate Recognition and Compliance Verification
 
+**Dr. Pee Chih Yang**
+- Moment based Handwritten Signature Verification System
+- Moment based Leaf classification System
+- Plant Disease Assessment using Deep Learning
+
 **Mr. Albert Quek**
 - Virtual Reality Application Treatment for Trypanophobia
 - Physical Rehabilitation using Virtual Reality
@@ -32,11 +37,6 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 - Escape Room Horror Game
 - RPG Exergame in Virtual Reality
 - Audio Based Controller for Game
-
-**Dr. Pee Chih Yang**
-- Moment based handwritten signature verification system
-- Moment based Leaf classification systems
-- Plant Disease Assessment using Deep Learning
 
 {::comment}
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
