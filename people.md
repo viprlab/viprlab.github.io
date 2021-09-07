@@ -9,6 +9,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/lkwong.jpg" caption="Wong Lai Kuan" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/albert.jpg" caption="Albert Quek" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/yploh.jpg" caption="Loh Yuen Peng" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/cypee.jpg" caption="Pee Chih Yang" width="120px" height="120px" %}
 
 ## Postgraduates
 {% include imagethumbnailblock.html url="/images/cctoh.jpg" caption="Toh Cheng Chuan" caption2="Ph.D student" width="120px" height="120px"  %}
