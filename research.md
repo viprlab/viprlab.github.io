@@ -70,9 +70,11 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 ## Funding/Grants
 
 ### External (Industry-funded)
+- **Formulation of high discriminative discrete Krawtchouk moment invariants with Deep Neural Network learning model for plant condition assessment**{:.hilite}, 2021-**Ongoing**{:.marker}, MMU-Poladrone Collaboration, PI: Pee Chih Yang
+- **New Framework for Modeling Concurrent Low-light Image Enhancement and Object Classification with Deep Neural Networks**{:.hilite}, 2021-**Ongoing**{:.marker}, MMU-NCTU, Taiwan, PI: Loh Yuen Peng
 - **Research, Development and Validation of Visual Cloud Systems Analytics Framework for Internet-of-Things Applications**{:.hilite}, 2020-**Ongoing**{:.marker}, CREST R&D Grant, PI: John See
 - **AI Technologies for Visual and Textual Media**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-Astro Collaboration, PI: John See
-- **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-123RF Collaboration, PI: John See
+- **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-123RF Collaboration, PI: Wong Lai Kuan
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
 
 ### External (Government/Institutional-funded)
