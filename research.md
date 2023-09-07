@@ -16,7 +16,6 @@ We have a number of funded and non-funded projects which are currently on-going.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-
 ### Deep learning with Krawtchouk moment for plant condition assessment
 {% include imagethumbnailblock.html align="left" url="/images/robotic_ssd2.png" height="110px" padding="bottom" %}
 Agriculture sector often suffers great losses due to plant diseases. Image-based classification of plant diseases holds potential for
