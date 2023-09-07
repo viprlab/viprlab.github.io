@@ -15,7 +15,7 @@ The following are example of completed FYP projects for the last two years:
 - Joint Prediction of Technical and Aesthetics Image Quality
 - Context-Aware Image Emotion Prediction
 - Image Dehazing With Contextualized Attentive U-Net
-- Image Deraining for Improving Vision Tasks
+- Image Deraining for Improving Object Detection
 - PhotoViewRec: A Machine Learning Model for Recommending Photographic View with Good Composition
 - DECOVID-CXR-II: A multimodal AI model for severity assessment of COVID-19 Infection using Chest X-Rays
 - DECOVID-CT-II: A multimodal deep learning model for severity assessment of COVID-19 Infection using CT Scan
@@ -37,6 +37,7 @@ The following are example of completed FYP projects for the last two years:
 - Moment based Leaf classification System
 - Plant Disease Assessment using Deep Learning
 - Segmentation and Recognition of Plant Disease Leaf in A Complex Environment using a Deep Learning Approach
+- Digital Watermarking using Affine Tchebichef Moment Invariant
 
 **Mr. Albert Quek**
 - Virtual Reality Application Treatment for Trypanophobia
