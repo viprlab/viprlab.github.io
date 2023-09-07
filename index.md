@@ -38,8 +38,8 @@ We work on a wide variety of research areas, particularly in the following speci
 
 {% include imagethumbnailblock.html url="images/aesthetics.jpg" caption="Computational Aesthetics" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="images/deeplearningbrain.jpg" caption="Deep Learning Applications" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="images/microexp.jpg" caption="Micro-Expression Analysis" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/restoration.png" caption="Visual Enhancement and Restoration" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/botany.png" caption="Computational Botany" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/oculusrift.jpg" caption="VR & Gestures" width="120px" height="120px"  %}
