@@ -5,9 +5,15 @@ permalink: /research/
 ---
 {% include nav-research.html  %}
 
+
 ## Projects
 
 We have a number of funded and non-funded projects which are currently on-going.
+
+---
+
+## Past Projects
+<small>Here's some of our previous completed projects, which are still very much relevant today.</small>
 
 ### Generation of Polygonal Geometric Art
 {% include imagethumbnailblock.html align="left" url="/images/polyart.jpg" height="120px" padding="bottom" %}
@@ -41,11 +47,6 @@ The mechanism that allows for human forearm rotation is still poorly understood.
 Muhammad Faiz, Wong Lai Kuan, John See, Loh Yuen Peng
 {: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
-
----
-
-## Past Projects
-<small>Here's some of our previous completed projects, which are still very much relevant today.</small>
 
 ### Action Recognition in Adverse Quality Surveillance (AQuaS)
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
