@@ -14,16 +14,12 @@ We have a number of funded and non-funded projects which are currently on-going.
 {% include imagethumbnailblock.html align="left" url="/images/lowlight_objdetection.png" height="180px" padding="bottom" %}
 Object classification models based on deep learning has contributed to large scale deployments of intelligent vision systems for various practical applications. However, when such models are faced with low-light environments, their performance noticeably drop. This project aims to investigate and gain insights on the effects of low-light conditions on convolutional neural network models as well as to formulate a CNN architecture for simultaneous modelling of low-light image enhancement and object classification. 
 {: #proj-description}
-Abby Low, Ng Ruisheng, Wong Lai Kuan, John See
-{: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
 ### Filling in the taxonomic gap in botany through plant image synthesis
 {% include imagethumbnailblock.html align="left" url="/images/plant_synthesis.png" height="150px" padding="bottom" %}
 Plant taxonomy is a field of identification, description, and recording of plants in nature that supports various works related to the environment and agriculture. However, such work are highly reliant on distinctive expertise that are difficult to obtain. Therefore, automated plant identification from digital images has been in demand but yet they are heavily reliant on the training using large amounts of digital data that are not readily available. Hence, this project aims to investigate the use of synthesized image data as a solution to solve this data insufficiency problem in order to train effective plant classification models 
 {: #proj-description}
-Abby Low, Ng Ruisheng, Wong Lai Kuan, John See
-{: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
 ---
