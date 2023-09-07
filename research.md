@@ -36,7 +36,7 @@ early plant disease detection. However, automatic plant condition detection face
 {% include clearfloat.html prevfloat="left" %}
 
 ### Large-scale Aesthetic Evaluation of Photographs (LAttE)
-{% include imagethumbnailblock.html align="left" url="/images/latte.jpg" width="120px" height="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/aesthetics.png" height="120px" padding="right" %}
 Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
