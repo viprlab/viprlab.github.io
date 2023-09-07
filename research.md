@@ -29,7 +29,7 @@ Plant taxonomy is a field of identification, description, and recording of plant
 {% include clearfloat.html prevfloat="left" %}
 
 ### Deep learning with Krawtchouk moment for plant condition assessment
-{% include imagethumbnailblock.html align="left" url="/images/krawtchouk_plant.png" width="120px" height="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/krawtchouk_plant.png" width="120px" padding="right" %}
 Agriculture sector often suffers great losses due to plant diseases. Image-based classification of plant diseases holds potential for
 early plant disease detection. However, automatic plant condition detection faces many challenges associated with large variations of visual symptoms, background and illumination. In this work, we proposed a moment-based Deep Neural Network (DNN) that utilizes our improved, high discriminative Krawtchouk moments for improving plant condition classification. 
 {: #proj-description}
@@ -42,7 +42,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 {% include clearfloat.html prevfloat="left" %}
 
 ### Modelling Image Emotion
-{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" width="120px" height="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" width="120px" padding="right" %}
 Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
