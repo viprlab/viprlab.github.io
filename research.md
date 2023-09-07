@@ -10,6 +10,12 @@ permalink: /research/
 
 We have a number of funded and non-funded projects which are currently on-going.
 
+***3D Semantic Scene Completion for Improving Robotic Scene Understanding**
+{% include imagethumbnailblock.html align="left" url="/images/robotic_ssd.png" height="110px" padding="bottom" %}
+3D scene understanding is crucial for many AI applications, including robotic navigation. Due to limited field of view and sparse sensing, vision sensors suffer massive occlusion in cluttered environments, resulting in the captured scene representation being incomplete. To capacitate better 3D scene understanding, research on semantic scene completion (SSC), which aims to estimate the complete scene geometry and semantics simultaneously, is gaining much recent research interest. However, SSC is a highly challenging task and the performance of state-of-the-art methods still suffers in real-world data settings. To address the aforementioned limitations, this project aims to design novel  SSC models that can perform 3D scene occupancy prediction and semantic scene segmentation simultaneously.
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
 ### New Framework for Modeling Concurrent Low-light Image Enhancement and Object Classification with Deep Neural Networks
 {% include imagethumbnailblock.html align="left" url="/images/lowlight_objdetection.png" height="110px" padding="bottom" %}
 Object classification models based on deep learning has contributed to large scale deployments of intelligent vision systems for various practical applications. However, when such models are faced with low-light environments, their performance noticeably drop. This project aims to investigate and gain insights on the effects of low-light conditions on convolutional neural network models as well as to formulate a CNN architecture for simultaneous modelling of low-light image enhancement and object classification. 
@@ -93,6 +99,8 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 
 ### Internal
 - **Intelligent Breast Morphometry Prediction Framework for Peroperative Surgical Planning**{.hilite}, 2022-2023, IR Fund, PI: Wong Lai Kuan
+- **Filling in the taxonomic gap in botany through plant image synthesis**{.hilite}, 2021-2022, IR Fund, PI: Loh Yuen Peng
+- **High discriminative discrete Krawtchouk moment invariants**{.hilite}, 2021-2022, IR Fund, PI: Pee Chih Yang
 - **Low-light Image Enhancement and Recognition**{.hilite}, 2019-2020, Mini Fund, PI: Loh Yuen Peng
 - **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, PI: Albert Quek
 - **Semi-supervised, Aesthetics-driven Image Recomposition Using Generative Adversarial Model**{:.hilite},
