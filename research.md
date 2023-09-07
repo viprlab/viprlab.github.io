@@ -31,7 +31,6 @@ Plant taxonomy is a field of identification, description, and recording of plant
 {% include imagethumbnailblock.html align="left" url="/images/polyart.jpg" height="120px" padding="bottom" %}
 Automatic geometric abstraction which is a process of transforming an image into geometric art has widespread use in image editing and artistic synthesis. While existing methods yield unwanted distortions, are less subject-focused and even computationally expensive, we seek to design straightforward, non-learning algorithms which can support both triangle- and polygon-based abstraction without sacrificing on the semantics of subjects in the picture.
 {: #proj-description}
-{: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
 
