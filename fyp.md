@@ -6,28 +6,37 @@ permalink: /research/fyp/
 ---
 {% include nav-research.html  %}
 
-## Final Year Projects for 2020/2021
+## Past Final Year Projects (2021-2023)
 
-The following are projects to be offered for undergraduate FYPs for the upcoming academic session. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (**hot-desks** are provided at the lab, but subject to availability). 
+The following are example of completed FYP projects for the last two years:
+ <!-- The following are projects to be offered for undergraduate FYPs for the upcoming academic session. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (**hot-desks** are provided at the lab, but subject to availability).  -->
   
 **Dr. Wong Lai Kuan**
 - Joint Prediction of Technical and Aesthetics Image Quality
-- Content-driven Image Enhancement SDK with An Application Interface
 - Context-Aware Image Emotion Prediction
+- Image Dehazing With Contextualized Attentive U-Net
+- Image Deraining for Improving Vision Tasks
+- PhotoViewRec: A Machine Learning Model for Recommending Photographic View with Good Composition
 - DECOVID-CXR-II: A multimodal AI model for severity assessment of COVID-19 Infection using Chest X-Rays
 - DECOVID-CT-II: A multimodal deep learning model for severity assessment of COVID-19 Infection using CT Scan
-- PhotoViewRec: A Machine Learning Model for Recommending Photographic View with Good Composition
+- Histopathology Image Classification for Cancer Prognosis using CNN and Transformer
 
 **Dr. Loh Yuen Peng**
-- Leaf Images Synthesis- 
+- Leaf Images Synthesis
+- Leaf Images Synthesis: Feature-to-Pixel Translation
 - Plant Disease Classification
 - Object Recognition in Low-light Images
+- Illumination-aware Low-light Image Enhancement
 - Dashboard Camera View Vehicle License Plate Recognition and Compliance Verification
+- Satellite View Semantic Scene Understanding
+- Street View Image Context Classification
+- Scene Text Detection
 
 **Dr. Pee Chih Yang**
 - Moment based Handwritten Signature Verification System
 - Moment based Leaf classification System
 - Plant Disease Assessment using Deep Learning
+- Segmentation and Recognition of Plant Disease Leaf in A Complex Environment using a Deep Learning Approach
 
 **Mr. Albert Quek**
 - Virtual Reality Application Treatment for Trypanophobia
