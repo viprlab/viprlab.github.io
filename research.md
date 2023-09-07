@@ -29,7 +29,7 @@ Plant taxonomy is a field of identification, description, and recording of plant
 {% include clearfloat.html prevfloat="left" %}
 
 ### Deep learning with Krawtchouk moment for plant condition assessment
-{% include imagethumbnailblock.html align="left" url="/images/krawtchouk_plant.png" width="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/robotic_ssd2.png" height="110px" padding="bottom" %}
 Agriculture sector often suffers great losses due to plant diseases. Image-based classification of plant diseases holds potential for
 early plant disease detection. However, automatic plant condition detection faces many challenges associated with large variations of visual symptoms, background and illumination. In this work, we proposed a moment-based Deep Neural Network (DNN) that utilizes our improved, high discriminative Krawtchouk moments for improving plant condition classification. 
 {: #proj-description}
@@ -42,7 +42,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 {% include clearfloat.html prevfloat="left" %}
 
 ### Modelling Image Emotion
-{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" width="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="110px" padding="right" %}
 Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
@@ -83,7 +83,7 @@ With the recent availability of stereoscopic displays such as 3D monitor, 3D tel
 {% include clearfloat.html prevfloat="left" %}
 
 ### Long-term Video Surveillance (LoViS)
-{% include imagethumbnailblock.html align="left" url="/images/lovis.png" width="120px" height="120px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/lovis.png" width="120px" height="120px"padding="right" %}
 In a long-term period, video surveillance takes on a different perspective. Habitual behaviors of people or permanent changes to objects can be observed while anomalous "out-of-norm" variations can also be traced. We investigate how these variational patterns can be extracted over a long period of time to gain a high-level understanding of various factors at play.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
@@ -94,7 +94,7 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 
 ### External (Industry-funded)
 - **Comprehensive Steel Surface Defect Detection using Deep Neural Network**{:.hilite}, 2023-**Ongoing**{:.marker}, MMU-Aimflex Collaboration, PI: Wong Lai Kuan
-- **AI Technologies for Visual and Textual Media**{:.hilite}, 2020-**Ongoing**{:.marker}, MMU-Astro Collaboration, PI: Goh Hui Ngo
+- **AI Technologies for Visual and Textual Media**{:.hilite}, 2020-2023 {:.marker}, MMU-Astro Collaboration, PI: Goh Hui Ngo
 - **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-2022{:.marker}, MMU-123RF Collaboration, PI: Wong Lai Kuan
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
 
