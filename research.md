@@ -107,7 +107,7 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 - **Multi-scale Object Behaviour Recognition in Complex Videos**{:.hilite}, **2017-2019, One Belt One Road Initiative Young Scholar Exchange Grant, Co-PI: John See
 - **Novel Methods for Spotting and Recognition of Spontaneous Facial Micro-Expressions from Naturalistic Situations**{:.hilite}, 2016-2019, MOHE FRGS Grant, PI: John See
 - **Visual Recognition of Human Activities using Spatio-temporal Information for Low Quality Surveillance Video**{:.hilite}, 2014-2016, MOHE FRGS Grant, PI: John See
-- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant
+- **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant, PI: Wong Lai Kuan
 
 ### Internal
 - **Intelligent Breast Morphometry Prediction Framework for Peroperative Surgical Planning**{:.hilite}, 2022-2023, IR Fund, PI: Wong Lai Kuan
