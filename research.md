@@ -42,7 +42,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 {% include clearfloat.html prevfloat="left" %}
 
 ### Modelling Image Emotion
-{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="80px" padding="bottom" %}
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="100px" padding="bottom" %}
 Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
