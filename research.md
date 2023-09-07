@@ -35,6 +35,7 @@ early plant disease detection. However, automatic plant condition detection face
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
+
 ### Large-scale Aesthetic Evaluation of Photographs (LAttE)
 {% include imagethumbnailblock.html align="left" url="/images/aesthetics.png" height="120px" padding="right" %}
 Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
@@ -42,7 +43,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 {% include clearfloat.html prevfloat="left" %}
 
 ### Modelling Image Emotion
-{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="110px" padding="right" %}
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="110px" padding="bottom" %}
 Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
