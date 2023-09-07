@@ -11,7 +11,7 @@ permalink: /research/
 We have a number of funded and non-funded projects which are currently on-going.
 
 ### New Framework for Modeling Concurrent Low-light Image Enhancement and Object Classification with Deep Neural Networks
-{% include imagethumbnailblock.html align="left" url="/images/lowlight_objdetection.png" height="140px" padding="bottom" %}
+{% include imagethumbnailblock.html align="left" url="/images/lowlight_objdetection.png" height="130px" padding="bottom" %}
 Object classification models based on deep learning has contributed to large scale deployments of intelligent vision systems for various practical applications. However, when such models are faced with low-light environments, their performance noticeably drop. This project aims to investigate and gain insights on the effects of low-light conditions on convolutional neural network models as well as to formulate a CNN architecture for simultaneous modelling of low-light image enhancement and object classification. 
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
