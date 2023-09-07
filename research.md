@@ -42,7 +42,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 {% include clearfloat.html prevfloat="left" %}
 
 ### Modelling Image Emotion
-{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="90px" padding="bottom" %}
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="80px" padding="bottom" %}
 Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
@@ -110,10 +110,10 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 - **Aesthetics-driven Stereoscopic Image Enhancement Algorithms for Better 3D Experience**{:.hilite}, 2013-2015, MOHE FRGS Grant
 
 ### Internal
-- **Intelligent Breast Morphometry Prediction Framework for Peroperative Surgical Planning**{.hilite}, 2022-2023, IR Fund, PI: Wong Lai Kuan
-- **Filling in the taxonomic gap in botany through plant image synthesis**{.hilite}, 2021-2022, IR Fund, PI: Loh Yuen Peng
-- **High discriminative discrete Krawtchouk moment invariants**{.hilite}, 2021-2022, IR Fund, PI: Pee Chih Yang
-- **Low-light Image Enhancement and Recognition**{.hilite}, 2019-2020, Mini Fund, PI: Loh Yuen Peng
+- **Intelligent Breast Morphometry Prediction Framework for Peroperative Surgical Planning**{:.hilite}, 2022-2023, IR Fund, PI: Wong Lai Kuan
+- **Filling in the taxonomic gap in botany through plant image synthesis**{:.hilite}, 2021-2022, IR Fund, PI: Loh Yuen Peng
+- **High discriminative discrete Krawtchouk moment invariants**{:.hilite}, 2021-2022, IR Fund, PI: Pee Chih Yang
+- **Low-light Image Enhancement and Recognition**{:.hilite}, 2019-2020, Mini Fund, PI: Loh Yuen Peng
 - **Immersive Data Visualization using Virtual Reality**{:.hilite}, 2019-2020, Mini Fund, PI: Albert Quek
 - **Semi-supervised, Aesthetics-driven Image Recomposition Using Generative Adversarial Model**{:.hilite},
 2018-2019, Mini Fund, PI: Wong Lai Kuan
