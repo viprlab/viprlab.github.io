@@ -11,7 +11,6 @@ permalink: /research/
 We have a number of funded and non-funded projects which are currently on-going.
 
 ### New Framework for Modeling Concurrent Low-light Image Enhancement and Object Classification with Deep Neural Networks
-
 {% include imagethumbnailblock.html align="left" url="/images/lowlight_objdetection.png" height="180px" padding="bottom" %}
 Object classification models based on deep learning has contributed to large scale deployments of intelligent vision systems for various practical applications. However, when such models are faced with low-light environments, their performance noticeably drop. This project aims to investigate and gain insights on the effects of low-light conditions on convolutional neural network models as well as to formulate a CNN architecture for simultaneous modelling of low-light image enhancement and object classification. 
 {: #proj-description}
@@ -36,7 +35,6 @@ Abby Low, Ng Ruisheng, Wong Lai Kuan, John See
 {% include imagethumbnailblock.html align="left" url="/images/polyart.jpg" height="120px" padding="bottom" %}
 Automatic geometric abstraction which is a process of transforming an image into geometric art has widespread use in image editing and artistic synthesis. While existing methods yield unwanted distortions, are less subject-focused and even computationally expensive, we seek to design straightforward, non-learning algorithms which can support both triangle- and polygon-based abstraction without sacrificing on the semantics of subjects in the picture.
 {: #proj-description}
-Abby Low, Ng Ruisheng, Wong Lai Kuan, John See
 {: #proj-members}
 {% include clearfloat.html prevfloat="left" %}
 
