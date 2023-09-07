@@ -37,11 +37,13 @@ Research in ViPr Lab focuses on the processing, analysis and understanding of vi
 We work on a wide variety of research areas, particularly in the following specific topics:
 
 {% include imagethumbnailblock.html url="images/aesthetics.jpg" caption="Computational Aesthetics" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/emotion.png" caption="Modelling Image Emotion" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/restoration.png" caption="Visual Enhancement and Restoration" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/botany.png" caption="Computational Botany" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/plant_disease.png" caption="Plant Disease Assessment" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/oculusrift.jpg" caption="VR & Gestures" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/game.jpg" caption="Game Research" width="120px" height="120px"  %}
 
