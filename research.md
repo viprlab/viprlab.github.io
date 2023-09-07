@@ -10,8 +10,8 @@ permalink: /research/
 
 We have a number of funded and non-funded projects which are currently on-going.
 
-***3D Semantic Scene Completion for Improving Robotic Scene Understanding**
-{% include imagethumbnailblock.html align="left" url="/images/robotic_ssd.png" height="110px" padding="bottom" %}
+### 3D Semantic Scene Completion for Improving Robotic Scene Understanding
+{% include imagethumbnailblock.html align="left" url="/images/robotic_ssd2.png" height="110px" padding="bottom" %}
 3D scene understanding is crucial for many AI applications, including robotic navigation. Due to limited field of view and sparse sensing, vision sensors suffer massive occlusion in cluttered environments, resulting in the captured scene representation being incomplete. To capacitate better 3D scene understanding, research on semantic scene completion (SSC), which aims to estimate the complete scene geometry and semantics simultaneously, is gaining much recent research interest. However, SSC is a highly challenging task and the performance of state-of-the-art methods still suffers in real-world data settings. To address the aforementioned limitations, this project aims to design novel  SSC models that can perform 3D scene occupancy prediction and semantic scene segmentation simultaneously.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
@@ -28,6 +28,25 @@ Plant taxonomy is a field of identification, description, and recording of plant
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
+### Deep learning with Krawtchouk moment for plant condition assessment
+{% include imagethumbnailblock.html align="left" url="/images/krawtchouk_plant.png" width="120px" height="120px" padding="right" %}
+Agriculture sector often suffers great losses due to plant diseases. Image-based classification of plant diseases holds potential for
+early plant disease detection. However, automatic plant condition detection faces many challenges associated with large variations of visual symptoms, background and illumination. In this work, we proposed a moment-based Deep Neural Network (DNN) that utilizes our improved, high discriminative Krawtchouk moments for improving plant condition classification. 
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
+### Large-scale Aesthetic Evaluation of Photographs (LAttE)
+{% include imagethumbnailblock.html align="left" url="/images/latte.jpg" width="120px" height="120px" padding="right" %}
+Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
+### Modelling Image Emotion
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" width="120px" height="120px" padding="right" %}
+Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
+
 ---
 
 ## Past Projects
@@ -36,13 +55,6 @@ Plant taxonomy is a field of identification, description, and recording of plant
 ### Generation of Polygonal Geometric Art
 {% include imagethumbnailblock.html align="left" url="/images/polyart.jpg" height="120px" padding="bottom" %}
 Automatic geometric abstraction which is a process of transforming an image into geometric art has widespread use in image editing and artistic synthesis. While existing methods yield unwanted distortions, are less subject-focused and even computationally expensive, we seek to design straightforward, non-learning algorithms which can support both triangle- and polygon-based abstraction without sacrificing on the semantics of subjects in the picture.
-{: #proj-description}
-{% include clearfloat.html prevfloat="left" %}
-
-
-### Large-scale Aesthetic Evaluation of Photographs (LAttE)
-{% include imagethumbnailblock.html align="left" url="/images/latte.jpg" width="120px" height="120px" padding="right" %}
-Image aesthetic evaluation is a research field which aims to design computationally-driven methods which can automatically rate or predict the perceived aesthetic quality of an image or photograph by learning from image content, photographic rules and other semantic information. We investigate how features can be learned in an unsupervised manner as opposed to traditional hand-crafted rules, and design new deep learning architectures to evaluate the aesthetic beauty of photographs.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
