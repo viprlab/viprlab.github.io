@@ -16,13 +16,6 @@ We have a number of funded and non-funded projects which are currently on-going.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-### Deep learning with Krawtchouk moment for plant condition assessment
-{% include imagethumbnailblock.html align="left" url="/images/robotic_ssd2.png" height="110px" padding="bottom" %}
-Agriculture sector often suffers great losses due to plant diseases. Image-based classification of plant diseases holds potential for
-early plant disease detection. However, automatic plant condition detection faces many challenges associated with large variations of visual symptoms, background and illumination. In this work, we proposed a moment-based Deep Neural Network (DNN) that utilizes our improved, high discriminative Krawtchouk moments for improving plant condition classification. 
-{: #proj-description}
-{% include clearfloat.html prevfloat="left" %}
-
 ### New Framework for Modeling Concurrent Low-light Image Enhancement and Object Classification with Deep Neural Networks
 {% include imagethumbnailblock.html align="left" url="/images/lowlight_objdetection.png" height="110px" padding="bottom" %}
 Object classification models based on deep learning has contributed to large scale deployments of intelligent vision systems for various practical applications. However, when such models are faced with low-light environments, their performance noticeably drop. This project aims to investigate and gain insights on the effects of low-light conditions on convolutional neural network models as well as to formulate a CNN architecture for simultaneous modelling of low-light image enhancement and object classification. 
@@ -35,7 +28,12 @@ Plant taxonomy is a field of identification, description, and recording of plant
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
 
-
+### Deep learning with Krawtchouk moment for plant condition assessment
+{% include imagethumbnailblock.html align="left" url="/images/krawtchouk_plant.png" height="110px" padding="bottom" %}
+Agriculture sector often suffers great losses due to plant diseases. Image-based classification of plant diseases holds potential for
+early plant disease detection. However, automatic plant condition detection faces many challenges associated with large variations of visual symptoms, background and illumination. In this work, we proposed a moment-based Deep Neural Network (DNN) that utilizes our improved, high discriminative Krawtchouk moments for improving plant condition classification. 
+{: #proj-description}
+{% include clearfloat.html prevfloat="left" %}
 
 ### Large-scale Aesthetic Evaluation of Photographs (LAttE)
 {% include imagethumbnailblock.html align="left" url="/images/aesthetics.png" height="120px" padding="right" %}
@@ -44,7 +42,7 @@ Image aesthetic evaluation is a research field which aims to design computationa
 {% include clearfloat.html prevfloat="left" %}
 
 ### Modelling Image Emotion
-{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="110px" padding="bottom" %}
+{% include imagethumbnailblock.html align="left" url="/images/image2emo.png" height="90px" padding="bottom" %}
 Teaching machines to comprehend the nuances of emotion from photographs is a particularly challenging task. Emotion perception— naturally a subjective problem, is often simplified for computational purposes into categorical states or valence-arousal dimensional space, the latter being a lesser-explored problem in the literature. This project aims to study the relationship between an image and the emotion that it arouses, and to train deep learning models that can perform both categorical and dimensional emotion prediction from images.
 {: #proj-description}
 {% include clearfloat.html prevfloat="left" %}
