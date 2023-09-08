@@ -95,7 +95,7 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 ### External (Industry-funded)
 - **Comprehensive Steel Surface Defect Detection using Deep Neural Network**{:.hilite}, 2023-**Ongoing**{:.marker}, MMU-Aimflex Collaboration, PI: Wong Lai Kuan
 - **AI Technologies for Visual and Textual Media**{:.hilite}, 2020-2023 {:.marker}, MMU-Astro Collaboration, PI: Goh Hui Ngo
-- **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-2022{:.marker}, MMU-123RF Collaboration, PI: Wong Lai Kuan
+- **Automatic Enhancement of Photographs for Improved Aesthetics Quality**{:.hilite}, 2020-2022, MMU-123RF Collaboration, PI: Wong Lai Kuan
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
 
 ### External (Government/Institutional-funded)
