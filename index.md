@@ -40,7 +40,8 @@ We work on a wide variety of research areas, particularly in the following speci
 {% include imagethumbnailblock.html url="images/emotion.png" caption="Modelling Image Emotion" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/restoration.png" caption="Visual Enhancement and Restoration" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/botany.png" caption="Computational Botany" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="images/plant_disease.png" caption="Plant Disease Assessment" width="120px" height="120px"  %}
+{% include imagethumbnailblo
+ck.html url="images/plant_disease.png" caption="Plant Disease Assessment" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" width="120px" height="120px"  %}
@@ -49,6 +50,15 @@ We work on a wide variety of research areas, particularly in the following speci
 
 ## News
 
+ - date: 09/2023
+     info: 7 PG/FYP students are accepted as student volunteers for the ICIP 2023, a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to Choo Hui, Wei Jie, Jia Qi, Wei Xiong, Choon Chen, Jiun Yen, and Owis! 
+- date: 09/2023
+     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contex-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students Choo Hui, Wei Jie, Jia Qi and Sidharrth!"
+     info: WJ Lim joins [Chung Cheng University] (https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
+ - date: 08/2023
+     info: Dr. Pee, Dr. Loh and Dr. Wong received MMU Publication Awards for the publication of their papers in top-tiered Q1 and Q2 journals. Congratulations! 
+ - date: 06/2023
+     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contex-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students Choo Hui, Wei Jie, Jia Qi and Sidharrth!"
 {% include news.html %}
 
 ## Prospective Students
