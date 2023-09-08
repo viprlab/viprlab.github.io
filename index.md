@@ -87,5 +87,5 @@ Please see our [this page](/research/jobs/) for news on vacancies!
 [Dr. Loh Yuen Peng]: mailto:yploh@mmu.edu.my
 [Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my
 [Dr. Pee Chih Yang]: mailto:cypee@mmu.edu.my
-[Dr. Albert Quek]: mailto:quek.albert@mmu.edu.my
+[Mr. Albert Quek]: mailto:quek.albert@mmu.edu.my
 
