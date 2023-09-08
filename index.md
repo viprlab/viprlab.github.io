@@ -40,8 +40,7 @@ We work on a wide variety of research areas, particularly in the following speci
 {% include imagethumbnailblock.html url="images/emotion.png" caption="Modelling Image Emotion" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/restoration.png" caption="Visual Enhancement and Restoration" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/botany.png" caption="Computational Botany" width="120px" height="120px"  %}
-{% include imagethumbnailblo
-ck.html url="images/plant_disease.png" caption="Plant Disease Assessment" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="images/plant_disease.png" caption="Plant Disease Assessment" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/composition.jpg" caption="Stereo Retargeting and Recomposition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/activityrecog.jpg" caption="Activity/Event Recognition" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="images/surveillance.jpg" caption="Video Surveillance" width="120px" height="120px"  %}
