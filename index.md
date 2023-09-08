@@ -3,10 +3,23 @@ layout: page
 title:
 permalink: /
 news:
-   - date: 05/2021
-     info: "We have **two** papers accepted to [ICIP 2021](https://www.2021.ieeeicip.org/) on aesthetics captioning and micro-expression spotting."
-   - date: 04/2021
-     info: [Dr. John See](https://john-see.github.io) will remain as an Associate Member of this lab, as he takes on a new role at Heriot-Watt University Malaysia."
+
+- date: 09/2023
+     info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to CH Tan, WJ Lim, JQ Tan, WX Loo, CC Lim, JY Ching, and Owis Kweder! 
+- date: 09/2023
+     info: WJ Lim will join [Chung Cheng University](https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship in October 2023 under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
+ - date: 08/2023
+     info: Dr. Pee, Dr. Loh and Dr. Wong received MMU Publication Awards for the publication of their papers in top-tiered Q1 and Q2 journals. Congratulations! 
+ - date: 07/2023
+     info: CH Tan and WJ Lim received Best Project Award (Data Science Specialisation) on the FYP Poster Presentation Day. Congratulations! 
+ - date: 06/2023
+     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on context-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students CH Tan, WJ Lim, JQ Tan and Sidharrth!"
+ - date: 12/2023
+     info: "We have **one** paper accepted to [ACM Multimedia Asia 2022](https://www.mmasia2022.org/) on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
+#   - date: 05/2021
+#     info: "We have **two** papers accepted to [ICIP 2021](https://www.2021.ieeeicip.org/) on aesthetics captioning and micro-expression spotting."
+#   - date: 04/2021
+#     info: [Dr. John See](https://john-see.github.io) will remain as an Associate Member of this lab, as he takes on a new role at Heriot-Watt University Malaysia."
 #   - date: 2017-05-31
 #     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)!
 #   - date: 2017-03-15
@@ -49,18 +62,17 @@ We work on a wide variety of research areas, particularly in the following speci
 
 ## News
 
+- 09/2023: **Seven** PG/FYP students are accepted as **Student Volunteers** for the **30th IEEE International Conference on Image Processing [ICIP 2023](https://www.2023.ieeeicip.org/)**, a flagship international image processing conference held in Malaysia for the first time at KLCC Convention Center. Congratulations to CH Tan, WJ Lim, JQ Tan, WX Loo, CC Lim, JY Ching, and Owis Kweder! 
 - date: 09/2023
-     info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to CH Tan, WJ Lim, JQ Tan, WX Loo, CC Lim, JY Ching, and Owis Kweder! 
-- date: 09/2023
-     info: WJ Lim will join [Chung Cheng University] (https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship in October 2023 under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
+     info: WJ Lim will join [Chung Cheng University](https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship in October 2023 under the **Taiwan Experience Education Program (TEEP)** offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
  - date: 08/2023
-     info: Dr. Pee, Dr. Loh and Dr. Wong received MMU Publication Awards for the publication of their papers in top-tiered Q1 and Q2 journals. Congratulations! 
+     info: Dr. Pee, Dr. Loh and Dr. Wong received **MMU Publication Awards** for the publication of their papers in reputatable Q1 and Q2 journals. Congratulations! 
  - date: 07/2023
-     info: CH Tan and WJ Lim received Best Project Award (Data Science Specialisation) on the FYP Poster Presentation Day. Congratulations! 
+     info: CH Tan and WJ Lim received **Best Project Award (Data Science Specialisation)** on the FYP Poster Presentation Day. Congratulations! 
  - date: 06/2023
-     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contexr-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students CH Tan, WJ Lim, JQ Tan and Sidharrth!"
+     info: "We have **two** papers accepted to **[ICIP 2023](https://www.2023.ieeeicip.org/)** on context-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students CH Tan, WJ Lim, JQ Tan and Sidharrth!"
  - date: 12/2023
-     info: "We have **one** paper accepted to [ACM Multimedia Asia 2022](https://www.2023.ieeeicip.org/](https://www.mmasia2022.org/) on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
+     info: "We have **one** paper accepted to **[ACM Multimedia Asia 2022](https://www.mmasia2022.org/)** on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
 {% include news.html %}
 
 ## Prospective Students
