@@ -74,7 +74,7 @@ We work on a wide variety of research areas, particularly in the following speci
   
 ## Prospective Students
 
-We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. Wong Lai Kuan], [Dr. Loh Yuen Peng] or [Dr. Pee Chih Yang]) if you have any enquiries about our research or would like to join us.
+We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. Wong Lai Kuan], [Dr. Loh Yuen Peng], [Dr. Pee Chih Yang] or [Mr. Albert Quek]) if you have any enquiries about our research or would like to join us.
 
 Undergraduate students can also be part of the group by joining us on voluntary projects or on part-time appointment via research funding.
 
@@ -87,3 +87,5 @@ Please see our [this page](/research/jobs/) for news on vacancies!
 [Dr. Loh Yuen Peng]: mailto:yploh@mmu.edu.my
 [Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my
 [Dr. Pee Chih Yang]: mailto:cypee@mmu.edu.my
+[Dr. Albert Quek]: mailto:quek.albert@mmu.edu.my
+
