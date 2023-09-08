@@ -76,6 +76,8 @@ We work on a wide variety of research areas, particularly in the following speci
 {% include news.html %}
 - date: 12/2023
      info: JQ Tan joins [Chung Cheng University](https://www.ccu.edu.tw/?Lang=en), Taiwan for 6-month **TEEP@Asia Plus Research Internship** in December 2022 under the supervision of Assoc. Prof. Rachel Chiang.
+- date: 10/2023
+     info: WX Loo joins [Singapore Management University (SMU)](https://scis.smu.edu.sg/), Singapore for 6-month research internship under the supervision of Prof. Chong Wah, Ngo.
   
 ## Prospective Students
 
