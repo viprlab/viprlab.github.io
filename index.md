@@ -50,11 +50,10 @@ ck.html url="images/plant_disease.png" caption="Plant Disease Assessment" width=
 
 ## News
 
- - date: 09/2023
-     info: 7 PG/FYP students are accepted as student volunteers for the ICIP 2023, a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to Choo Hui, Wei Jie, Jia Qi, Wei Xiong, Choon Chen, Jiun Yen, and Owis! 
 - date: 09/2023
-     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contex-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students Choo Hui, Wei Jie, Jia Qi and Sidharrth!"
-     info: WJ Lim joins [Chung Cheng University] (https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
+     info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to Choo Hui, Wei Jie, Jia Qi, Wei Xiong, Choon Chen, Jiun Yen, and Owis! 
+- date: 09/2023
+     info: WJ Lim will join [Chung Cheng University] (https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship in October 2023 under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
  - date: 08/2023
      info: Dr. Pee, Dr. Loh and Dr. Wong received MMU Publication Awards for the publication of their papers in top-tiered Q1 and Q2 journals. Congratulations! 
  - date: 06/2023
