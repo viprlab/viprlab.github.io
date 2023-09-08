@@ -56,13 +56,13 @@ ck.html url="images/plant_disease.png" caption="Plant Disease Assessment" width=
      info: WJ Lim will join [Chung Cheng University] (https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship in October 2023 under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
  - date: 08/2023
      info: Dr. Pee, Dr. Loh and Dr. Wong received MMU Publication Awards for the publication of their papers in top-tiered Q1 and Q2 journals. Congratulations! 
+ - date: 07/2023
+     info: CH Tan and WJ Lim received Best Project Award (Data Science Specialisation) on the FYP Poster Presentation Day. Congratulations! 
  - date: 06/2023
      info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contexr-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students CH Tan, WJ Lim, JQ Tan and Sidharrth!"
-{% include news.html %}
  - date: 12/2023
      info: "We have **one** paper accepted to [ACM Multimedia Asia 2022](https://www.2023.ieeeicip.org/](https://www.mmasia2022.org/) on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
 {% include news.html %}
-
 
 ## Prospective Students
 
