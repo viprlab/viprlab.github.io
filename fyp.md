@@ -17,8 +17,8 @@ The following are example of completed FYP projects for the last two years:
 - Image Dehazing With Contextualized Attentive U-Net
 - Image Deraining for Improving Object Detection
 - PhotoViewRec: A Machine Learning Model for Recommending Photographic View with Good Composition
-- DECOVID-CXR-II: A multimodal AI model for severity assessment of COVID-19 Infection using Chest X-Rays
-- DECOVID-CT-II: A multimodal deep learning model for severity assessment of COVID-19 Infection using CT Scan
+- DECOVID-CXR: Deep learning model for classification and severity assessment of COVID-19 Infection using Chest X-Rays
+- DECOVID-CT: Deep learning model for classification and severity assessment of COVID-19 Infection using CT Scan
 - Histopathology Image Classification for Cancer Prognosis using CNN and Transformer
 
 **Dr. Loh Yuen Peng**
