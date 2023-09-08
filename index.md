@@ -67,10 +67,10 @@ We work on a wide variety of research areas, particularly in the following speci
  - 08/2023: Dr. Pee, Dr. Loh and Dr. Wong received **MMU Publication Awards** for the publication of their papers in reputatable Q1 and Q2 journals. Congratulations! 
  - 07/2023: CH Tan and WJ Lim received **Best Project Award (Data Science Specialisation)** on the FYP Poster Presentation Day. Congratulations! 
  - 06/2023: "We have **two** papers accepted to **[ICIP 2023](https://www.2023.ieeeicip.org/)** on context-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students CH Tan, WJ Lim, JQ Tan and Sidharrth!"
- - 12/2023: "We have **one** paper accepted to **[ACM Multimedia Asia 2022](https://www.mmasia2022.org/)** on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
+ - 12/2022: "We have **one** paper accepted to **[ACM Multimedia Asia 2022](https://www.mmasia2022.org/)** on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
 {% include news.html %}
-- 12/2023: JQ Tan joins **[Chung Cheng University](https://www.ccu.edu.tw/?Lang=en), Taiwan** for 6-month **TEEP@Asia Plus Research Internship** in December 2022 under the supervision of Assoc. Prof. Rachel Chiang.
-- 10/2023: WX Loo joins **[Singapore Management University (SMU)](https://scis.smu.edu.sg/), Singapore** for 6-month research internship under the supervision of Prof. Chong Wah, Ngo.
+- 12/2022: JQ Tan joins **[Chung Cheng University](https://www.ccu.edu.tw/?Lang=en), Taiwan** for 6-month **TEEP@Asia Plus Research Internship** in December 2022 under the supervision of Assoc. Prof. Rachel Chiang.
+- 10/2022: WX Loo joins **[Singapore Management University (SMU)](https://scis.smu.edu.sg/), Singapore** for 6-month research internship under the supervision of Prof. Chong Wah, Ngo.
   
 ## Prospective Students
 
