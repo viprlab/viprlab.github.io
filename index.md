@@ -51,14 +51,18 @@ ck.html url="images/plant_disease.png" caption="Plant Disease Assessment" width=
 ## News
 
 - date: 09/2023
-     info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to Choo Hui, Wei Jie, Jia Qi, Wei Xiong, Choon Chen, Jiun Yen, and Owis! 
+     info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to CH Tan, WJ Lim, JQ Tan, WX Loo, CC Lim, JY Ching, and Owis Kweder! 
 - date: 09/2023
      info: WJ Lim will join [Chung Cheng University] (https://www.ccu.edu.tw/?Lang=en), Taiwan for 5-month research internship in October 2023 under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Hsiang-Chen Wang](https://deptime.ccu.edu.tw/p/405-1102-22900,c2239.php?Lang=en)
  - date: 08/2023
      info: Dr. Pee, Dr. Loh and Dr. Wong received MMU Publication Awards for the publication of their papers in top-tiered Q1 and Q2 journals. Congratulations! 
  - date: 06/2023
-     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contex-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students Choo Hui, Wei Jie, Jia Qi and Sidharrth!"
+     info: "We have **two** papers accepted to [ICIP 2023](https://www.2023.ieeeicip.org/) on contexr-aware emotion prediction and digital pathology. Congratulations to our RA/FYP Students CH Tan, WJ Lim, JQ Tan and Sidharrth!"
 {% include news.html %}
+ - date: 12/2023
+     info: "We have **one** paper accepted to [ACM Multimedia Asia 2022](https://www.2023.ieeeicip.org/](https://www.mmasia2022.org/) on low light object detection. Congratulations to our FYP Students WT Lim and Kelvin Ang!"
+{% include news.html %}
+
 
 ## Prospective Students
 
