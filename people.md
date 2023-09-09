@@ -11,7 +11,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/yploh.jpg" caption="Loh Yuen Peng" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/cypee.jpg" caption="Pee Chih Yang" width="100px" height="120px" %}
 
-## Postgraduates{% include imagethumbnailblock.html url="/images/cctoh.jpg" caption="Toh Cheng Chuan" caption2="Ph.D student" width="120px" height="120px"  %}
+## Postgraduates
 
 {% include imagethumbnailblock.html url="/images/kwban.jpg" caption="Ban Kar Weng" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/nelsonchong.jpg" caption="Nelson Chong" caption2="M.Sc student" width="120px" height="120px"  %}
