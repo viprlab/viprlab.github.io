@@ -27,9 +27,8 @@ permalink: /people/
 ## Research Assistants / Project Developers
 {% include imagethumbnailblock.html url="/images/nerogan.jpg" caption="Gan Chee Yong" caption2="Project Developer" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/leeyc.jpg" caption="Lee Yew Chun" caption2="Project Developer" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/sidharrthnagappan.jpg" caption="Sidharrth Nagappan" caption2="Research Assistant" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/limweijie.jpg" caption="Lim Wei Jie" caption2="Research Assistant" width="120px" height="120px"  %}
-
+{% include imagethumbnailblock.html url="/images/sidharrthnagappan.jpg" caption="Sidharrth Nagappan" caption2="Research Assistant" width="120px" height="120px"  %}
 
 ## Associate Members
 {% include imagethumbnailblock.html url="/images/johnsee.jpg" caption="John See" caption2="Heriot-Watt University (Malaysia)" width="120px" height="120px"  %}
