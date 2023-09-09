@@ -49,8 +49,8 @@ permalink: /people/
 ### Local
 - [Chan Chee Seng](http://web.fsktm.um.edu.my/~cschan/){:target="_blank"} (FSKTM, Universiti Malaya)
 - [Ong Sim Ying](https://umexpert.um.edu.my/simying-ong.html){:target="_blank"} (FSKTM, Universiti Malaya)
-- [Ng Kwan Hoong](https://umexpert.um.edu.my/ngkh){:target="_blank"} (FSKTM, Universiti Malaya)
-- [See Mee Hoong](https://umexpert.um.edu.my/smhoong76){:target="_blank"} (FSKTM, Universiti Malaya)
+- [Ng Kwan Hoong](https://umexpert.um.edu.my/ngkh){:target="_blank"} (Department of Biomedical Imaging, Faculty of Medicine, Universiti Malaya)
+- [See Mee Hoong](https://umexpert.um.edu.my/smhoong76){:target="_blank"} (Department of Surgery, Faculty of Medicine, Universiti Malaya)
 - [Lau Karn-Hwa](https://www.aimflex.com.my/senior-management.html){:target="_blank"}  (Aimflex Bhd)
 
 ### International
