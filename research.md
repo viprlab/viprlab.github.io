@@ -99,7 +99,7 @@ In a long-term period, video surveillance takes on a different perspective. Habi
 - **SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities**{:.hilite}, 2016-2018, TM R&D Fund, PI: John See
 
 ### External (Government/Institutional-funded)
-- **3D Semantic Scene Completion via Novel Lightweight CNN-Transformer for Improving Robotic Scene Understandingt**{:.hilite}, 2023-**Ongoing**{:.marker}, MMU-NTU-Heriot Watt-iRadar Collaboration, PI: Wong Lai Kuan
+- **3D Semantic Scene Completion via Novel Lightweight CNN-Transformer for Improving Robotic Scene Understanding**{:.hilite}, 2023-**Ongoing**{:.marker}, MMU-NTU-Heriot Watt-iRadar Collaboration, PI: Wong Lai Kuan
 - **Formulation of high discriminative discrete Krawtchouk moment invariants with Deep Neural Network learning model for plant condition assessment**{:.hilite}, 2021-**Ongoing**{:.marker}, MMU-Poladrone Collaboration, PI: Pee Chih Yang
 - **New Framework for Modeling Concurrent Low-light Image Enhancement and Object Classification with Deep Neural Networks**{:.hilite}, 2021-**Ongoing**{:.marker}, MMU-NCTU, Taiwan, PI: Loh Yuen Peng
 - **Player-Dependent Predictive Modeling for Automated Tactical Analysis of Badminton Videos**{:.hilite}, 2019-2022{:.marker}, MOHE FRGS Grant, PI: Ban Kar Weng
