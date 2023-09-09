@@ -18,10 +18,10 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/jyching.jpg" caption="Ching Jiun Yen" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/yongen.jpg" caption="Tan Yong En" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/faiz.jpg" caption="Muhammad Faiz Ghazali" caption2="M.Sc student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/choonchen.jpg" caption="Lim Choon Chen" caption2="Ph.D student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/mingxuan.jpg" caption="Chai Ming Xuan" caption2="M.Sc student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/owis.jpg" caption="Owis Kweder" caption2="M.Sc student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/shaaban.jpg" caption="Shaaban Mohamed Najib" caption2="M.Sc student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/limchoonchen.jpg" caption="Lim Choon Chen" caption2="Ph.D student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/chaimingxuan.jpg" caption="Chai Ming Xuan" caption2="M.Sc student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/owiskweder.jpg" caption="Owis Kweder" caption2="M.Sc student" width="120px" height="120px"  %}
+
 
 
 ## Research Assistants / Project Developers
