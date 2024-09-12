@@ -10,11 +10,11 @@ permalink: /research/fyp/
 The following are projects to be offered for undergraduate FYPs for the upcoming academic session, Trimester 2430. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (**hot-desks** are provided at the lab, but subject to availability). 
 
 **Mr. Albert Quek (quek.albert@mmu.edu.my)**
-1) Augmented Reality Serious Game using Smartphone
-2) Lifestyle Game for Smartphone
-3) Virtual Reality Game for Rehabilitation
-4) Experience based Virtual Reality Game
-5) Gameplay that uses Biometric Data
+* Augmented Reality Serious Game using Smartphone
+* Lifestyle Game for Smartphone
+* Virtual Reality Game for Rehabilitation
+* Experience based Virtual Reality Game
+* Gameplay that uses Biometric Data
 
 **Dr Pee Chih Yang (cypee@mmu.edu.my)**
 1) Plant Disease Classification using Leaf Detection
