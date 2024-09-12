@@ -29,8 +29,8 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 * Industrial Anomaly Detection
 
 **Dr. Wong Lai Kuan (lkwong@mmu.edu.my)**
-* Vision-language Approach for Image quality assessment
-* Vision-language Approach for image emotion recognition (vision-language model)
+* Image Quality Assessment using Vision-Language Approach
+* Image Emotion Recognition using Vision-Language Approach 
 * Aesthetics-driven Image Enhancement
 * Photographic View Recommendation
 * Deep Image Deraining/Dehazing for Improving Object Detection
