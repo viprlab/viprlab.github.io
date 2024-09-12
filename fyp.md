@@ -17,21 +17,21 @@ The following are projects to be offered for undergraduate FYPs for the upcoming
 * Gameplay that uses Biometric Data
 
 **Dr Pee Chih Yang (cypee@mmu.edu.my)**
-1) Plant Disease Classification using Leaf Detection
-2) Semantic Segmentation and Classification of Tropical Satellite Images
-3) Digital Watermarking using Affine Tchebichef Moment Invariant
+* Plant Disease Classification using Leaf Detection
+* Semantic Segmentation and Classification of Tropical Satellite Images
+* Digital Watermarking using Affine Tchebichef Moment Invariant
 
 **Dr Loh Yuen Peng (yploh@mmu.edu.my)**
-1) Low-light Image Enhancement
-2) Sports Assessment using Human Pose Estimation
-3) Plant Image Synthesis
-4) Plant Disease Synthesis
-5) Industrial Anomaly Detection
+* Low-light Image Enhancement
+* Sports Assessment using Human Pose Estimation
+* Plant Image Synthesis
+* Plant Disease Synthesis
+* Industrial Anomaly Detection
 
 **Dr. Wong Lai Kuan (lkwong@mmu.edu.my)**
-1) Vision-language Approach for Image quality assessment
-2) Vision-language Approach for image emotion recognition (vision-language model)
-3) Aesthetics-driven Image Enhancement
-4) Photographic View Recommendation
-5) Deep Image Deraining/Dehazing for Improving Object Detection
-6) Histopathology Image Classification
+* Vision-language Approach for Image quality assessment
+* Vision-language Approach for image emotion recognition (vision-language model)
+* Aesthetics-driven Image Enhancement
+* Photographic View Recommendation
+* Deep Image Deraining/Dehazing for Improving Object Detection
+* Histopathology Image Classification
