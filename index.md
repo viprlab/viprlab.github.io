@@ -3,8 +3,6 @@ layout: page
 title:
 permalink: /
 news:
-- date: 07/2024
-     info: YK Lim will join [Chung Cheng University](https://www.ccu.edu.tw/?Lang=en), Taiwan for 3-month research internship in July 2024 under the Taiwan Experience Education Program (TEEP) offered by Taiwan Government, under the supervision of [Prof. Wen-Nung Lie](https://ee.ccu.edu.tw/p/412-1097-559.php?Lang=en).
 - date: 09/2023
      info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to CH Tan, WJ Lim, JQ Tan, WX Loo, CC Lim, JY Ching, and Owis Kweder! 
 - date: 09/2023
