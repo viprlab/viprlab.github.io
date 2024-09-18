@@ -5,11 +5,11 @@ permalink: /
 news:
 
 - date: 09/2024
-     info: 09/2024: Sidharrth Nagappan, alumni of ViPr Lab, starting the MPhil in Advanced Computer Science programme in University of Cambridge, UK under the full Jardine Scholarship.
+     info: Sidharrth Nagappan, alumni of ViPr Lab, starting the MPhil in Advanced Computer Science programme in University of Cambridge, UK under the full Jardine Scholarship.
 - date: 07/2024
-     info: 07/2024: YK Lim joined Chung Cheng University, Taiwan for 3-month TEEP@Asia Plus Research Internship in July 2024 under the supervision of Prof. Wen-Nung Lie.
+     info: YK Lim joined Chung Cheng University, Taiwan for 3-month TEEP@Asia Plus Research Internship in July 2024 under the supervision of Prof. Wen-Nung Lie.
 - date: 07/2024
-     info: ZX Kheng and X Lim received Best Project Award (Data Science Specialisation) on the FYP Poster Presentation Day. Congratulations! .
+     info: ZX Kheng and X Lim received Best Project Award (Data Science Specialisation) on the FYP Poster Presentation Day. Congratulations!
 - date: 09/2023
      info: 7 PG/FYP students are accepted as Student Volunteers for the [ICIP 2023](https://www.2023.ieeeicip.org/), a flagship international image processing conference, which will be held at KLCC Convention Center. Congratulations to CH Tan, WJ Lim, JQ Tan, WX Loo, CC Lim, JY Ching, and Owis Kweder! 
 - date: 09/2023
