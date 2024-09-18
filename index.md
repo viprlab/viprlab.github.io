@@ -3,7 +3,6 @@ layout: page
 title:
 permalink: /
 news:
-
 - date: 09/2024
      info: Sidharrth Nagappan, alumni of ViPr Lab, starting the MPhil in Advanced Computer Science programme in University of Cambridge, UK under the full Jardine Scholarship.
 - date: 07/2024
