@@ -3,8 +3,7 @@ layout: page
 title:
 permalink: /
 news:
-- date: 09/2024
-     info: Sidharrth Nagappan, alumni of ViPr Lab, starting the MPhil in Advanced Computer Science programme in University of Cambridge, UK under the full Jardine Scholarship.
+
 - date: 07/2024
      info: YK Lim joined Chung Cheng University, Taiwan for 3-month TEEP@Asia Plus Research Internship in July 2024 under the supervision of Prof. Wen-Nung Lie.
 - date: 07/2024
